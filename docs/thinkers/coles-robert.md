@@ -3,7 +3,6 @@ id: coles-robert
 type: thinker
 name: Robert Coles
 born: 1929
-died: 2024
 era: 20th–21st century
 nationality: American
 tags: [psychology, literature, ethics, childhood]

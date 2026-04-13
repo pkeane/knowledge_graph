@@ -6,10 +6,11 @@ set -euo pipefail
 cd "$(dirname "$0")/.."
 
 ./venv/bin/python scripts/build_site.py
+./venv/bin/python scripts/build_values_review.py
 
-if ! git diff --quiet -- site || ! git diff --cached --quiet -- site; then
-  git add site
-  git commit -m "Rebuild site"
+git add -A docs scripts site values-review.md CLAUDE.md README.md .gitignore
+if ! git diff --cached --quiet; then
+  git commit -m "Update knowledge graph"
 fi
 
 git branch -D gh-pages-tmp 2>/dev/null || true
