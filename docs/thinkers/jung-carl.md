@@ -7,9 +7,9 @@ died: 1961
 era: 20th century
 nationality: Swiss
 tags: [psychology, analytical-psychology, religion, symbolism]
-related: [freud-sigmund]
+related: [freud-sigmund, davies-robertson]
 influenced_by: [freud-sigmund]
-influenced: [may-rollo]
+influenced: [may-rollo, davies-robertson]
 ---
 
 # Carl Gustav Jung
