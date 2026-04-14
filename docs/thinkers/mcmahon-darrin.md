@@ -6,7 +6,7 @@ born: 1965
 era: 20th–21st century
 nationality: American
 tags: [intellectual-history, history-of-ideas, enlightenment, equality]
-related: [williams-david-lay, berlin-isaiah, inequality]
+related: [williams-david-lay, milanovic-branko, berlin-isaiah, inequality]
 influenced_by: []
 influenced: []
 ---
