@@ -37,3 +37,9 @@ Her novels — *Mrs Dalloway* (1925), *To the Lighthouse* (1927), *Orlando* (192
 - *The Waves* (1931)
 - *Three Guineas* (1938)
 - *The Common Reader* (1925, 1932)
+
+## Secondary sources
+
+- Hermione Lee, *Virginia Woolf* (1996) — the monumental life; by broad consensus the definitive biography and one of the great literary biographies in English, period.
+- Quentin Bell, *Virginia Woolf: A Biography* (1972) — her nephew's earlier two-volume life; the first authorized biography and still valuable as family memoir.
+- Erich Auerbach, "The Brown Stocking," in *Mimesis* (1946) — the single most famous close reading of *To the Lighthouse*, and one of the great essays on modernist form.

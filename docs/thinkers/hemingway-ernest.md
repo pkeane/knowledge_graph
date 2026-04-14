@@ -36,3 +36,10 @@ His style — short sentences, concrete nouns, minimal interior commentary, a de
 - *For Whom the Bell Tolls* (1940)
 - *The Old Man and the Sea* (1952)
 - *A Moveable Feast* (posthumous, 1964)
+
+## Secondary sources
+
+- Carlos Baker, *Ernest Hemingway: A Life Story* (1969) — the authorized biography; still the foundational life, written with access to the papers and to many of Hemingway's surviving friends.
+- Michael Reynolds, *Hemingway* (5 vols., 1986–1999) — the exhaustive modern life, volume by volume; the standard scholarly reference.
+- Mary V. Dearborn, *Ernest Hemingway: A Biography* (2017) — the outstanding one-volume modern biography; unsentimental, drawing on sources unavailable to Baker.
+- Jeffrey Meyers, *Hemingway: A Biography* (1985) — the sharp, readable mid-length life; a good alternative for readers not committing to Reynolds.

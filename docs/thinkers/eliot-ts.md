@@ -36,3 +36,10 @@ As a critic Eliot was almost as influential as he was as a poet. *Tradition and 
 - *Four Quartets* (1943)
 - *Murder in the Cathedral* (1935)
 - *Selected Essays* (1932)
+
+## Secondary sources
+
+- Lyndall Gordon, *T. S. Eliot: An Imperfect Life* (1998) — combines her earlier *Eliot's Early Years* (1977) and *Eliot's New Life* (1988); the outstanding critical biography, especially strong on the religious trajectory and the women in his life.
+- Hugh Kenner, *The Invisible Poet: T. S. Eliot* (1959) — the classic short critical study; still one of the best readings of the poems.
+- Ronald Schuchard, *Eliot's Dark Angel: Intersections of Life and Art* (1999) — the essential interpretive book from the scholar who has done most to open up the late prose and the letters.
+- Robert Crawford, *Young Eliot* (2015) and *Eliot After "The Waste Land"* (2022) — the new two-volume life, drawing on the full correspondence released after 2009.
