@@ -219,6 +219,7 @@ if (tag) { filter.value = tag; apply(tag); }
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Western political, social, economic, and philosophical thought — last 200–300 years</div>
+<nav><a href="values/">Values review</a><a href="books/">Reading list</a></nav>
 </header>
 <input id="filter" type="search" placeholder="Filter by name or tag…" autofocus>
 {"".join(sections)}
