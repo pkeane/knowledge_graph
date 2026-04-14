@@ -60,10 +60,6 @@ Novels (and stories) that do the philosophical and political work of the graph i
 22. **[[el-akkad-omar|Omar El Akkad]], *What Strange Paradise*** (2021) — Giller Prize. Short alternating chapters between a drowning refugee boat and the small island receiving its survivors. Contemporary, sharply made, morally unflinching.
 23. **[[didion-joan|Joan Didion]], *Play It As It Lays*** (1970) — her best novel. California, anomie, the hollowed-out interior life of a particular American 1960s. Short, exact, terrifying in the way Didion at her best is terrifying.
 
-## Three one-month plans
+## Bibliography
 
-**Month of VALUES core:** Thurman → Baldwin → Niebuhr → Stevenson → McGhee. Five short books, total under a thousand pages, that together rehearse most of your VALUES.md from inside the traditions that hold them.
-
-**Month of inequality & democracy:** Reich's *Saving Capitalism* → Hacker & Pierson's *Let Them Eat Tweets* → Giridharadas's *Winners Take All* → Wu's *The Curse of Bigness* → Doctorow's *The Internet Con*. Five short, pointed books that walk you from the political economy of inequality to the platform logic that amplifies it.
-
-**Month in fiction:** Percy's *Moviegoer* → O'Connor's stories → Baldwin's *Go Tell It on the Mountain* → Morrison's *Beloved* → Davies' *Fifth Business* + *The Manticore*. Same commitments, rendered as narrative.
+A comprehensive list of every book cited in the Knowledge Graph plus a short list of important related works whose authors are not (yet) in the graph. Author names link to their KG page. Auto-generated from each thinker's *Key works* section; sorted by author surname, then by publication year.
