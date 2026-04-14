@@ -34,3 +34,8 @@ This is [[social-contract]] theory reborn as a device of justification rather th
 - *Political Liberalism* (1993)
 - *The Law of Peoples* (1999)
 - *Justice as Fairness: A Restatement* (2001)
+
+## Secondary sources
+
+- Samuel Freeman, *Rawls* (Routledge, 2007) — by the editor of Rawls's *Collected Papers* and *Lectures on the History of Political Philosophy*; the authoritative single-volume guide.
+- Thomas Pogge, *John Rawls: His Life and Theory of Justice* (2007) — short and unusually direct.

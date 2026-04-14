@@ -35,3 +35,9 @@ King's thought developed significantly between 1955 and 1968. The early King emp
 - *Why We Can't Wait* (1964)
 - *Where Do We Go from Here: Chaos or Community?* (1967)
 - *The Trumpet of Conscience* (1968)
+
+## Secondary sources
+
+- Taylor Branch, *Parting the Waters: America in the King Years, 1954–63* (1988) — the first volume of Branch's Pulitzer-winning trilogy; the definitive narrative history of the movement with King at its center. Continued in *Pillar of Fire* (1998) and *At Canaan's Edge* (2006).
+- David J. Garrow, *Bearing the Cross: Martin Luther King, Jr., and the Southern Christian Leadership Conference* (1986) — Pulitzer Prize; the essential single-volume political biography.
+- Stephen Oates, *Let the Trumpet Sound* (1982) — the readable shorter life.

@@ -31,3 +31,8 @@ Almost everything that came after — [[classical-liberalism]], [[marx-karl]]'s 
 
 - *The Theory of Moral Sentiments* (1759)
 - *An Inquiry into the Nature and Causes of the Wealth of Nations* (1776)
+
+## Secondary sources
+
+- Nicholas Phillipson, *Adam Smith: An Enlightened Life* (2010) — the major modern biography; recovers Smith as a Scottish Enlightenment moral philosopher.
+- Emma Rothschild, *Economic Sentiments: Adam Smith, Condorcet, and the Enlightenment* (2001) — the indispensable argument against reading Smith as a proto-libertarian.

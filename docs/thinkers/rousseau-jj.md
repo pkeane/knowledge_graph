@@ -33,3 +33,8 @@ Rousseau was also a novelist, composer, educational theorist, and confessional m
 - *Emile, or On Education* (1762)
 - *The Social Contract* (1762)
 - *Confessions* (posthumous, 1782)
+
+## Secondary sources
+
+- Leo Damrosch, *Jean-Jacques Rousseau: Restless Genius* (2005) — the outstanding modern biography; NBCC finalist.
+- [[williams-david-lay|David Lay Williams]], *Rousseau's Platonic Enlightenment* (2007) — the specialist reading that set up Williams's later work on inequality.

@@ -34,3 +34,8 @@ Her writings — *The Long Loneliness* (1952), her autobiography, and decades of
 - *The Long Loneliness* (1952)
 - *Loaves and Fishes* (1963)
 - *On Pilgrimage* column in *The Catholic Worker*, 1930s–1970s
+
+## Secondary sources
+
+- [[coles-robert|Robert Coles]], *Dorothy Day: A Radical Devotion* (1987) — a portrait built from years of conversations with Day late in her life; short, indispensable.
+- Jim Forest, *All Is Grace: A Biography of Dorothy Day* (2011) — the fullest recent biography, by a longtime Catholic Worker friend.

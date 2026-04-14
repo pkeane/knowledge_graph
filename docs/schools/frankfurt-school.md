@@ -34,3 +34,9 @@ The school's influence runs through media studies, [[foucault-michel]] (though h
 - Erich Fromm, Leo Löwenthal
 - Jürgen Habermas
 - Axel Honneth
+
+## Secondary sources
+
+- Martin Jay, *The Dialectical Imagination: A History of the Frankfurt School and the Institute of Social Research, 1923–1950* (1973) — the classic scholarly history; still the indispensable starting point.
+- Stuart Jeffries, *Grand Hotel Abyss: The Lives of the Frankfurt School* (2016) — the outstanding recent group biography; vivid and readable.
+- Susan Buck-Morss, *The Origin of Negative Dialectics* (1977) — the best specialist study of Adorno.

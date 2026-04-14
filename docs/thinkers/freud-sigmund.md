@@ -38,3 +38,7 @@ Scientific psychology has largely moved on; cultural theory, literary criticism,
 - *Beyond the Pleasure Principle* (1920)
 - *The Ego and the Id* (1923)
 - *Civilization and Its Discontents* (1930)
+
+## Secondary sources
+
+- Peter Gay, *Freud: A Life for Our Time* (1988) — the definitive modern biography, by an intellectual historian sympathetic to psychoanalysis but unwilling to hagiography.

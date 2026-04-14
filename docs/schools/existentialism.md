@@ -25,3 +25,8 @@ By the 1960s the word itself had been so thoroughly commodified — existentiali
 - Authenticity vs. bad faith
 - The individual against the crowd, the system, or bureaucracy
 - Death as horizon of meaning
+
+## Secondary sources
+
+- Sarah Bakewell, *At the Existentialist Café: Freedom, Being, and Apricot Cocktails* (2016) — a group biography of Sartre, Beauvoir, Heidegger, Husserl, Camus, Merleau-Ponty and their circle; the ideal popular introduction.
+- Walter Kaufmann, ed., *Existentialism from Dostoevsky to Sartre* (1956) — the long-standard anthology, with Kaufmann's superb framing essays.

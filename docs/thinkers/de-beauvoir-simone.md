@@ -35,3 +35,8 @@ Beauvoir was also a significant philosopher in her own right beyond feminist the
 - *The Mandarins* (novel, 1954)
 - *Memoirs of a Dutiful Daughter* (1958)
 - *The Coming of Age* (1970)
+
+## Secondary sources
+
+- Deirdre Bair, *Simone de Beauvoir: A Biography* (1990) — the first major English biography; written with Beauvoir's cooperation in her last years.
+- Kate Kirkpatrick, *Becoming Beauvoir: A Life* (2019) — the outstanding recent biography; draws on newly available diaries and letters to revise the Sartre-dominated older picture.

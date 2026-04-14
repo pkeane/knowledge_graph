@@ -32,3 +32,9 @@ He was also a rigorous materialist: minds are matter in motion, values are appet
 - *Leviathan* (1651)
 - *De Cive* (1642)
 - *The Elements of Law* (1640)
+
+## Secondary sources
+
+- Quentin Skinner, *Hobbes and Republican Liberty* (2008) — the most important modern reinterpretation, placing Hobbes in direct argument with the republican tradition.
+- Noel Malcolm, *Aspects of Hobbes* (2002) — essays by the Oxford edition's general editor; definitive on many specific questions.
+- Richard Tuck, *Hobbes: A Very Short Introduction* (2002) — the best brief entry point.

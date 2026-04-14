@@ -33,3 +33,8 @@ This argument became the orthodoxy of the postwar West and underwrote the growth
 - *The Economic Consequences of the Peace* (1919)
 - *A Treatise on Money* (1930)
 - *The General Theory of Employment, Interest, and Money* (1936)
+
+## Secondary sources
+
+- Robert Skidelsky, *John Maynard Keynes* (3 vols., 1983–2000) — the monumental definitive biography: *Hopes Betrayed* (1983), *The Economist as Saviour* (1992), *Fighting for Freedom* (2000). Skidelsky also produced a one-volume abridgment, *John Maynard Keynes: 1883–1946* (2003), for readers who don't need all three.
+- Zachary D. Carter, *The Price of Peace: Money, Democracy, and the Life of John Maynard Keynes* (2020) — the outstanding recent single-volume life, with unusually good writing on the postwar reception.

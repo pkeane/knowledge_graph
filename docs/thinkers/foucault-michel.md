@@ -36,3 +36,8 @@ Foucault is controversial on any reading, but his vocabulary — power/knowledge
 - *The Order of Things* (1966)
 - *Discipline and Punish* (1975)
 - *The History of Sexuality*, vols. 1–3 (1976, 1984)
+
+## Secondary sources
+
+- Didier Eribon, *Michel Foucault* (1989) — by a close friend; the first and still one of the most useful biographies.
+- James Miller, *The Passion of Michel Foucault* (1993) — controversial, vivid, worth reading alongside Eribon.

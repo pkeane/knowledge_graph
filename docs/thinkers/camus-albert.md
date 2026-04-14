@@ -34,3 +34,7 @@ Camus is usually grouped with the [[existentialism|existentialists]] — he is [
 - *The Plague* (1947)
 - *The Rebel* (1951)
 - *The Fall* (1956)
+
+## Secondary sources
+
+- Olivier Todd, *Albert Camus: A Life* (1996) — the definitive biography, by a French journalist with access to all the key archives.

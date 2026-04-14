@@ -35,3 +35,7 @@ Late Mill drifted toward a cautious socialism, worried that unregulated capitali
 - *Utilitarianism* (1861)
 - *The Subjection of Women* (1869)
 - *Autobiography* (1873)
+
+## Secondary sources
+
+- Richard Reeves, *John Stuart Mill: Victorian Firebrand* (2007) — the readable modern biography; recovers the radical Mill most readers miss.

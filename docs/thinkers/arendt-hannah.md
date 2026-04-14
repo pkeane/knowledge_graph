@@ -35,3 +35,7 @@ German-Jewish political thinker who fled the Nazis in 1933, escaped internment i
 - *On Revolution* (1963)
 - *Eichmann in Jerusalem* (1963)
 - *The Life of the Mind* (unfinished, 1978)
+
+## Secondary sources
+
+- Elisabeth Young-Bruehl, *Hannah Arendt: For Love of the World* (1982) — the definitive biography, written by Arendt's student and still the standard. Essential.

@@ -37,3 +37,7 @@ His work is one of the great 20th-century expressions of the contemplative tradi
 - *Conjectures of a Guilty Bystander* (1966)
 - *Mystics and Zen Masters* (1967)
 - *The Asian Journal* (posthumous, 1973)
+
+## Secondary sources
+
+- Michael Mott, *The Seven Mountains of Thomas Merton* (1984) — the authorized, monumental biography; still the standard.

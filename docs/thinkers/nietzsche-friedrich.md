@@ -35,3 +35,7 @@ His *genealogical* method — most fully developed in *On the Genealogy of Moral
 - *Beyond Good and Evil* (1886)
 - *On the Genealogy of Morals* (1887)
 - *The Gay Science* (1882, expanded 1887)
+
+## Secondary sources
+
+- Walter Kaufmann, *Nietzsche: Philosopher, Psychologist, Antichrist* (1950) — the book that rescued Nietzsche from Nazi appropriation after the war and reset English-language Nietzsche scholarship. Still the single essential secondary work.

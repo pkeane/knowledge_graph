@@ -36,3 +36,8 @@ American sociologist, historian, civil-rights organizer, and man of letters whos
 - *The Souls of Black Folk* (1903)
 - *Black Reconstruction in America* (1935)
 - *Dusk of Dawn* (1940)
+
+## Secondary sources
+
+- David Levering Lewis, *W.E.B. Du Bois: Biography of a Race, 1868–1919* (1993) — Pulitzer.
+- David Levering Lewis, *W.E.B. Du Bois: The Fight for Equality and the American Century, 1919–1963* (2000) — second Pulitzer. The two volumes together are the definitive life; the only biography to win the Pulitzer twice for the same subject.

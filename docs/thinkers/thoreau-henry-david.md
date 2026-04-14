@@ -36,3 +36,8 @@ His *Journal* (14 volumes in the Princeton edition) is arguably his real masterw
 - *Walden* (1854)
 - *Life Without Principle* (1863)
 - *Journal* (1837–1861, posthumously edited)
+
+## Secondary sources
+
+- Laura Dassow Walls, *Henry David Thoreau: A Life* (2017) — the outstanding recent biography; replaces the earlier standard works.
+- Robert D. Richardson, *Henry Thoreau: A Life of the Mind* (1986) — the precursor in form to Richardson's later Emerson biography.

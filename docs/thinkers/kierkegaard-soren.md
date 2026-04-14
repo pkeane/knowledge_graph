@@ -36,3 +36,8 @@ His three "stages on life's way" — aesthetic (pursuit of the interesting), eth
 - *The Concept of Anxiety* (1844)
 - *Concluding Unscientific Postscript* (1846)
 - *The Sickness Unto Death* (1849)
+
+## Secondary sources
+
+- Alastair Hannay, *Kierkegaard: A Biography* (2001) — the major modern life by the Penguin translator; scholarly but readable.
+- Walter Lowrie, *A Short Life of Kierkegaard* (1942) — older but beautifully written, by Kierkegaard's first great American interpreter.

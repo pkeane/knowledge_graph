@@ -36,3 +36,7 @@ Emerson's gifts are uneven. His essays are aphoristic rather than systematic —
 - *Essays: First Series* (1841) — including *Self-Reliance*, *Compensation*, *The Over-Soul*
 - *Essays: Second Series* (1844) — including *Experience*, *The Poet*
 - *Representative Men* (1850)
+
+## Secondary sources
+
+- Robert D. Richardson, *Emerson: The Mind on Fire* (1995) — the great modern biography; reads Emerson's life as an intellectual adventure. Follow-up companion to his earlier *Henry Thoreau: A Life of the Mind* (1986).

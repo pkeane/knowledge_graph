@@ -39,3 +39,8 @@ His debates with [[ellison-ralph|Ellison]], his friendship with [[king-mlk|King]
 - *Another Country* (1962)
 - *The Fire Next Time* (1963)
 - *No Name in the Street* (1972)
+
+## Secondary sources
+
+- David Leeming, *James Baldwin: A Biography* (1994) — by Baldwin's longtime assistant and friend; the standard life.
+- Eddie S. Glaude Jr., *Begin Again: James Baldwin's America and Its Urgent Lessons for Our Own* (2020) — not a biography but the best recent book on what Baldwin means now.

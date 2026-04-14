@@ -24,3 +24,9 @@ As a political formation, neoliberalism is usually dated from the Chilean reform
 - Central bank independence; rules-based monetary policy
 - Privatization, deregulation, trade liberalization
 - Extension of market logic into non-market domains (education, health, environmental policy)
+
+## Secondary sources
+
+- Quinn Slobodian, *Globalists: The End of Empire and the Birth of Neoliberalism* (2018) — the leading intellectual history of the movement, from Vienna in the 1920s through the WTO; reframes neoliberalism as a project to insulate markets from democracy.
+- Daniel Stedman Jones, *Masters of the Universe: Hayek, Friedman, and the Birth of Neoliberal Politics* (2012) — the clearest account of how the Mont Pèlerin ideas became Thatcher-Reagan policy.
+- Philip Mirowski and Dieter Plehwe, eds., *The Road from Mont Pèlerin* (2009) — the scholarly anthology that opened up the field.
