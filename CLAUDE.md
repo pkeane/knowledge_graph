@@ -48,8 +48,8 @@ influenced: [...]
 
 ## Hosting
 
-- Repo: https://github.com/pkeane/knowledge_graph (public)
-- Pages: https://pkeane.github.io/knowledge_graph/ (served from `gh-pages` branch root, populated by `git subtree split` of `site/`)
+- Repo: https://github.com/pkeane/kg (public; renamed from `knowledge_graph` in April 2026, GitHub redirects the old URL)
+- Pages: https://pkeane.github.io/kg/ (served from `gh-pages` branch root, populated by `git subtree split` of `site/`)
 - Default branch: `main`. `site/` is committed (not gitignored) so the subtree split has something to publish.
 
 ## Style of summaries

@@ -22,4 +22,4 @@ git branch -D gh-pages-tmp
 git push origin main
 
 echo
-echo "Published → https://pkeane.github.io/knowledge_graph/"
+echo "Published → https://pkeane.github.io/kg/"
