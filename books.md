@@ -12,6 +12,7 @@ Five books that together make the case — now central to your VALUES — that w
 - **[[piketty-thomas|Thomas Piketty]], *Capital in the Twenty-First Century*** (2014) — the empirical spine. Long, but the introduction and Part IV alone repay the effort.
 - **[[giridharadas-anand|Anand Giridharadas]], *Winners Take All*** (2018) — on how philanthropy launders the arrangement. Readable, vivid, uncomfortable in the best way.
 - **[[williams-david-lay|David Lay Williams]], *The Greatest of All Plagues*** (2024) — the intellectual-history backbone the others assume but don't supply: Plato, Jesus, Hobbes, Rousseau, Smith, Mill, and Marx all reading wealth concentration as a primary political danger. The book that lets you say "this concern is as old as political thought itself" and mean it precisely.
+- **[[mcmahon-darrin|Darrin M. McMahon]], *Equality: The History of an Elusive Idea*** (2023) — the natural companion to Williams. Where Williams asks what canonical thinkers said about inequality, McMahon traces the positive concept of *equality* across 2,500 years, showing it has been contested and unstable at every stage. Read the two back-to-back.
 
 ## On digital public infrastructure and platform power
 

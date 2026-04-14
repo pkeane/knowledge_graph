@@ -6,7 +6,7 @@ born: 1969
 era: 21st century
 nationality: American
 tags: [political-theory, history-of-political-thought, inequality, democracy]
-related: [reich-robert, hacker-jacob, pierson-paul, piketty-thomas, rousseau-jj, mill-js, marx-karl, hobbes-thomas, smith-adam, inequality]
+related: [reich-robert, hacker-jacob, pierson-paul, piketty-thomas, mcmahon-darrin, rousseau-jj, mill-js, marx-karl, hobbes-thomas, smith-adam, inequality]
 influenced_by: []
 influenced: []
 ---
