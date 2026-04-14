@@ -50,6 +50,8 @@ a:hover { text-decoration: none; }
 .sidebar ul { margin: .3em 0; padding-left: 1.2em; }
 .sidebar ul li { margin: .15em 0; }
 .index-section { margin-bottom: 2em; }
+.index-section h3.bucket { margin: 1.2em 0 .3em; font-size: .95em; text-transform: uppercase; letter-spacing: .06em; color: var(--muted); }
+.index-section h3.bucket .bucket-count { text-transform: none; letter-spacing: 0; font-weight: normal; }
 .index-section ul { list-style: none; padding: 0; columns: 2; column-gap: 2em; }
 .index-section ul li { margin: .2em 0; break-inside: avoid; }
 .index-section .dates { color: var(--muted); font-size: .85em; }
@@ -174,11 +176,7 @@ def render_index(docs):
     for doc_id, doc in docs.items():
         by_type[doc["meta"].get("type", "other")].append((doc_id, doc))
 
-    sections = []
-    for t in TYPE_ORDER:
-        entries = sorted(by_type.get(t, []), key=lambda x: x[1]["meta"].get("name", x[0]))
-        if not entries:
-            continue
+    def render_items(entries):
         items = []
         for doc_id, doc in entries:
             meta = doc["meta"]
@@ -190,10 +188,36 @@ def render_index(docs):
                 f'<a href="{doc_id}.html">{name}</a>'
                 f'{f" <span class=\"dates\">({dates})</span>" if dates else ""}</li>'
             )
+        return f'<ul>{"".join(items)}</ul>'
+
+    def bucket_thinkers(entries):
+        buckets = [
+            ("Pre-1900", "thinker-pre-1900", lambda b: b < 1900),
+            ("1900–1945", "thinker-1900-1945", lambda b: 1900 <= b <= 1945),
+            ("1946 onward", "thinker-1946-onward", lambda b: b >= 1946),
+        ]
+        for label, bid, test in buckets:
+            members = [e for e in entries if test(e[1]["meta"].get("born") or 0)]
+            if members:
+                yield label, bid, members
+
+    sections = []
+    for t in TYPE_ORDER:
+        entries = sorted(by_type.get(t, []), key=lambda x: x[1]["meta"].get("name", x[0]))
+        if not entries:
+            continue
+        if t == "thinker":
+            body = "".join(
+                f'<h3 id="{bid}" class="bucket">{label} <span class="bucket-count">({len(members)})</span></h3>'
+                f'{render_items(members)}'
+                for label, bid, members in bucket_thinkers(entries)
+            )
+        else:
+            body = render_items(entries)
         sections.append(
             f'<section class="index-section" id="{t}">'
             f'<h2>{TYPE_LABELS[t]} ({len(entries)})</h2>'
-            f'<ul>{"".join(items)}</ul></section>'
+            f'{body}</section>'
         )
 
     js = """
