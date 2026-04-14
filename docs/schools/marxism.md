@@ -4,9 +4,9 @@ type: school
 name: Marxism
 era: 19th century–present
 tags: [socialism, critical-theory, political-economy, revolution]
-related: [marx-karl, engels-friedrich, critical-theory]
+related: [marx-karl, engels-friedrich, critical-theory, harvey-david, jameson-fredric, malm-andreas, hardt-michael, negri-antonio, davis-angela, robinson-cedric]
 influenced_by: [marx-karl, engels-friedrich]
-influenced: [critical-theory, frankfurt-school]
+influenced: [critical-theory, frankfurt-school, harvey-david, jameson-fredric, malm-andreas, hardt-michael, negri-antonio]
 ---
 
 # Marxism
@@ -17,9 +17,12 @@ Within two generations of Marx's death, Marxism split along lines that still org
 
 As a political movement, Marxism produced both the most serious critique of liberal capitalism ever mounted and the authoritarian catastrophes of the 20th century — a tension the tradition is still metabolizing.
 
+In the academic 21st century, after the fall of state socialism, Marxism has continued as a live critical tradition rather than a programmatic politics. [[harvey-david|David Harvey]]'s geographical Marxism has become the most widely taught account of neoliberal capitalism. [[jameson-fredric|Fredric Jameson]]'s *Postmodernism* (1991) read contemporary culture as the registration of late-capitalist structure. [[hardt-michael|Michael Hardt]] and [[negri-antonio|Antonio Negri]]'s *Empire* (2000) attempted a positive democratic theory of "the multitude" against decentered global sovereignty. [[malm-andreas|Andreas Malm]]'s *Fossil Capital* (2016) fused Marxist political economy with climate analysis. [[robinson-cedric|Cedric Robinson]]'s *Black Marxism* (1983) and [[davis-angela|Angela Davis]]'s work developed the [[racial-capitalism]] strand. Collectively these figures show Marxism's persistence as a toolkit for structural critique even where its 20th-century political forms have collapsed.
+
 ## Key strands
 
 - Orthodox / Second International Marxism
 - Leninism, Bolshevism, Maoism
 - Western Marxism and Critical Theory
 - Analytical Marxism
+- Contemporary academic Marxism — geographical, cultural, ecological, racial
