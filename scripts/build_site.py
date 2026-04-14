@@ -28,6 +28,16 @@ ID_FIELDS = ("related", "influenced_by", "influenced")
 
 CSS = """
 :root { --fg: #222; --muted: #666; --accent: #8b2e2e; --bg: #fdfcf8; --card: #fff; --border: #e4e0d6; }
+body.period-pre-1900 { --bg: #f3ecdb; --card: #fbf6e8; --border: #d8cdb0; }
+body.period-1900-1945 { --bg: #e8eef4; --card: #f4f8fc; --border: #c5d1de; }
+body.period-1946-onward { --bg: #e7f0e6; --card: #f3f8f2; --border: #c1d5bf; }
+.period-swatch { display: inline-block; width: .7em; height: .7em; border-radius: 50%; margin-right: .5em; vertical-align: middle; border: 1px solid rgba(0,0,0,.15); }
+.swatch-pre-1900 { background: #e3d4a8; }
+.swatch-1900-1945 { background: #b8cadd; }
+.swatch-1946-onward { background: #b8d3b5; }
+.index-section h3.bucket.thinker-pre-1900 { background: #f3ecdb; padding: .4em .6em; border-left: 3px solid #c9b37a; }
+.index-section h3.bucket.thinker-1900-1945 { background: #e8eef4; padding: .4em .6em; border-left: 3px solid #8aa5c2; }
+.index-section h3.bucket.thinker-1946-onward { background: #e7f0e6; padding: .4em .6em; border-left: 3px solid #8bb088; }
 * { box-sizing: border-box; }
 html { font-size: 125%; }
 body { font-family: Georgia, 'Iowan Old Style', serif; max-width: 1100px; margin: 2em auto; padding: 0 1.2em; color: var(--fg); background: var(--bg); line-height: 1.55; }
@@ -129,9 +139,23 @@ def link_list(ids, docs, label):
     return f'<h3>{label}</h3><ul>{items}</ul>'
 
 
+def period_class(meta):
+    if meta.get("type") != "thinker":
+        return ""
+    b = meta.get("born") or 0
+    if b < 1900 and b > 0:
+        return "period-pre-1900"
+    if 1900 <= b <= 1945:
+        return "period-1900-1945"
+    if b >= 1946:
+        return "period-1946-onward"
+    return ""
+
+
 def render_doc(doc_id, doc, docs, backlinks):
     meta = doc["meta"]
     name = meta.get("name", doc_id)
+    body_class = period_class(meta)
     body_html = markdown.markdown(render_wikilinks(doc["body"], docs), extensions=["extra"])
     body_html = re.sub(r"<h1[^>]*>.*?</h1>", "", body_html, count=1)
 
@@ -157,7 +181,7 @@ def render_doc(doc_id, doc, docs, backlinks):
 <meta charset="utf-8"><title>{html.escape(name)}</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>{CSS}</style>
-</head><body>
+</head><body class="{body_class}">
 <header>
 <a href="index.html"><strong>Knowledge Graph</strong></a>
 <nav>{"".join(f'<a href="index.html#{t}">{TYPE_LABELS[t]}</a>' for t in TYPE_ORDER)}</nav>
@@ -208,7 +232,7 @@ def render_index(docs):
             continue
         if t == "thinker":
             body = "".join(
-                f'<h3 id="{bid}" class="bucket">{label} <span class="bucket-count">({len(members)})</span></h3>'
+                f'<h3 id="{bid}" class="bucket {bid}"><span class="period-swatch swatch-{bid.replace("thinker-", "")}"></span>{label} <span class="bucket-count">({len(members)})</span></h3>'
                 f'{render_items(members)}'
                 for label, bid, members in bucket_thinkers(entries)
             )
