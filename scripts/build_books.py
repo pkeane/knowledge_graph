@@ -96,106 +96,106 @@ def author_sort_key(author_id, display_name):
 
 
 def build_bibliography():
-    # author_key -> {display, author_id, works}
-    # works items: {title, year, subject} where subject is None or a string
-    authors = {}
+    TYPE_ORDER_BIB = ["thinker", "school", "concept", "event"]
+    TYPE_LABELS_BIB = {
+        "thinker": "Thinkers",
+        "school": "Schools & Movements",
+        "concept": "Concepts",
+        "event": "Events",
+    }
 
-    def ensure_author(author_id, display_name):
-        key = author_id if author_id else f"__plain__:{display_name}"
-        if key not in authors:
-            authors[key] = {
-                "author_id": author_id,
-                "display": display_name,
-                "works": [],
+    # subject_id -> {display, type, primary: [...], secondary: [...]}
+    # primary item: {title, year}
+    # secondary item: {author_id, author_name, title, year}
+    subjects = {}
+
+    for path in sorted(DOCS.rglob("*.md")):
+        text = path.read_text()
+        m = FRONTMATTER.match(text)
+        if not m:
+            continue
+        meta = yaml.safe_load(m.group(1)) or {}
+        body = m.group(2)
+        doc_id = meta.get("id") or path.stem
+        subject_name = meta.get("name") or path.stem
+        doc_type = meta.get("type") or "thinker"
+
+        primary = []
+        if doc_type == "thinker":
+            for title, year in extract_key_works(body):
+                primary.append({"title": title, "year": year})
+
+        secondary = extract_secondary(body)
+
+        if primary or secondary:
+            subjects[doc_id] = {
+                "display": subject_name,
+                "type": doc_type,
+                "primary": primary,
+                "secondary": secondary,
             }
-        return authors[key]
 
-    # First pass: Key works (primary authorship) + collect subject info.
-    subjects = {}  # doc_id -> display name for subject-notes
-    for path in sorted(DOCS.rglob("*.md")):
-        text = path.read_text()
-        m = FRONTMATTER.match(text)
-        if not m:
-            continue
-        meta = yaml.safe_load(m.group(1)) or {}
-        body = m.group(2)
-        doc_id = meta.get("id") or path.stem
-        subject_name = meta.get("name") or path.stem
-        subjects[doc_id] = subject_name
+    def subject_sort_key(doc_id, entry):
+        # Thinkers by id (usually surname-first); others by display.
+        if entry["type"] == "thinker":
+            return (0, doc_id.lower())
+        return (0, entry["display"].lower())
 
-        # Key works — the subject is also the author.
-        if meta.get("type") == "thinker":
-            works = extract_key_works(body)
-            if works:
-                entry = ensure_author(doc_id, subject_name)
-                for title, year in works:
-                    entry["works"].append({"title": title, "year": year, "subject": None})
+    groups_by_type = defaultdict(list)
 
-    # Second pass: Secondary sources.
-    for path in sorted(DOCS.rglob("*.md")):
-        text = path.read_text()
-        m = FRONTMATTER.match(text)
-        if not m:
-            continue
-        meta = yaml.safe_load(m.group(1)) or {}
-        body = m.group(2)
-        doc_id = meta.get("id") or path.stem
-        subject_name = meta.get("name") or path.stem
-        sec = extract_secondary(body)
-        for s in sec:
-            entry = ensure_author(s["author_id"], s["author_name"])
-            entry["works"].append({
-                "title": s["title"],
-                "year": s["year"],
-                "subject": subject_name,
-                "subject_id": doc_id,
-            })
+    for doc_id, entry in subjects.items():
+        lines = []
 
-    # Sort authors.
-    sorted_authors = sorted(
-        authors.values(),
-        key=lambda a: author_sort_key(a["author_id"], a["display"]),
-    )
+        if entry["primary"]:
+            primary_sorted = sorted(entry["primary"], key=lambda w: (w["year"], w["title"].lower()))
+            for w in primary_sorted:
+                lines.append(
+                    f'<li><em>{htmlmod.escape(w["title"])}</em> ({w["year"]})</li>'
+                )
 
-    groups = []
-    for a in sorted_authors:
-        # Dedup within author by (title, year); merge subject notes.
-        by_key = {}
-        for w in a["works"]:
-            k = (w["title"].lower(), w["year"])
-            if k in by_key:
-                # Keep earliest entry but accumulate subject if missing.
-                if by_key[k].get("subject") is None and w.get("subject"):
-                    by_key[k]["subject"] = w["subject"]
-                    by_key[k]["subject_id"] = w.get("subject_id")
-            else:
-                by_key[k] = dict(w)
-        items = sorted(by_key.values(), key=lambda w: (w["year"], w["title"].lower()))
-
-        work_lis = []
-        for w in items:
-            suffix = ""
-            if w.get("subject"):
-                sid = w.get("subject_id")
-                if sid:
-                    suffix = (
-                        f' <span class="bib-on">— on '
-                        f'<a href="../{sid}.html">{htmlmod.escape(w["subject"])}</a></span>'
+        if entry["secondary"]:
+            # Dedup secondary by (title lower, year).
+            seen = set()
+            sec_unique = []
+            for s in entry["secondary"]:
+                k = (s["title"].lower(), s["year"])
+                if k in seen:
+                    continue
+                seen.add(k)
+                sec_unique.append(s)
+            sec_sorted = sorted(sec_unique, key=lambda s: (s["year"], s["title"].lower()))
+            if entry["primary"]:
+                lines.append('<li class="bib-subhead">Secondary</li>')
+            for s in sec_sorted:
+                if s["author_id"]:
+                    author_html = (
+                        f'<a href="../{s["author_id"]}.html">{htmlmod.escape(s["author_name"])}</a>'
                     )
                 else:
-                    suffix = f' <span class="bib-on">— on {htmlmod.escape(w["subject"])}</span>'
-            work_lis.append(
-                f'<li><em>{htmlmod.escape(w["title"])}</em> ({w["year"]}){suffix}</li>'
-            )
+                    author_html = htmlmod.escape(s["author_name"])
+                lines.append(
+                    f'<li>{author_html}, <em>{htmlmod.escape(s["title"])}</em> ({s["year"]})</li>'
+                )
 
-        if a["author_id"]:
-            head = f'<a href="../{a["author_id"]}.html">{htmlmod.escape(a["display"])}</a>'
-        else:
-            head = f'<span class="bib-name">{htmlmod.escape(a["display"])}</span>'
-
-        groups.append(
-            f'<div class="bib-author">{head}<ul>{"".join(work_lis)}</ul></div>'
+        head = (
+            f'<a href="../{doc_id}.html">{htmlmod.escape(entry["display"])}</a>'
         )
+        groups_by_type[entry["type"]].append(
+            (subject_sort_key(doc_id, entry),
+             f'<div class="bib-author">{head}<ul>{"".join(lines)}</ul></div>')
+        )
+
+    groups_html_parts = []
+    for t in TYPE_ORDER_BIB:
+        items = groups_by_type.get(t, [])
+        if not items:
+            continue
+        items.sort(key=lambda x: x[0])
+        groups_html_parts.append(
+            f'<h3 class="bib-type">{TYPE_LABELS_BIB[t]}</h3>'
+            f'<div class="bib">{"".join(g[1] for g in items)}</div>'
+        )
+    groups_html = "".join(groups_html_parts)
 
     # Curated related works whose authors are not (yet) in the graph.
     related = [
@@ -237,8 +237,8 @@ def build_bibliography():
         )
 
     return (
-        f'<div class="bib">{"".join(groups)}</div>'
-        f'<h3>Related works (authors not in the graph)</h3>'
+        f'{groups_html}'
+        f'<h3 class="bib-type">Related works (authors not in the graph)</h3>'
         f'<div class="bib">{"".join(related_groups)}</div>'
     )
 
@@ -277,6 +277,8 @@ nav.breadcrumb a { color: #666; }
 .bib-author ul { list-style: none; padding-left: 1.2em; margin: .2em 0 0; }
 .bib-author ul li { padding: .08em 0; color: #444; }
 .bib-on { color: #666; font-size: .9em; }
+.bib-subhead { list-style: none; margin-left: -1em; font-variant: small-caps; color: #888; font-size: .85em; letter-spacing: .05em; margin-top: .3em; }
+h3.bib-type { margin-top: 2em; font-size: 1.05em; color: #555; }
 @media (max-width: 600px) { html { font-size: 110%; } body { margin: 1em auto; } }
 """
 
