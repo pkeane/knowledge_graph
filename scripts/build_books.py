@@ -71,13 +71,18 @@ def build_bibliography():
         entries.append((sort_key(name, doc_id), name, doc_id, works))
     entries.sort()
 
-    items = []
+    groups = []
     for _, name, doc_id, works in entries:
-        for title, year in works:
-            items.append(
-                f'<li><a href="../{doc_id}.html">{htmlmod.escape(name)}</a>, '
-                f'<em>{htmlmod.escape(title)}</em> ({year})</li>'
-            )
+        works_html = "".join(
+            f'<li><em>{htmlmod.escape(title)}</em> ({year})</li>'
+            for title, year in works
+        )
+        groups.append(
+            f'<div class="bib-author">'
+            f'<a href="../{doc_id}.html">{htmlmod.escape(name)}</a>'
+            f'<ul>{works_html}</ul>'
+            f'</div>'
+        )
 
     # Curated related works whose authors are not (yet) in the graph.
     related = [
@@ -105,15 +110,25 @@ def build_bibliography():
     ]
     related.sort(key=lambda r: (r[0].split()[-1].lower(), r[2]))
 
-    related_items = [
-        f'<li>{htmlmod.escape(author)}, <em>{htmlmod.escape(title)}</em> ({year})</li>'
-        for author, title, year in related
-    ]
+    # Group curated related works by author.
+    from itertools import groupby
+    related_groups = []
+    for author, author_works in groupby(related, key=lambda r: r[0]):
+        works_html = "".join(
+            f'<li><em>{htmlmod.escape(title)}</em> ({year})</li>'
+            for _, title, year in author_works
+        )
+        related_groups.append(
+            f'<div class="bib-author">'
+            f'<span class="bib-name">{htmlmod.escape(author)}</span>'
+            f'<ul>{works_html}</ul>'
+            f'</div>'
+        )
 
     return (
-        f'<ul class="bib">{"".join(items)}</ul>'
+        f'<div class="bib">{"".join(groups)}</div>'
         f'<h3>Related works (authors not in the graph)</h3>'
-        f'<ul class="bib">{"".join(related_items)}</ul>'
+        f'<div class="bib">{"".join(related_groups)}</div>'
     )
 
 
@@ -144,8 +159,12 @@ a:hover { text-decoration: none; }
 code { background: #f4f1ea; padding: 0 .3em; border-radius: 3px; }
 nav.breadcrumb { font-size: .9em; color: #666; margin-bottom: 1em; }
 nav.breadcrumb a { color: #666; }
-ul.bib { list-style: none; padding-left: 0; }
-ul.bib li { padding: .15em 0; border-bottom: 1px dotted #e4e0d6; }
+.bib { margin-top: 1em; }
+.bib-author { margin: .9em 0; padding-bottom: .4em; border-bottom: 1px dotted #e4e0d6; }
+.bib-author > a, .bib-author > .bib-name { font-weight: bold; }
+.bib-author > .bib-name { color: #222; }
+.bib-author ul { list-style: none; padding-left: 1.2em; margin: .2em 0 0; }
+.bib-author ul li { padding: .08em 0; color: #444; }
 @media (max-width: 600px) { html { font-size: 110%; } body { margin: 1em auto; } }
 """
 
