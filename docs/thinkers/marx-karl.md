@@ -7,7 +7,7 @@ died: 1883
 era: 19th century
 nationality: Prussian / German
 tags: [marxism, socialism, political-economy, critical-theory]
-related: [smith-adam, engels-friedrich, marxism, rousseau-jj]
+related: [smith-adam, engels-friedrich, marxism, rousseau-jj, weber-max, durkheim-emile]
 influenced_by: [hegel-gwf, smith-adam, rousseau-jj, ricardo-david]
 influenced: [marxism, lenin-vi, frankfurt-school, critical-theory]
 ---
