@@ -36,3 +36,9 @@ She starved herself to death in Ashford, Kent, in 1943, refusing to eat more tha
 - *Gravity and Grace* (posthumous, 1947)
 - *The Need for Roots* (posthumous, 1949)
 - *Waiting for God* (posthumous, 1950)
+
+## Secondary sources
+
+- [[coles-robert|Robert Coles]], *Simone Weil: A Modern Pilgrimage* (1987) — a sympathetic portrait from the physician–essayist drawn to Weil's moral seriousness.
+- Simone Pétrement, *Simone Weil: A Life* (1976) — by Weil's close friend; the fullest life.
+- Francine du Plessix Gray, *Simone Weil* (2001) — short, sharp Penguin Lives biography.

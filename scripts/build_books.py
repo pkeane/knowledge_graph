@@ -2,11 +2,14 @@
 """Render books.md to site/books/index.html with relative links to thinker pages.
 
 Also auto-appends a bibliography of every *Key works* entry across all graph
-thinkers, plus a curated list of related works whose authors are not yet in
-the graph.
+thinkers, merged with every *Secondary sources* entry across all graph pages
+(thinkers, schools, concepts, events), plus a curated list of related works
+whose authors are not yet in the graph.
 """
 import html as htmlmod
 import re
+from collections import defaultdict
+from itertools import groupby
 from pathlib import Path
 
 import markdown
@@ -14,7 +17,7 @@ import yaml
 
 ROOT = Path(__file__).resolve().parent.parent
 SRC = ROOT / "books.md"
-THINKERS = ROOT / "docs" / "thinkers"
+DOCS = ROOT / "docs"
 OUT_DIR = ROOT / "site" / "books"
 OUT = OUT_DIR / "index.html"
 
@@ -22,10 +25,17 @@ OUT_DIR.mkdir(parents=True, exist_ok=True)
 
 FRONTMATTER = re.compile(r"^---\n(.*?)\n---\n(.*)$", re.DOTALL)
 KEY_WORKS = re.compile(r"##\s+Key works[^\n]*\n(.*?)(?=\n##\s+|\Z)", re.DOTALL)
+SEC_SOURCES = re.compile(r"##\s+Secondary sources[^\n]*\n(.*?)(?=\n##\s+|\Z)", re.DOTALL)
 WORK_LINE = re.compile(r"-\s+(.+?)\s+\((\d{4})[^)]*\)\s*$")
+SEC_LINE_LINKED = re.compile(
+    r"-\s+\[\[([a-z0-9-]+)\|([^\]]+)\]\],\s+\*([^*]+?)\*\s+\((\d{4})[^)]*\)"
+)
+SEC_LINE_PLAIN = re.compile(
+    r"-\s+([^,\[*][^,]*?),\s+\*([^*]+?)\*\s+\((\d{4})[^)]*\)"
+)
 
 
-def extract_works(body):
+def extract_key_works(body):
     m = KEY_WORKS.search(body)
     if not m:
         return []
@@ -49,39 +59,142 @@ def extract_works(body):
     return out
 
 
-def sort_key(name, doc_id):
-    # doc_id is typically surname-first kebab-case; fall back to name's last token.
-    return (doc_id.lower(), name.lower())
+def extract_secondary(body):
+    m = SEC_SOURCES.search(body)
+    if not m:
+        return []
+    out = []
+    for line in m.group(1).splitlines():
+        line = line.strip()
+        if not line.startswith("-"):
+            continue
+        ml = SEC_LINE_LINKED.match(line)
+        if ml:
+            out.append({
+                "author_id": ml.group(1),
+                "author_name": ml.group(2).strip(),
+                "title": ml.group(3).strip(),
+                "year": ml.group(4),
+            })
+            continue
+        mp = SEC_LINE_PLAIN.match(line)
+        if mp:
+            out.append({
+                "author_id": None,
+                "author_name": mp.group(1).strip(),
+                "title": mp.group(2).strip(),
+                "year": mp.group(3),
+            })
+    return out
+
+
+def author_sort_key(author_id, display_name):
+    if author_id:
+        return (0, author_id.lower())
+    surname = display_name.split()[-1].lower() if display_name else ""
+    return (0, f"{surname}-{display_name.lower()}")
 
 
 def build_bibliography():
-    entries = []
-    for path in THINKERS.glob("*.md"):
+    # author_key -> {display, author_id, works}
+    # works items: {title, year, subject} where subject is None or a string
+    authors = {}
+
+    def ensure_author(author_id, display_name):
+        key = author_id if author_id else f"__plain__:{display_name}"
+        if key not in authors:
+            authors[key] = {
+                "author_id": author_id,
+                "display": display_name,
+                "works": [],
+            }
+        return authors[key]
+
+    # First pass: Key works (primary authorship) + collect subject info.
+    subjects = {}  # doc_id -> display name for subject-notes
+    for path in sorted(DOCS.rglob("*.md")):
         text = path.read_text()
         m = FRONTMATTER.match(text)
         if not m:
             continue
         meta = yaml.safe_load(m.group(1)) or {}
         body = m.group(2)
-        name = meta.get("name") or path.stem
         doc_id = meta.get("id") or path.stem
-        works = extract_works(body)
-        if not works:
+        subject_name = meta.get("name") or path.stem
+        subjects[doc_id] = subject_name
+
+        # Key works — the subject is also the author.
+        if meta.get("type") == "thinker":
+            works = extract_key_works(body)
+            if works:
+                entry = ensure_author(doc_id, subject_name)
+                for title, year in works:
+                    entry["works"].append({"title": title, "year": year, "subject": None})
+
+    # Second pass: Secondary sources.
+    for path in sorted(DOCS.rglob("*.md")):
+        text = path.read_text()
+        m = FRONTMATTER.match(text)
+        if not m:
             continue
-        entries.append((sort_key(name, doc_id), name, doc_id, works))
-    entries.sort()
+        meta = yaml.safe_load(m.group(1)) or {}
+        body = m.group(2)
+        doc_id = meta.get("id") or path.stem
+        subject_name = meta.get("name") or path.stem
+        sec = extract_secondary(body)
+        for s in sec:
+            entry = ensure_author(s["author_id"], s["author_name"])
+            entry["works"].append({
+                "title": s["title"],
+                "year": s["year"],
+                "subject": subject_name,
+                "subject_id": doc_id,
+            })
+
+    # Sort authors.
+    sorted_authors = sorted(
+        authors.values(),
+        key=lambda a: author_sort_key(a["author_id"], a["display"]),
+    )
 
     groups = []
-    for _, name, doc_id, works in entries:
-        works_html = "".join(
-            f'<li><em>{htmlmod.escape(title)}</em> ({year})</li>'
-            for title, year in works
-        )
+    for a in sorted_authors:
+        # Dedup within author by (title, year); merge subject notes.
+        by_key = {}
+        for w in a["works"]:
+            k = (w["title"].lower(), w["year"])
+            if k in by_key:
+                # Keep earliest entry but accumulate subject if missing.
+                if by_key[k].get("subject") is None and w.get("subject"):
+                    by_key[k]["subject"] = w["subject"]
+                    by_key[k]["subject_id"] = w.get("subject_id")
+            else:
+                by_key[k] = dict(w)
+        items = sorted(by_key.values(), key=lambda w: (w["year"], w["title"].lower()))
+
+        work_lis = []
+        for w in items:
+            suffix = ""
+            if w.get("subject"):
+                sid = w.get("subject_id")
+                if sid:
+                    suffix = (
+                        f' <span class="bib-on">— on '
+                        f'<a href="../{sid}.html">{htmlmod.escape(w["subject"])}</a></span>'
+                    )
+                else:
+                    suffix = f' <span class="bib-on">— on {htmlmod.escape(w["subject"])}</span>'
+            work_lis.append(
+                f'<li><em>{htmlmod.escape(w["title"])}</em> ({w["year"]}){suffix}</li>'
+            )
+
+        if a["author_id"]:
+            head = f'<a href="../{a["author_id"]}.html">{htmlmod.escape(a["display"])}</a>'
+        else:
+            head = f'<span class="bib-name">{htmlmod.escape(a["display"])}</span>'
+
         groups.append(
-            f'<div class="bib-author">'
-            f'<a href="../{doc_id}.html">{htmlmod.escape(name)}</a>'
-            f'<ul>{works_html}</ul>'
-            f'</div>'
+            f'<div class="bib-author">{head}<ul>{"".join(work_lis)}</ul></div>'
         )
 
     # Curated related works whose authors are not (yet) in the graph.
@@ -110,8 +223,6 @@ def build_bibliography():
     ]
     related.sort(key=lambda r: (r[0].split()[-1].lower(), r[2]))
 
-    # Group curated related works by author.
-    from itertools import groupby
     related_groups = []
     for author, author_works in groupby(related, key=lambda r: r[0]):
         works_html = "".join(
@@ -165,6 +276,7 @@ nav.breadcrumb a { color: #666; }
 .bib-author > .bib-name { color: #222; }
 .bib-author ul { list-style: none; padding-left: 1.2em; margin: .2em 0 0; }
 .bib-author ul li { padding: .08em 0; color: #444; }
+.bib-on { color: #666; font-size: .9em; }
 @media (max-width: 600px) { html { font-size: 110%; } body { margin: 1em auto; } }
 """
 

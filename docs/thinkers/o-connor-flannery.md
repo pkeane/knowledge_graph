@@ -35,3 +35,8 @@ Her essays and letters, collected in *Mystery and Manners* (1969) and *The Habit
 - *Everything That Rises Must Converge* (1965)
 - *Mystery and Manners* (1969)
 - *The Habit of Being* (1979)
+
+## Secondary sources
+
+- [[coles-robert|Robert Coles]], *Flannery O'Connor's South* (1980) — extended study from a fellow Southerner and physician–essayist who knew O'Connor's world from the inside.
+- Brad Gooch, *Flannery: A Life of Flannery O'Connor* (2009) — the standard full-length biography.

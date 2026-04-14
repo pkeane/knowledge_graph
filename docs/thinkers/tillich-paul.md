@@ -34,3 +34,8 @@ His popular *The Courage to Be* (1952) argued that the specific anxiety of moder
 - *Dynamics of Faith* (1957)
 - *Systematic Theology* (3 vols., 1951–63)
 - *The Shaking of the Foundations* (1948)
+
+## Secondary sources
+
+- [[may-rollo|Rollo May]], *Paulus: Reminiscences of a Friendship* (1973) — a memoir-essay by the existential psychologist who was Tillich's close friend and former student; the best short window into Tillich the man.
+- Wilhelm Pauck and Marion Pauck, *Paul Tillich: His Life and Thought* (1976) — the standard biography.

@@ -38,3 +38,9 @@ His personal trajectory (involvement with mandalas, alchemy, the I Ching, the *R
 - *Answer to Job* (1952)
 - *Memories, Dreams, Reflections* (posthumous, 1963)
 - *The Red Book* (written 1915–30, published 2009)
+
+## Secondary sources
+
+- June Singer, *Boundaries of the Soul: The Practice of Jung's Psychology* (1972) — the introduction to Jung [[davies-robertson|Robertson Davies]] repeatedly recommended; written by a practicing analyst, exceptionally lucid.
+- Anthony Storr, *Jung* (Modern Masters, 1973) — short, sympathetic, critical where it needs to be.
+- Deirdre Bair, *Jung: A Biography* (2003) — the most thorough modern biography.

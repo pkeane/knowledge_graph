@@ -35,3 +35,9 @@ Percy's essays — collected in *The Message in the Bottle* (1975), *Lost in the
 - *The Message in the Bottle* (1975)
 - *Lost in the Cosmos* (1983)
 - *The Thanatos Syndrome* (1987)
+
+## Secondary sources
+
+- [[coles-robert|Robert Coles]], *Walker Percy: An American Search* (1978) — a book-length study by the physician–essayist who knew Percy well and who shared his Southern Catholic moral lens; the indispensable critical companion.
+- Jay Tolson, *Pilgrim in the Ruins: A Life of Walker Percy* (1992) — the standard full-length biography.
+- Patrick Samway, *Walker Percy: A Life* (1997) — the Jesuit biographer's alternative account.

@@ -34,3 +34,9 @@ He was also a historical theorist: material conditions shape consciousness, mode
 - *The Communist Manifesto* (1848, with Engels)
 - *A Contribution to the Critique of Political Economy* (1859)
 - *Capital*, Vol. 1 (1867); Vols. 2–3 (posthumous)
+
+## Secondary sources
+
+- [[berlin-isaiah|Isaiah Berlin]], *Karl Marx: His Life and Environment* (1939) — the short intellectual biography that established Berlin's reputation; still unusually lucid as a first orientation to Marx's thought.
+- Gareth Stedman Jones, *Karl Marx: Greatness and Illusion* (2016) — the major contemporary biography, sharply revisionist on the 1848 period.
+- David McLellan, *Karl Marx: His Life and Thought* (1973) — the standard workhorse biography.
