@@ -7,8 +7,8 @@ died: 1941
 era: 20th century
 nationality: British
 tags: [literature, fiction, feminism, modernism, essay]
-related: [de-beauvoir-simone, wollstonecraft-mary, morrison-toni, hooks-bell, feminism, patriarchy]
-influenced_by: []
+related: [de-beauvoir-simone, wollstonecraft-mary, morrison-toni, hooks-bell, feminism, patriarchy, joyce-james, eliot-ts]
+influenced_by: [joyce-james]
 influenced: [de-beauvoir-simone]
 ---
 

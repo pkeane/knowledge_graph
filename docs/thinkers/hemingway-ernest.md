@@ -7,7 +7,7 @@ died: 1961
 era: 20th century
 nationality: American
 tags: [literature, fiction, modernism]
-related: [faulkner-william]
+related: [faulkner-william, fitzgerald-f-scott]
 influenced_by: []
 influenced: []
 ---

@@ -7,7 +7,7 @@ died: 1965
 era: 20th century
 nationality: American-British
 tags: [literature, poetry, modernism, criticism, anglicanism]
-related: [auden-wh, o-connor-flannery]
+related: [auden-wh, o-connor-flannery, joyce-james, woolf-virginia]
 influenced_by: []
 influenced: [auden-wh]
 ---
