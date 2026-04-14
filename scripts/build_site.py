@@ -30,14 +30,14 @@ CSS = """
 :root { --fg: #222; --muted: #666; --accent: #8b2e2e; --bg: #fdfcf8; --card: #fff; --border: #e4e0d6; }
 body.period-pre-1900 { --bg: #ffffff; --card: #fafafa; --border: #e0e0e0; }
 body.period-1900-1945 { --bg: #f2f7ff; --card: #f9fbff; --border: #c8d6ec; }
-body.period-1946-onward { --bg: #fff8c8; --card: #fffce0; --border: #e8d97a; }
+body.period-1946-onward { --bg: #ffffea; --card: #fffff5; --border: #e8e0a8; }
 .period-swatch { display: inline-block; width: .7em; height: .7em; border-radius: 50%; margin-right: .5em; vertical-align: middle; border: 1px solid rgba(0,0,0,.2); }
 .swatch-pre-1900 { background: #ffffff; }
 .swatch-1900-1945 { background: #b8cee8; }
 .swatch-1946-onward { background: #ffe866; }
 .index-section h3.bucket.thinker-pre-1900 { background: #ffffff; padding: .4em .6em; border-left: 3px solid #bbbbbb; }
 .index-section h3.bucket.thinker-1900-1945 { background: #f2f7ff; padding: .4em .6em; border-left: 3px solid #8aa8d0; }
-.index-section h3.bucket.thinker-1946-onward { background: #fff8c8; padding: .4em .6em; border-left: 3px solid #d9c34a; }
+.index-section h3.bucket.thinker-1946-onward { background: #ffffea; padding: .4em .6em; border-left: 3px solid #d9c34a; }
 * { box-sizing: border-box; }
 html { font-size: 125%; }
 body { font-family: Georgia, 'Iowan Old Style', serif; max-width: 1100px; margin: 2em auto; padding: 0 1.2em; color: var(--fg); background: var(--bg); line-height: 1.55; }
