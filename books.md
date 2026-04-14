@@ -11,6 +11,7 @@ Five books that together make the case — now central to your VALUES — that w
 - **[[hacker-jacob|Hacker]] & [[pierson-paul|Pierson]], *Let Them Eat Tweets*** (2020) — their shorter, sharper update on "plutocratic populism" — why an economically unpopular agenda needs ethno-nationalist distraction to survive.
 - **[[piketty-thomas|Thomas Piketty]], *Capital in the Twenty-First Century*** (2014) — the empirical spine. Long, but the introduction and Part IV alone repay the effort.
 - **[[giridharadas-anand|Anand Giridharadas]], *Winners Take All*** (2018) — on how philanthropy launders the arrangement. Readable, vivid, uncomfortable in the best way.
+- **[[williams-david-lay|David Lay Williams]], *The Greatest of All Plagues*** (2024) — the intellectual-history backbone the others assume but don't supply: Plato, Jesus, Hobbes, Rousseau, Smith, Mill, and Marx all reading wealth concentration as a primary political danger. The book that lets you say "this concern is as old as political thought itself" and mean it precisely.
 
 ## On digital public infrastructure and platform power
 
