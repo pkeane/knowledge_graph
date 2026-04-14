@@ -36,3 +36,10 @@ Faulkner's central preoccupation is the weight of history — especially the Sou
 - *Absalom, Absalom!* (1936)
 - *The Hamlet* (1940)
 - *Go Down, Moses* (1942)
+
+## Secondary sources
+
+- Cleanth Brooks, *William Faulkner: The Yoknapatawpha Country* (1963) — the great New Critical study, and still the single most useful guide to the novels as a mapped imaginative world. Brooks followed it with *William Faulkner: Toward Yoknapatawpha and Beyond* (1978).
+- Joseph Blotner, *Faulkner: A Biography* (1974; revised one-vol., 1984) — the authorized, exhaustive life; the standard reference.
+- Jay Parini, *One Matchless Time: A Life of William Faulkner* (2004) — the outstanding readable modern biography.
+- Irving Howe, *William Faulkner: A Critical Study* (1952; rev. 1975) — the classic short critical book; unusually lucid.
