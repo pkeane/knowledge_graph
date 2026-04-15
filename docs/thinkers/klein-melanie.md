@@ -7,14 +7,14 @@ died: 1960
 era: 20th century
 nationality: Austrian-British
 tags: [psychoanalysis, psychology]
-related: [freud-sigmund, horney-karen]
+related: [freud-sigmund, horney-karen, freud-anna]
 influenced_by: [freud-sigmund]
 influenced: []
 ---
 
 # Melanie Klein
 
-Austrian-British psychoanalyst and the central figure in the development of what is now called *object relations* theory. Klein moved from Vienna to Budapest to Berlin to London over the 1910s and 1920s, and her arrival in London in 1926 — at the invitation of Ernest Jones — set the stage for the long argument, the so-called *Controversial Discussions* of 1941–1945, between her followers and Anna Freud's more orthodox circle. The British Psychoanalytical Society eventually accommodated both by dividing itself into three groups (Kleinian, Contemporary Freudian, and Independent), and this tripartite structure has shaped British and much non-American psychoanalysis ever since.
+Austrian-British psychoanalyst and the central figure in the development of what is now called *object relations* theory. Klein moved from Vienna to Budapest to Berlin to London over the 1910s and 1920s, and her arrival in London in 1926 — at the invitation of Ernest Jones — set the stage for the long argument, the so-called *Controversial Discussions* of 1941–1945, between her followers and [[freud-anna|Anna Freud's]] more orthodox circle. The British Psychoanalytical Society eventually accommodated both by dividing itself into three groups (Kleinian, Contemporary Freudian, and Independent), and this tripartite structure has shaped British and much non-American psychoanalysis ever since.
 
 Klein's principal innovation was the extension of psychoanalytic technique to very young children through the *play technique* — treating the child's play with toys as the equivalent of the adult patient's free association. What she found there, in her account, was an inner world populated from the earliest months of life by phantasies of "objects" (parts of other persons, internalized in split good/bad forms) and by primitive anxieties of persecution and loss. From this clinical material she constructed a developmental scheme very different from Freud's libidinal stages: the *paranoid-schizoid position* (roughly, the first months, organized around splitting and persecutory anxiety) and the *depressive position* (reached when the infant can recognize the good and bad object as one whole person, and can bear the guilt and concern that follow). The two "positions" are not stages to be passed through once but organizations of experience to which a person returns throughout life.
 
