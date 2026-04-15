@@ -9,7 +9,7 @@ nationality: French
 tags: [feminism, existentialism, ethics, political-theory]
 related: [wollstonecraft-mary, foucault-michel]
 influenced_by: [hegel-gwf]
-influenced: []
+influenced: [hooks-bell, feminism]
 ---
 
 # Simone de Beauvoir

@@ -9,7 +9,7 @@ nationality: American-British
 tags: [literature, poetry, modernism, criticism, anglicanism]
 related: [auden-wh, o-connor-flannery, joyce-james, woolf-virginia]
 influenced_by: []
-influenced: [auden-wh]
+influenced: [auden-wh, o-connor-flannery]
 ---
 
 # T. S. Eliot

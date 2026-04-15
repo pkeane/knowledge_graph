@@ -9,7 +9,7 @@ nationality: German-American
 tags: [theology, existentialism, philosophy-of-religion]
 related: [kierkegaard-soren, existentialism, merton-thomas, cox-harvey, may-rollo]
 influenced_by: [kierkegaard-soren, existentialism, hegel-gwf]
-influenced: [cox-harvey, may-rollo]
+influenced: [cox-harvey, may-rollo, king-mlk]
 ---
 
 # Paul Tillich

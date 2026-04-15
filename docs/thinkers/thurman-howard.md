@@ -9,7 +9,7 @@ nationality: American
 tags: [theology, mysticism, african-american-thought, civil-rights, religion]
 related: [king-mlk, merton-thomas, day-dorothy, cone-james, du-bois-web, tillich-paul]
 influenced_by: []
-influenced: [king-mlk, cone-james]
+influenced: [king-mlk, cone-james, civil-rights-movement]
 ---
 
 # Howard Thurman

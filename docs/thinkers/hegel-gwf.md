@@ -9,7 +9,7 @@ nationality: German
 tags: [idealism, dialectic, political-theory, historicism]
 related: [marx-karl, kant-immanuel, french-revolution]
 influenced_by: [kant-immanuel, rousseau-jj, french-revolution]
-influenced: [marx-karl, kierkegaard-soren, frankfurt-school, arendt-hannah]
+influenced: [marx-karl, kierkegaard-soren, frankfurt-school, arendt-hannah, de-beauvoir-simone, tillich-paul, gramsci-antonio]
 ---
 
 # G. W. F. Hegel

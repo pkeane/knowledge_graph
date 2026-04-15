@@ -9,7 +9,7 @@ nationality: American
 tags: [literature, fiction, african-american-thought, race, criticism]
 related: [baldwin-james, ellison-ralph, du-bois-web, hooks-bell]
 influenced_by: [ellison-ralph, baldwin-james]
-influenced: []
+influenced: [hooks-bell]
 ---
 
 # Toni Morrison
