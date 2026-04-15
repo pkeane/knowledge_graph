@@ -7,7 +7,7 @@ died: 1948
 era: 19th–20th century
 nationality: Indian
 tags: [nonviolence, anticolonialism, political-theory, religion, indian-thought]
-related: [tolstoy-leo, king-mlk, tagore-rabindranath, ambedkar-br, thoreau-henry-david, day-dorothy, merton-thomas]
+related: [tolstoy-leo, king-mlk, tagore-rabindranath, ambedkar-br, thoreau-henry-david, day-dorothy, merton-thomas, roy-arundhati]
 influenced_by: [tolstoy-leo, thoreau-henry-david]
 influenced: [king-mlk, civil-rights-movement]
 ---

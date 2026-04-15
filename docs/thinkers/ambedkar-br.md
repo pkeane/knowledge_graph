@@ -7,9 +7,9 @@ died: 1956
 era: 19th–20th century
 nationality: Indian
 tags: [caste, dalit, law, political-theory, indian-thought, buddhism]
-related: [gandhi-mohandas, du-bois-web, constitutionalism]
+related: [gandhi-mohandas, du-bois-web, constitutionalism, roy-arundhati]
 influenced_by: [dewey-john]
-influenced: []
+influenced: [roy-arundhati]
 ---
 
 # B. R. Ambedkar
