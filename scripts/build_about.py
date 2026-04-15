@@ -1,12 +1,12 @@
 #!/usr/bin/env python3
-"""Render values-review.md to site/values/index.html with relative links to thinker pages."""
+"""Render about.md to site/about/index.html with relative links to thinker pages."""
 import re
 from pathlib import Path
 import markdown
 
 ROOT = Path(__file__).resolve().parent.parent
-SRC = ROOT / "values-review.md"
-OUT_DIR = ROOT / "site" / "values"
+SRC = ROOT / "about.md"
+OUT_DIR = ROOT / "site" / "about"
 OUT = OUT_DIR / "index.html"
 
 OUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -40,7 +40,7 @@ html = (
     '<!doctype html><html lang="en"><head>'
     '<meta charset="utf-8">'
     '<meta name="viewport" content="width=device-width,initial-scale=1">'
-    '<title>Values Review — Knowledge Graph</title>'
+    '<title>About the Knowledge Graph</title>'
     f'<style>{CSS}</style>'
     '</head><body>'
     '<nav class="breadcrumb"><a href="../index.html">← Knowledge Graph</a></nav>'
