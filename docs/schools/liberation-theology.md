@@ -4,7 +4,7 @@ type: school
 name: Liberation Theology
 era: mid-20th century–present
 tags: [theology, religion, latin-america, marxism, social-justice]
-related: [thurman-howard, king-mlk, day-dorothy, merton-thomas, social-gospel, nonviolence, racial-capitalism]
+related: [thurman-howard, king-mlk, day-dorothy, merton-thomas, social-gospel, nonviolence, racial-capitalism, freire-paulo]
 influenced_by: [marx-karl]
 influenced: []
 ---

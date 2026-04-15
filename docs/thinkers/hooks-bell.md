@@ -7,7 +7,7 @@ died: 2021
 era: 20th–21st century
 nationality: American
 tags: [feminism, african-american-thought, cultural-criticism, education, love]
-related: [morrison-toni, baldwin-james, murray-pauli, intersectionality, de-beauvoir-simone]
+related: [morrison-toni, baldwin-james, murray-pauli, intersectionality, de-beauvoir-simone, freire-paulo]
 influenced_by: [baldwin-james, morrison-toni]
 influenced: []
 ---
