@@ -4,7 +4,7 @@ type: concept
 name: Colonialism
 era: 15th–20th century
 tags: [history, imperialism, race, power, capitalism]
-related: [robinson-cedric, du-bois-web, harvey-david, klein-naomi, racial-capitalism, racism, white-supremacy, inequality, fanon-frantz]
+related: [robinson-cedric, du-bois-web, harvey-david, klein-naomi, racial-capitalism, racism, white-supremacy, inequality, fanon-frantz, said-edward]
 influenced_by: []
 influenced: []
 ---

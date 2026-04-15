@@ -9,7 +9,7 @@ nationality: Martinican / Algerian
 tags: [colonialism, race, psychiatry, anti-colonial, black-thought]
 related: [colonialism, racial-capitalism, du-bois-web, freire-paulo, racism, white-supremacy]
 influenced_by: [sartre-jean-paul, hegel-gwf]
-influenced: [freire-paulo, hardt-michael, negri-antonio]
+influenced: [freire-paulo, hardt-michael, negri-antonio, said-edward]
 ---
 
 # Frantz Fanon
