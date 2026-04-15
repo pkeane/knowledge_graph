@@ -3,7 +3,7 @@ id: natural-rights
 type: concept
 name: Natural Rights
 era: 17th century–present
-tags: [liberalism, rights, political-theory]
+tags: [liberalism, political-theory]
 related: [locke-john, paine-thomas, jefferson-thomas, nozick-robert, social-contract]
 influenced_by: [locke-john]
 influenced: [classical-liberalism, jefferson-thomas]

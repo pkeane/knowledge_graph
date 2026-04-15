@@ -6,7 +6,7 @@ born: 1749
 died: 1832
 era: 18th–19th century
 nationality: German
-tags: [literature, german-idealism, romanticism, science, weltliteratur]
+tags: [literature, idealism, romanticism, science]
 related: [schiller-friedrich, hegel-gwf, kant-immanuel, mann-thomas]
 influenced_by: [spinoza-baruch, shakespeare-william, rousseau-jj]
 influenced: [hegel-gwf, nietzsche-friedrich, mann-thomas, emerson-ralph-waldo]

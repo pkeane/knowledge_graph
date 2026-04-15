@@ -3,7 +3,7 @@ id: libertarianism
 type: school
 name: Libertarianism
 era: 20th–21st century
-tags: [politics, liberty, property, individualism, political-theory]
+tags: [politics, liberty, libertarianism, political-theory]
 related: [nozick-robert, hayek-fa, friedman-milton, classical-liberalism, neoliberalism, conservatism, negative-liberty, harm-principle]
 influenced_by: [locke-john, mill-js]
 influenced: [neoliberalism]

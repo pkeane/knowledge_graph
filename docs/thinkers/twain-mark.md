@@ -6,7 +6,7 @@ born: 1835
 died: 1910
 era: 19th–20th century
 nationality: American
-tags: [literature, fiction, american-thought, satire, anti-imperialism]
+tags: [literature, fiction, american-thought, anticolonialism]
 related: [whitman-walt, emerson-rw, douglass-frederick]
 influenced_by: []
 influenced: [ellison-ralph, hemingway-ernest]

@@ -6,7 +6,7 @@ born: 1915
 died: 2005
 era: 20th–21st century
 nationality: American (Canadian-born)
-tags: [literature, existentialism, american-jewish, chicago]
+tags: [literature, existentialism, jewish-thought, american-thought, chicago]
 related: [roth-philip, ellison-ralph, sartre-jean-paul, kierkegaard-soren, camus-albert]
 influenced_by: [dostoevsky-fyodor, kierkegaard-soren, sartre-jean-paul]
 influenced: [roth-philip]

@@ -3,7 +3,7 @@ id: utilitarianism
 type: school
 name: Utilitarianism
 era: 18th century–present
-tags: [ethics, political-theory, consequentialism]
+tags: [ethics, political-theory, utilitarianism]
 related: [bentham-jeremy, mill-js, classical-liberalism]
 influenced_by: [bentham-jeremy, mill-js]
 influenced: [welfare-economics]

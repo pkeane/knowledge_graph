@@ -5,7 +5,7 @@ name: Michael Sandel
 born: 1953
 era: 20th–21st century
 nationality: American
-tags: [communitarianism, political-theory, democratic-theory, critique-of-liberalism]
+tags: [communitarianism, political-theory, democracy, critique-of-liberalism]
 related: [rawls-john, macintyre-alasdair]
 influenced_by: [macintyre-alasdair]
 influenced: []

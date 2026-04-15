@@ -6,7 +6,7 @@ born: 1860
 died: 1935
 era: 19th–20th century
 nationality: American
-tags: [social-reform, progressivism, pragmatism, feminism, peace, sociology]
+tags: [progressivism, pragmatism, feminism, peace, sociology]
 related: [dewey-john, du-bois-web, welfare-state, wollstonecraft-mary, sinclair-upton]
 influenced_by: [dewey-john]
 influenced: [dewey-john]

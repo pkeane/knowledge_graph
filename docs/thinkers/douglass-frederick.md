@@ -6,7 +6,7 @@ born: 1818
 died: 1895
 era: 19th century
 nationality: American
-tags: [abolition, african-american-thought, civil-rights, slavery, american-thought]
+tags: [abolition, african-american-thought, civil-rights, african-american, race, american-thought]
 related: [du-bois-web, baldwin-james, thurman-howard, stevenson-bryan, stowe-harriet-beecher, racism, white-supremacy, hayden-robert]
 influenced_by: []
 influenced: [du-bois-web, baldwin-james]

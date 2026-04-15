@@ -6,7 +6,7 @@ born: 1864
 died: 1920
 era: 19th–20th century
 nationality: German
-tags: [sociology, political-theory, religion, methodology]
+tags: [sociology, political-theory, religion]
 related: [marx-karl, nietzsche-friedrich, durkheim-emile, ibn-khaldun]
 influenced_by: [marx-karl, nietzsche-friedrich, kant-immanuel]
 influenced: [frankfurt-school, habermas-jurgen]

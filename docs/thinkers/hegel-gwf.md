@@ -6,7 +6,7 @@ born: 1770
 died: 1831
 era: 18th–19th century
 nationality: German
-tags: [idealism, dialectic, political-theory, historicism]
+tags: [idealism, philosophy, political-theory, history]
 related: [marx-karl, kant-immanuel, french-revolution]
 influenced_by: [kant-immanuel, rousseau-jj, french-revolution]
 influenced: [marx-karl, kierkegaard-soren, frankfurt-school, arendt-hannah, de-beauvoir-simone, tillich-paul, gramsci-antonio]

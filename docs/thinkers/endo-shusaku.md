@@ -6,7 +6,7 @@ born: 1923
 died: 1996
 era: 20th century
 nationality: Japanese
-tags: [literature, catholicism, japan, existentialism, religion]
+tags: [literature, catholicism, existentialism, religion]
 related: [oe-kenzaburo, graham-greene, mauriac-francois, kierkegaard-soren]
 influenced_by: [mauriac-francois, graham-greene, kierkegaard-soren]
 influenced: []

@@ -6,7 +6,7 @@ born: 1931
 died: 2013
 era: 20th–21st century
 nationality: American
-tags: [philosophy, law, political-theory, jurisprudence, liberalism]
+tags: [philosophy, law, political-theory, liberalism]
 related: [rawls-john, hart-hla, nussbaum-martha, sandel-michael, nozick-robert, sen-amartya]
 influenced_by: [rawls-john]
 influenced: []

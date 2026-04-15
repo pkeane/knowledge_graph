@@ -6,7 +6,7 @@ born: -551
 died: -479
 era: Ancient
 nationality: Chinese (Zhou)
-tags: [ethics, political-theory, chinese-thought, virtue-ethics, classical]
+tags: [ethics, political-theory, chinese-thought, virtue-ethics]
 related: [aristotle, virtue-ethics]
 influenced_by: []
 influenced: []

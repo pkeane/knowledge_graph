@@ -6,7 +6,7 @@ born: 1903
 died: 1983
 era: 20th century
 nationality: British
-tags: [economics, post-keynesian, political-economy, marxism]
+tags: [economics, keynesianism, political-economy, marxism]
 related: [keynes-jm, marx-karl, galbraith-john-kenneth, minsky-hyman, sen-amartya]
 influenced_by: [keynes-jm, marx-karl]
 influenced: [sen-amartya]

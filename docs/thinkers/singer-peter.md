@@ -5,7 +5,7 @@ name: Peter Singer
 born: 1946
 era: 20th–21st century
 nationality: Australian
-tags: [philosophy, ethics, utilitarianism, applied-ethics, animal-rights]
+tags: [philosophy, ethics, utilitarianism]
 related: [bentham-jeremy, mill-js, utilitarianism, williams-bernard, nussbaum-martha]
 influenced_by: [bentham-jeremy, mill-js]
 influenced: []

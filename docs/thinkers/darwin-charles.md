@@ -6,7 +6,7 @@ born: 1809
 died: 1882
 era: 19th century
 nationality: English
-tags: [science, biology, natural-history, evolution, 19th-century]
+tags: [science]
 related: [marx-karl, nietzsche-friedrich, james-william, freud-sigmund]
 influenced_by: []
 influenced: [marx-karl, nietzsche-friedrich, james-william, freud-sigmund, dewey-john]

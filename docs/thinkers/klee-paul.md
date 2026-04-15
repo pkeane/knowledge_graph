@@ -6,7 +6,7 @@ born: 1879
 died: 1940
 era: 19th–20th century
 nationality: Swiss-German
-tags: [bauhaus, painting, pedagogy, modernism, abstraction]
+tags: [bauhaus, painting, pedagogy, modernism]
 related: [kandinsky-wassily, gropius-walter, albers-josef, moholy-nagy-laszlo, benjamin-walter]
 influenced_by: [cezanne-paul]
 influenced: [albers-josef]

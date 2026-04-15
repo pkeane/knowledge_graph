@@ -6,7 +6,7 @@ born: 1888
 died: 1976
 era: 20th century
 nationality: German-American
-tags: [bauhaus, color-theory, pedagogy, painting, black-mountain]
+tags: [bauhaus, painting, pedagogy, design, modernism]
 related: [gropius-walter, moholy-nagy-laszlo, klee-paul, kandinsky-wassily, albers-anni]
 influenced_by: [klee-paul, kandinsky-wassily, moholy-nagy-laszlo]
 influenced: []

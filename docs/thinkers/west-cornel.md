@@ -5,7 +5,7 @@ name: Cornel West
 born: 1953
 era: 20th–21st century
 nationality: American
-tags: [african-american-thought, pragmatism, theology, political-philosophy, public-intellectual]
+tags: [african-american-thought, pragmatism, theology, political-theory, public-intellectual]
 related: [baldwin-james, du-bois-web, thurman-howard, king-mlk, james-william, dewey-john, liberation-theology, cone-james]
 influenced_by: [james-william, dewey-john, du-bois-web, baldwin-james, cone-james]
 influenced: []

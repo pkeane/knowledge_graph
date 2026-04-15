@@ -6,7 +6,7 @@ born: 1908
 died: 2006
 era: 20th century
 nationality: Canadian-American
-tags: [economics, political-economy, keynesianism, institutional-economics, american-thought]
+tags: [economics, political-economy, keynesianism, american-thought]
 related: [keynes-jm, veblen-thorstein, krugman-paul, minsky-hyman, welfare-state]
 influenced_by: [keynes-jm, veblen-thorstein]
 influenced: []

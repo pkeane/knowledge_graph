@@ -5,7 +5,7 @@ name: David Lay Williams
 born: 1969
 era: 21st century
 nationality: American
-tags: [political-theory, history-of-political-thought, inequality, democracy]
+tags: [political-theory, history-of-ideas, inequality, democracy]
 related: [reich-robert, hacker-jacob, pierson-paul, piketty-thomas, mcmahon-darrin, milanovic-branko, rousseau-jj, mill-js, marx-karl, hobbes-thomas, smith-adam, inequality]
 influenced_by: []
 influenced: []

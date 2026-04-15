@@ -5,7 +5,7 @@ name: Robert Putnam
 born: 1941
 era: 20th–21st century
 nationality: American
-tags: [political-science, sociology, democracy, civic-life, american-thought]
+tags: [political-science, sociology, democracy, american-thought]
 related: [tocqueville-alexis, addams-jane, taylor-charles, sandel-michael, welfare-state]
 influenced_by: [tocqueville-alexis]
 influenced: []

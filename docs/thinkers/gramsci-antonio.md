@@ -6,7 +6,7 @@ born: 1891
 died: 1937
 era: 20th century
 nationality: Italian
-tags: [marxism, critical-theory, political-theory, hegemony]
+tags: [marxism, critical-theory, political-theory]
 related: [marx-karl, marxism, frankfurt-school]
 influenced_by: [marx-karl, hegel-gwf]
 influenced: [frankfurt-school, cultural-studies, freire-paulo, hardt-michael, negri-antonio]

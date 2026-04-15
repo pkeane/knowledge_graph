@@ -5,7 +5,7 @@ name: Darrin M. McMahon
 born: 1965
 era: 20th–21st century
 nationality: American
-tags: [intellectual-history, history-of-ideas, enlightenment, equality]
+tags: [history-of-ideas, enlightenment, political-theory]
 related: [williams-david-lay, milanovic-branko, berlin-isaiah, inequality]
 influenced_by: []
 influenced: []

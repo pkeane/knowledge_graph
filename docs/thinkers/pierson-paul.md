@@ -5,7 +5,7 @@ name: Paul Pierson
 born: 1959
 era: 20th–21st century
 nationality: American
-tags: [political-science, political-economy, inequality, welfare-state, democracy]
+tags: [political-science, political-economy, inequality, social-democracy, democracy]
 related: [hacker-jacob, reich-robert, putnam-robert, inequality, welfare-state]
 influenced_by: []
 influenced: []

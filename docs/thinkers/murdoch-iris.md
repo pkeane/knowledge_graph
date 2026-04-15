@@ -6,7 +6,7 @@ born: 1919
 died: 1999
 era: 20th century
 nationality: British (Irish-born)
-tags: [literature, philosophy, moral-philosophy, existentialism, platonism]
+tags: [literature, philosophy, moral-philosophy, existentialism]
 related: [sartre-jean-paul, weil-simone, anscombe-elizabeth, macintyre-alasdair, nussbaum-martha]
 influenced_by: [plato, weil-simone, sartre-jean-paul]
 influenced: [nussbaum-martha]

@@ -6,7 +6,7 @@ born: 1906
 died: 1945
 era: 20th century
 nationality: German
-tags: [theology, ethics, christianity, resistance]
+tags: [theology, ethics, christianity, dissent]
 related: [tillich-paul, niebuhr-reinhold, merton-thomas, day-dorothy]
 influenced_by: [kierkegaard-soren]
 influenced: [cox-harvey]

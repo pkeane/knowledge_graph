@@ -6,7 +6,7 @@ born: 1929
 died: 2012
 era: 20th–21st century
 nationality: American
-tags: [literature, poetry, feminism, lesbian, politics]
+tags: [literature, poetry, feminism, politics]
 related: [lorde-audre, morrison-toni, dickinson-emily, brooks-gwendolyn, beauvoir-simone-de]
 influenced_by: [dickinson-emily, auden-wh, beauvoir-simone-de]
 influenced: []

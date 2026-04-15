@@ -6,7 +6,7 @@ born: 1891
 died: 1960
 era: 20th century
 nationality: American
-tags: [literature, anthropology, harlem-renaissance, folklore, african-american]
+tags: [literature, sociology, harlem-renaissance, african-american]
 related: [hughes-langston, wright-richard, morrison-toni, walker-alice, du-bois-web]
 influenced_by: [boas-franz]
 influenced: [walker-alice, morrison-toni]

@@ -3,7 +3,7 @@ id: french-revolution
 type: event
 name: The French Revolution
 era: 1789–1799
-tags: [revolution, political-history, radicalism, conservatism]
+tags: [revolution, history, radicalism, conservatism]
 related: [burke-edmund, paine-thomas, rousseau-jj, tocqueville-alexis, conservatism]
 influenced_by: [rousseau-jj]
 influenced: [burke-edmund, conservatism, marx-karl, tocqueville-alexis]

@@ -6,7 +6,7 @@ born: 1906
 died: 1989
 era: 20th century
 nationality: Irish
-tags: [literature, modernism, theater-of-the-absurd, existentialism]
+tags: [literature, modernism, theater, existentialism]
 related: [joyce-james, proust-marcel, kafka-franz, sartre-jean-paul]
 influenced_by: [joyce-james, proust-marcel, dante-alighieri, schopenhauer-arthur]
 influenced: []

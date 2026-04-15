@@ -6,7 +6,7 @@ born: 1916
 died: 2006
 era: 20th–21st century
 nationality: American-Canadian
-tags: [urbanism, political-economy, journalism, community, cities]
+tags: [urbanism, political-economy, journalism, community]
 related: [berry-wendell, addams-jane, galbraith-john-kenneth, carson-rachel, mumford-lewis, alexander-christopher]
 influenced_by: [mumford-lewis]
 influenced: [alexander-christopher]

@@ -6,7 +6,7 @@ born: 1854
 died: 1891
 era: 19th century
 nationality: French
-tags: [literature, poetry, symbolism, modernism, french]
+tags: [literature, poetry, symbolism, modernism]
 related: [verlaine-paul, baudelaire-charles, mallarme-stephane, dylan-bob, ginsberg-allen]
 influenced_by: [baudelaire-charles]
 influenced: [dylan-bob]

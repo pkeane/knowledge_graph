@@ -6,7 +6,7 @@ born: 1866
 died: 1944
 era: 19th–20th century
 nationality: Russian / German / French
-tags: [bauhaus, painting, abstraction, theosophy, color-theory]
+tags: [bauhaus, painting, modernism, mysticism]
 related: [klee-paul, gropius-walter, albers-josef, moholy-nagy-laszlo, malevich-kazimir]
 influenced_by: [theosophy]
 influenced: []

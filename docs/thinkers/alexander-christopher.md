@@ -6,7 +6,7 @@ born: 1936
 died: 2022
 era: 20th–21st century
 nationality: British-American (Austrian-born)
-tags: [architecture, design, pattern-language, urbanism, critique-of-modernism]
+tags: [architecture, design, urbanism, critique]
 related: [jacobs-jane, mumford-lewis, illich-ivan, morris-william]
 influenced_by: [jacobs-jane, mumford-lewis]
 influenced: []

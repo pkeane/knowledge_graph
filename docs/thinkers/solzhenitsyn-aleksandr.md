@@ -6,7 +6,7 @@ born: 1918
 died: 2008
 era: 20th–21st century
 nationality: Russian
-tags: [literature, gulag, russia, orthodox-christianity, anticommunism, dissent]
+tags: [literature, totalitarianism, russia, christianity, conservatism, dissent]
 related: [dostoevsky-fyodor, tolstoy-leo, akhmatova-anna, havel-vaclav]
 influenced_by: [dostoevsky-fyodor, tolstoy-leo]
 influenced: []

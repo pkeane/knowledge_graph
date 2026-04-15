@@ -3,7 +3,7 @@ id: industrial-revolution
 type: event
 name: The Industrial Revolution
 era: c. 1760–1840
-tags: [economic-history, political-economy, social-change]
+tags: [economic-history, political-economy]
 related: [smith-adam, marx-karl, engels-friedrich, ricardo-david, classical-liberalism]
 influenced_by: []
 influenced: [marx-karl, engels-friedrich, classical-liberalism, marxism]

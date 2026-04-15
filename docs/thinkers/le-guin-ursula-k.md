@@ -6,7 +6,7 @@ born: 1929
 died: 2018
 era: 20th–21st century
 nationality: American
-tags: [literature, science-fiction, fantasy, feminism, anarchism, taoism]
+tags: [literature, science-fiction, fiction, feminism, anarchism, taoism]
 related: [dick-philip-k, atwood-margaret, tolkien-jrr, kropotkin-peter]
 influenced_by: [lao-tzu, kropotkin-peter, tolstoy-leo]
 influenced: []

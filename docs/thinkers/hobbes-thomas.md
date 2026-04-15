@@ -6,7 +6,7 @@ born: 1588
 died: 1679
 era: 17th century
 nationality: English
-tags: [political-theory, social-contract, absolutism, materialism]
+tags: [political-theory, social-contract, materialism]
 related: [locke-john, rousseau-jj, social-contract]
 influenced_by: []
 influenced: [locke-john, rousseau-jj, bentham-jeremy, schmitt-carl]

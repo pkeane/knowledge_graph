@@ -5,7 +5,7 @@ name: Tim Wu
 born: 1972
 era: 21st century
 nationality: American
-tags: [law, technology, antitrust, political-economy, media]
+tags: [law, technology, antitrust, political-economy]
 related: [zuboff-shoshana, doctorow-cory, brandeis-louis, inequality]
 influenced_by: [brandeis-louis]
 influenced: []

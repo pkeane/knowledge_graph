@@ -6,7 +6,7 @@ born: 1902
 died: 1994
 era: 20th century
 nationality: German-American
-tags: [psychology, psychoanalysis, developmental-psychology, psychohistory, identity]
+tags: [psychology, psychoanalysis]
 related: [freud-sigmund, freud-anna, mead-margaret, coles-robert, gandhi-mohandas]
 influenced_by: [freud-sigmund, freud-anna]
 influenced: [coles-robert]

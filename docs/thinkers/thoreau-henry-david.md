@@ -6,7 +6,7 @@ born: 1817
 died: 1862
 era: 19th century
 nationality: American
-tags: [transcendentalism, american-thought, civil-disobedience, nature]
+tags: [transcendentalism, american-thought, nonviolence, environmentalism]
 related: [emerson-rw, king-mlk, gandhi-mohandas]
 influenced_by: [emerson-rw]
 influenced: [king-mlk, gandhi-mohandas]

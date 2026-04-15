@@ -6,7 +6,7 @@ born: 1839
 died: 1914
 era: 19th–20th century
 nationality: American
-tags: [philosophy, logic, pragmatism, semiotics, science]
+tags: [philosophy, pragmatism, science]
 related: [james-william, dewey-john, percy-walker]
 influenced_by: [kant-immanuel]
 influenced: [james-william, dewey-john, percy-walker]

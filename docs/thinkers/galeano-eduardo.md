@@ -6,7 +6,7 @@ born: 1940
 died: 2015
 era: 20th–21st century
 nationality: Uruguayan
-tags: [literature, latin-america, dependency-theory, journalism, memory]
+tags: [literature, latin-america, latin-american-thought, marxism, journalism, memory]
 related: [garcia-marquez-gabriel, mariategui-jose-carlos, chomsky-noam, klein-naomi]
 influenced_by: [mariategui-jose-carlos, marx-karl]
 influenced: [klein-naomi]

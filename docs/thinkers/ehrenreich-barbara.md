@@ -6,7 +6,7 @@ born: 1941
 died: 2022
 era: 20th–21st century
 nationality: American
-tags: [journalism, essay, political-theory, feminism, class, poverty]
+tags: [journalism, essay, political-theory, feminism, political-economy, poverty]
 related: [abramsky-sasha, klein-naomi, addams-jane, hooks-bell, poverty, inequality]
 influenced_by: []
 influenced: []

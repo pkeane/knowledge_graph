@@ -6,7 +6,7 @@ born: 1875
 died: 1961
 era: 20th century
 nationality: Swiss
-tags: [psychology, analytical-psychology, religion, symbolism]
+tags: [psychology, religion, symbolism]
 related: [freud-sigmund, davies-robertson]
 influenced_by: [freud-sigmund]
 influenced: [may-rollo, davies-robertson]

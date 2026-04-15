@@ -6,7 +6,7 @@ born: 1862
 died: 1931
 era: 19th–20th century
 nationality: American
-tags: [journalism, civil-rights, african-american-thought, feminism, anti-lynching]
+tags: [journalism, civil-rights, african-american-thought, feminism, race]
 related: [du-bois-web, addams-jane, murray-pauli, stevenson-bryan, wilkerson-isabel, racism, civil-rights-movement]
 influenced_by: []
 influenced: [du-bois-web, stevenson-bryan]

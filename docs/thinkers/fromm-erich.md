@@ -6,7 +6,7 @@ born: 1900
 died: 1980
 era: 20th century
 nationality: German-American
-tags: [psychoanalysis, critical-theory, social-psychology, frankfurt-school, humanism]
+tags: [psychoanalysis, critical-theory, psychology, frankfurt-school, ethics]
 related: [frankfurt-school, freud-sigmund, marx-karl, marcuse-herbert, may-rollo]
 influenced_by: [freud-sigmund, marx-karl, frankfurt-school]
 influenced: []

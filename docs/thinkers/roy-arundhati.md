@@ -5,7 +5,7 @@ name: Arundhati Roy
 born: 1961
 era: 20th–21st century
 nationality: Indian
-tags: [literature, fiction, political-essay, india, anticolonialism, caste]
+tags: [literature, fiction, essay, indian-thought, anticolonialism, caste]
 related: [ambedkar-br, gandhi-mohandas, said-edward, chomsky-noam, klein-naomi, garcia-marquez-gabriel]
 influenced_by: [garcia-marquez-gabriel, joyce-james]
 influenced: []

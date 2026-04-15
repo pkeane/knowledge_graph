@@ -6,7 +6,7 @@ born: 1772
 died: 1823
 era: 19th century
 nationality: English
-tags: [political-economy, classical-economics, liberalism]
+tags: [political-economy, economics, liberalism]
 related: [smith-adam, marx-karl, mill-js]
 influenced_by: [smith-adam]
 influenced: [marx-karl, mill-js]

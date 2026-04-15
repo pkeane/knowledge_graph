@@ -6,7 +6,7 @@ born: 1903
 died: 1950
 era: 20th century
 nationality: British
-tags: [literature, essay, political-writing, democratic-socialism, totalitarianism]
+tags: [literature, essay, socialism, totalitarianism]
 related: [arendt-hannah, zuboff-shoshana, woolf-virginia, huxley-aldous, dickens-charles]
 influenced_by: []
 influenced: [arendt-hannah]

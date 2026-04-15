@@ -5,7 +5,7 @@ name: Fintan O'Toole
 born: 1958
 era: 20th–21st century
 nationality: Irish
-tags: [journalism, political-theory, irish-history, theatre-criticism]
+tags: [journalism, political-theory, ireland, criticism]
 related: [lepore-jill, cobb-jelani]
 influenced_by: []
 influenced: []

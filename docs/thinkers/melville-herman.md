@@ -6,7 +6,7 @@ born: 1819
 died: 1891
 era: 19th century
 nationality: American
-tags: [literature, american-renaissance, metaphysics, sea]
+tags: [literature, american-renaissance, philosophy]
 related: [hawthorne-nathaniel, whitman-walt, emerson-ralph-waldo, twain-mark, faulkner-william]
 influenced_by: [shakespeare-william, hawthorne-nathaniel, emerson-ralph-waldo]
 influenced: [faulkner-william, ellison-ralph, olson-charles]

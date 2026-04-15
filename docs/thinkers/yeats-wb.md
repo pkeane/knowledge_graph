@@ -6,7 +6,7 @@ born: 1865
 died: 1939
 era: 19th–20th century
 nationality: Irish
-tags: [literature, poetry, modernism, irish-nationalism, occultism]
+tags: [literature, poetry, modernism, ireland, occultism]
 related: [eliot-ts, auden-wh, pound-ezra, heaney-seamus, tagore-rabindranath]
 influenced_by: [blake-william, shelley-percy-bysshe, tagore-rabindranath]
 influenced: [auden-wh, heaney-seamus]

@@ -5,7 +5,7 @@ name: Charles Taylor
 born: 1931
 era: 20th–21st century
 nationality: Canadian
-tags: [philosophy, political-theory, religion, hegelianism, communitarianism]
+tags: [philosophy, political-theory, religion, idealism, communitarianism]
 related: [hegel-gwf, sandel-michael, macintyre-alasdair, rawls-john, habermas-jurgen, niebuhr-reinhold]
 influenced_by: [hegel-gwf, herder-jg]
 influenced: [sandel-michael]

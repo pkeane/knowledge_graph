@@ -5,7 +5,7 @@ name: David Harvey
 born: 1935
 era: 20th–21st century
 nationality: British
-tags: [marxism, geography, political-economy, critique-of-neoliberalism]
+tags: [marxism, political-economy, neoliberalism, critique]
 related: [marx-karl, marxism, neoliberalism, klein-naomi, piketty-thomas]
 influenced_by: [marx-karl]
 influenced: []

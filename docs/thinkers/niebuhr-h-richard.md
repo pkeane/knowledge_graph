@@ -6,7 +6,7 @@ born: 1894
 died: 1962
 era: 20th century
 nationality: American
-tags: [theology, ethics, christianity, history-of-religions]
+tags: [theology, ethics, christianity, religion]
 related: [niebuhr-reinhold, tillich-paul]
 influenced_by: [kierkegaard-soren, troeltsch]
 influenced: []

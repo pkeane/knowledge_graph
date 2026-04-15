@@ -6,7 +6,7 @@ born: 1332
 died: 1406
 era: Medieval
 nationality: Tunisian (Maghrebi)
-tags: [historiography, sociology, political-theory, islamic-thought, medieval]
+tags: [history, sociology, political-theory, islamic-thought]
 related: [weber-max, durkheim-emile]
 influenced_by: []
 influenced: []

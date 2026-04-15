@@ -5,7 +5,7 @@ name: Martha Nussbaum
 born: 1947
 era: 20th–21st century
 nationality: American
-tags: [philosophy, ethics, political-theory, feminism, classics]
+tags: [philosophy, ethics, political-theory, feminism]
 related: [sen-amartya, mill-js, rawls-john, aristotle, feminism, inequality, intersectionality, murdoch-iris]
 influenced_by: [mill-js, sen-amartya, murdoch-iris]
 influenced: []

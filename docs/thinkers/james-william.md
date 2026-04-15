@@ -6,7 +6,7 @@ born: 1842
 died: 1910
 era: 19th–20th century
 nationality: American
-tags: [pragmatism, psychology, philosophy-of-religion, american-thought]
+tags: [pragmatism, psychology, religion, philosophy, american-thought]
 related: [dewey-john, emerson-rw]
 influenced_by: [emerson-rw]
 influenced: [dewey-john]

@@ -6,7 +6,7 @@ born: 1743
 died: 1826
 era: 18th–19th century
 nationality: American
-tags: [liberalism, republicanism, natural-rights, american-founding]
+tags: [liberalism, republicanism, natural-rights, american-thought, political-theory]
 related: [locke-john, paine-thomas, french-revolution]
 influenced_by: [locke-john, paine-thomas]
 influenced: []

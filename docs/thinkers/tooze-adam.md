@@ -5,7 +5,7 @@ name: Adam Tooze
 born: 1967
 era: 20th–21st century
 nationality: British
-tags: [economic-history, political-economy, 20th-century-history, crisis, neoliberalism]
+tags: [economic-history, political-economy, history, neoliberalism]
 related: [keynes-jm, neoliberalism, piketty-thomas, milanovic-branko]
 influenced_by: []
 influenced: []

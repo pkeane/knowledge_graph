@@ -6,7 +6,7 @@ born: 1907
 died: 1964
 era: 20th century
 nationality: American
-tags: [science, nature-writing, environmentalism, journalism]
+tags: [science, literature, environmentalism, journalism]
 related: [berry-wendell, klein-naomi, monbiot-george]
 influenced_by: []
 influenced: []

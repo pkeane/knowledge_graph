@@ -6,7 +6,7 @@ born: 1711
 died: 1776
 era: 18th century
 nationality: Scottish
-tags: [empiricism, scottish-enlightenment, moral-philosophy, skepticism]
+tags: [empiricism, enlightenment, moral-philosophy, philosophy]
 related: [smith-adam, locke-john]
 influenced_by: [locke-john]
 influenced: [smith-adam, bentham-jeremy, kant-immanuel]

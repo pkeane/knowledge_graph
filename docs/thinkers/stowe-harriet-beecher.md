@@ -6,7 +6,7 @@ born: 1811
 died: 1896
 era: 19th century
 nationality: American
-tags: [literature, fiction, abolitionism, american-thought, christianity]
+tags: [literature, fiction, abolition, american-thought, christianity]
 related: [douglass-frederick, emerson-rw]
 influenced_by: []
 influenced: []

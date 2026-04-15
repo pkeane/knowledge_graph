@@ -6,7 +6,7 @@ born: 1912
 died: 2006
 era: 20th century
 nationality: American
-tags: [economics, liberalism, libertarianism, monetarism]
+tags: [economics, liberalism, libertarianism]
 related: [hayek-fa, keynes-jm, neoliberalism]
 influenced_by: [hayek-fa]
 influenced: [neoliberalism]

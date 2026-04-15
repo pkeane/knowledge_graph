@@ -5,7 +5,7 @@ name: Shoshana Zuboff
 born: 1951
 era: 20th–21st century
 nationality: American
-tags: [technology, political-economy, privacy, democracy, surveillance]
+tags: [technology, political-economy, democracy]
 related: [wu-tim, doctorow-cory, arendt-hannah, polanyi-karl, inequality, orwell-george]
 influenced_by: [arendt-hannah, polanyi-karl]
 influenced: []

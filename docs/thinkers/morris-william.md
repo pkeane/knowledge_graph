@@ -6,7 +6,7 @@ born: 1834
 died: 1896
 era: 19th century
 nationality: English
-tags: [arts-and-crafts, socialism, design, utopia, literature]
+tags: [design, socialism, political-theory, literature]
 related: [ruskin-john, marx-karl, gropius-walter, mumford-lewis]
 influenced_by: [ruskin-john, marx-karl]
 influenced: [gropius-walter, mumford-lewis]

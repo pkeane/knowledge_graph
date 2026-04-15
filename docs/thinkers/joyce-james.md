@@ -6,7 +6,7 @@ born: 1882
 died: 1941
 era: 20th century
 nationality: Irish
-tags: [literature, fiction, modernism, irish-literature]
+tags: [literature, fiction, modernism]
 related: [woolf-virginia, eliot-ts, beckett-samuel, proust-marcel]
 influenced_by: []
 influenced: [woolf-virginia, faulkner-william, beckett-samuel]

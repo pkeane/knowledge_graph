@@ -5,7 +5,7 @@ name: Bob Dylan
 born: 1941
 era: 20th–21st century
 nationality: American
-tags: [literature, songwriting, poetry, folk, rock, american-thought]
+tags: [literature, poetry, american-thought]
 related: [guthrie-woody, kerouac-jack, ginsberg-allen, whitman-walt, rimbaud-arthur, king-mlk]
 influenced_by: [guthrie-woody, whitman-walt, rimbaud-arthur, kerouac-jack, ginsberg-allen]
 influenced: []

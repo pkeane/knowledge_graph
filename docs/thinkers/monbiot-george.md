@@ -5,7 +5,7 @@ name: George Monbiot
 born: 1963
 era: 20th–21st century
 nationality: British
-tags: [journalism, environmentalism, political-economy, critique-of-neoliberalism]
+tags: [journalism, environmentalism, political-economy, neoliberalism, critique]
 related: [klein-naomi, neoliberalism, harvey-david]
 influenced_by: []
 influenced: []

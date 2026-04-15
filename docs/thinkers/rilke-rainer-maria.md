@@ -6,7 +6,7 @@ born: 1875
 died: 1926
 era: 19th–20th century
 nationality: Austrian (Bohemian-born)
-tags: [poetry, literature, modernism, mysticism, german-literature]
+tags: [poetry, literature, modernism, mysticism]
 related: [kierkegaard-soren, nietzsche-friedrich, heidegger-martin]
 influenced_by: [nietzsche-friedrich]
 influenced: []

@@ -3,7 +3,7 @@ id: social-contract
 type: concept
 name: The Social Contract
 era: 17th century–present
-tags: [political-theory, legitimacy, liberalism]
+tags: [political-theory, liberalism]
 related: [hobbes-thomas, locke-john, rousseau-jj, rawls-john]
 influenced_by: [hobbes-thomas, locke-john, rousseau-jj]
 influenced: [classical-liberalism, rawls-john]

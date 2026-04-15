@@ -5,7 +5,7 @@ name: Paul Krugman
 born: 1953
 era: 20th–21st century
 nationality: American
-tags: [economics, political-economy, journalism, keynesianism, trade]
+tags: [economics, political-economy, journalism, keynesianism]
 related: [keynes-jm, stiglitz-joseph, piketty-thomas, galbraith-john-kenneth, minsky-hyman]
 influenced_by: [keynes-jm]
 influenced: []

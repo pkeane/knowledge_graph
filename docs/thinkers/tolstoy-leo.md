@@ -6,7 +6,7 @@ born: 1828
 died: 1910
 era: 19th–20th century
 nationality: Russian
-tags: [literature, christianity, nonviolence, anarchism, russian-literature]
+tags: [literature, christianity, nonviolence, anarchism]
 related: [dostoevsky-fyodor, day-dorothy, king-mlk, merton-thomas, gandhi-mohandas]
 influenced_by: []
 influenced: [day-dorothy, king-mlk, gandhi-mohandas]

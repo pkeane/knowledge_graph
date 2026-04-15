@@ -6,7 +6,7 @@ born: 1888
 died: 1965
 era: 20th century
 nationality: American-British
-tags: [literature, poetry, modernism, criticism, anglicanism]
+tags: [literature, poetry, modernism, criticism, christianity]
 related: [auden-wh, o-connor-flannery, joyce-james, woolf-virginia]
 influenced_by: []
 influenced: [auden-wh, o-connor-flannery]

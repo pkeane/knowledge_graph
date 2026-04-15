@@ -6,7 +6,7 @@ born: 1889
 died: 1966
 era: 20th century
 nationality: Russian
-tags: [literature, poetry, russia, stalinism, witness]
+tags: [literature, poetry, russia, totalitarianism]
 related: [mandelshtam-osip, pasternak-boris, solzhenitsyn-aleksandr, berlin-isaiah]
 influenced_by: [pushkin-alexander]
 influenced: []

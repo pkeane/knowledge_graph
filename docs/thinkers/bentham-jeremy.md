@@ -6,7 +6,7 @@ born: 1748
 died: 1832
 era: 18th–19th century
 nationality: English
-tags: [utilitarianism, reform, jurisprudence, liberalism]
+tags: [utilitarianism, reform, law, liberalism]
 related: [mill-js, utilitarianism]
 influenced_by: [hume-david, hobbes-thomas]
 influenced: [mill-js, austin-john, utilitarianism]

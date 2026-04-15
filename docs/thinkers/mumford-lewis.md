@@ -6,7 +6,7 @@ born: 1895
 died: 1990
 era: 20th century
 nationality: American
-tags: [urban-thought, technology, architecture, american-thought, critique-of-modernity]
+tags: [urbanism, technology, architecture, american-thought, critique]
 related: [morris-william, jacobs-jane, alexander-christopher, geddes-patrick]
 influenced_by: [morris-william, geddes-patrick, emerson-ralph-waldo]
 influenced: [jacobs-jane, alexander-christopher]

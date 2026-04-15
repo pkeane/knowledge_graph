@@ -3,7 +3,7 @@ id: conservatism
 type: school
 name: Conservatism
 era: 18th century–present
-tags: [political-theory, tradition]
+tags: [political-theory, conservatism]
 related: [burke-edmund, classical-liberalism, french-revolution]
 influenced_by: [burke-edmund]
 influenced: []

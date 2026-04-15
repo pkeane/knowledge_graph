@@ -6,7 +6,7 @@ born: 1909
 died: 1994
 era: 20th century
 nationality: American
-tags: [psychology, existentialism, humanistic-psychology]
+tags: [psychology, existentialism]
 related: [tillich-paul, existentialism, freud-sigmund]
 influenced_by: [tillich-paul, existentialism, kierkegaard-soren]
 influenced: []

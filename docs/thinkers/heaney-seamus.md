@@ -6,7 +6,7 @@ born: 1939
 died: 2013
 era: 20th–21st century
 nationality: Irish
-tags: [literature, poetry, northern-ireland, translation]
+tags: [literature, poetry, ireland]
 related: [yeats-wb, auden-wh, hughes-ted, lowell-robert]
 influenced_by: [yeats-wb, hopkins-gerard-manley, wordsworth-william]
 influenced: []

@@ -6,7 +6,7 @@ born: 1899
 died: 1973
 era: 20th century
 nationality: German-American
-tags: [political-theory, conservatism, history-of-philosophy]
+tags: [political-theory, conservatism, philosophy, history-of-ideas]
 related: [nietzsche-friedrich, arendt-hannah]
 influenced_by: [nietzsche-friedrich]
 influenced: []

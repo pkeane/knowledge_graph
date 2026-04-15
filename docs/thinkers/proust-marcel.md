@@ -6,7 +6,7 @@ born: 1871
 died: 1922
 era: 19th–20th century
 nationality: French
-tags: [literature, modernism, memory, time, french]
+tags: [literature, modernism, memory]
 related: [joyce-james, woolf-virginia, mann-thomas, beckett-samuel, bergson-henri]
 influenced_by: [ruskin-john, bergson-henri, saint-simon-louis]
 influenced: [woolf-virginia, beckett-samuel, nabokov-vladimir]

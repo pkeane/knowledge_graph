@@ -6,7 +6,7 @@ born: 1861
 died: 1941
 era: 19th–20th century
 nationality: Indian (Bengali)
-tags: [literature, poetry, indian-thought, universalism, critique-of-nationalism, education]
+tags: [literature, poetry, indian-thought, critique, education]
 related: [gandhi-mohandas, yeats-wb]
 influenced_by: []
 influenced: [yeats-wb]

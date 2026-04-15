@@ -6,7 +6,7 @@ born: 1857
 died: 1929
 era: 19th–20th century
 nationality: American
-tags: [political-economy, sociology, institutional-economics]
+tags: [political-economy, sociology, economics]
 related: [marx-karl]
 influenced_by: [marx-karl]
 influenced: []

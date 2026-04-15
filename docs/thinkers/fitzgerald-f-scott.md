@@ -6,7 +6,7 @@ born: 1896
 died: 1940
 era: 20th century
 nationality: American
-tags: [literature, fiction, modernism, american-literature]
+tags: [literature, fiction, modernism, american-thought]
 related: [hemingway-ernest, faulkner-william]
 influenced_by: []
 influenced: []

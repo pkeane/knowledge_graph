@@ -3,7 +3,7 @@ id: caste
 type: concept
 name: Caste
 era: ancient–contemporary
-tags: [race, hierarchy, sociology, history, american-thought]
+tags: [race, sociology, history, american-thought]
 related: [wilkerson-isabel, du-bois-web, racism, white-supremacy, inequality, racial-capitalism]
 influenced_by: []
 influenced: []

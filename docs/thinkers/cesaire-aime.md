@@ -6,7 +6,7 @@ born: 1913
 died: 2008
 era: 20th–21st century
 nationality: Martinican (French)
-tags: [negritude, anticolonialism, poetry, political-theory, black-radical-tradition]
+tags: [anticolonialism, african-american-thought, poetry, political-theory]
 related: [fanon-frantz, senghor-leopold, sartre-jean-paul, colonialism, hughes-langston]
 influenced_by: [hughes-langston]
 influenced: [fanon-frantz]

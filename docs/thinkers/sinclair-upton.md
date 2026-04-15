@@ -6,7 +6,7 @@ born: 1878
 died: 1968
 era: 19th–20th century
 nationality: American
-tags: [literature, fiction, muckraking, socialism, american-thought, labor]
+tags: [literature, fiction, journalism, socialism, american-thought, labor]
 related: [addams-jane, steinbeck-john, debs-eugene]
 influenced_by: []
 influenced: []

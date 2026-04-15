@@ -6,7 +6,7 @@ born: 1919
 died: 2013
 era: 20th–21st century
 nationality: British (Rhodesian-raised, Iranian-born)
-tags: [literature, feminism, existentialism, communism, sufism]
+tags: [literature, feminism, existentialism, communism, islamic-thought]
 related: [beauvoir-simone-de, sartre-jean-paul, laing-rd, rich-adrienne]
 influenced_by: [marx-karl, laing-rd]
 influenced: []

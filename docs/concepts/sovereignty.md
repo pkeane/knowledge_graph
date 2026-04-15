@@ -3,7 +3,7 @@ id: sovereignty
 type: concept
 name: Sovereignty
 era: 16th century–present
-tags: [political-theory, law, state]
+tags: [political-theory, law]
 related: [hobbes-thomas, rousseau-jj, arendt-hannah]
 influenced_by: [hobbes-thomas]
 influenced: []

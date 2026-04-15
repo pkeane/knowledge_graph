@@ -6,7 +6,7 @@ born: 1897
 died: 1980
 era: 20th century
 nationality: American
-tags: [catholicism, social-justice, pacifism, american-thought]
+tags: [catholicism, social-justice, nonviolence, american-thought]
 related: [merton-thomas, weil-simone, king-mlk, maritain-jacques, tolstoy-leo]
 influenced_by: [maritain-jacques, tolstoy-leo]
 influenced: [coles-robert]

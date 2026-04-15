@@ -5,7 +5,7 @@ name: Michelle Alexander
 born: 1967
 era: 20th–21st century
 nationality: American
-tags: [legal-theory, civil-rights, mass-incarceration, race, american-thought]
+tags: [law, civil-rights, mass-incarceration, race, american-thought]
 related: [stevenson-bryan, forman-james-jr, mass-incarceration, racism, civil-rights-movement]
 influenced_by: [du-bois-web]
 influenced: []

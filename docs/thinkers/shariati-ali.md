@@ -6,7 +6,7 @@ born: 1933
 died: 1977
 era: 20th century
 nationality: Iranian
-tags: [islamic-thought, shia, political-theory, anticolonialism, sociology]
+tags: [islamic-thought, political-theory, anticolonialism, sociology]
 related: [fanon-frantz, sartre-jean-paul, marx-karl, liberation-theology]
 influenced_by: [fanon-frantz, sartre-jean-paul, marx-karl]
 influenced: []

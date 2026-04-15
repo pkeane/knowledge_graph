@@ -6,7 +6,7 @@ born: 1895
 died: 1946
 era: 20th century
 nationality: Hungarian-American
-tags: [bauhaus, photography, design, pedagogy, constructivism]
+tags: [bauhaus, design, pedagogy, modernism]
 related: [gropius-walter, albers-josef, klee-paul, kandinsky-wassily, benjamin-walter]
 influenced_by: [malevich-kazimir, lissitzky-el]
 influenced: [albers-josef]

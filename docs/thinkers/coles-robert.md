@@ -5,7 +5,7 @@ name: Robert Coles
 born: 1929
 era: 20th–21st century
 nationality: American
-tags: [psychology, literature, ethics, childhood]
+tags: [psychology, literature, ethics]
 related: [percy-walker, o-connor-flannery, king-mlk, erikson-erik]
 influenced_by: [percy-walker, o-connor-flannery, erikson-erik]
 influenced: []

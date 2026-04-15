@@ -6,7 +6,7 @@ born: 1899
 died: 1986
 era: 20th century
 nationality: Argentine
-tags: [literature, metafiction, latin-america, library, labyrinth]
+tags: [literature, latin-america]
 related: [garcia-marquez-gabriel, kafka-franz, eco-umberto, calvino-italo]
 influenced_by: [chesterton-gk, stevenson-robert-louis, kafka-franz, schopenhauer-arthur]
 influenced: [garcia-marquez-gabriel, eco-umberto, calvino-italo]

@@ -6,7 +6,7 @@ born: 1868
 died: 1963
 era: 19th–20th century
 nationality: American
-tags: [sociology, african-american-thought, race, history, pan-africanism]
+tags: [sociology, african-american-thought, race, history, anticolonialism]
 related: [baldwin-james, ellison-ralph, king-mlk, cobb-jelani, robinson-cedric, thurman-howard, douglass-frederick, west-cornel, coates-ta-nehisi, ambedkar-br]
 influenced_by: [marx-karl, douglass-frederick]
 influenced: [king-mlk, baldwin-james, robinson-cedric, west-cornel, coates-ta-nehisi, cone-james]

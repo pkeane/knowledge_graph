@@ -6,7 +6,7 @@ born: 1883
 died: 1924
 era: 20th century
 nationality: Czech-Austrian (German-language)
-tags: [literature, fiction, modernism, existentialism, bureaucracy]
+tags: [literature, fiction, modernism, existentialism, sociology]
 related: [dostoevsky-fyodor, joyce-james, woolf-virginia, eliot-ts, existentialism, frankfurt-school, beckett-samuel, borges-jorge-luis]
 influenced_by: [dostoevsky-fyodor, kierkegaard-soren]
 influenced: [existentialism, camus-albert, sartre-jean-paul, beckett-samuel, borges-jorge-luis]

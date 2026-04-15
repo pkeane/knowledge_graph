@@ -5,7 +5,7 @@ name: Wendell Berry
 born: 1934
 era: 20th–21st century
 nationality: American
-tags: [agrarianism, literature, essay, christianity, environmentalism, community]
+tags: [community, environmentalism, literature, essay, christianity]
 related: [merton-thomas, day-dorothy, robinson-marilynne, o-connor-flannery]
 influenced_by: []
 influenced: []

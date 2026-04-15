@@ -6,7 +6,7 @@ born: 1921
 died: 1997
 era: 20th century
 nationality: Brazilian
-tags: [education, pedagogy, liberation, latin-american-thought, critical-theory]
+tags: [education, pedagogy, latin-american-thought, critical-theory]
 related: [liberation-theology, hooks-bell, fanon-frantz]
 influenced_by: [marx-karl, fanon-frantz, gramsci-antonio]
 influenced: [hooks-bell]

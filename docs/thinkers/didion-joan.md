@@ -6,7 +6,7 @@ born: 1934
 died: 2021
 era: 20th–21st century
 nationality: American
-tags: [literature, journalism, essays, fiction]
+tags: [literature, journalism, essay, fiction]
 related: [hemingway-ernest]
 influenced_by: [hemingway-ernest]
 influenced: []

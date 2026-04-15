@@ -5,7 +5,7 @@ name: Jürgen Habermas
 born: 1929
 era: 20th–21st century
 nationality: German
-tags: [critical-theory, frankfurt-school, democratic-theory, liberalism]
+tags: [critical-theory, frankfurt-school, democracy, liberalism]
 related: [frankfurt-school, kant-immanuel, rawls-john]
 influenced_by: [frankfurt-school, kant-immanuel, marx-karl]
 influenced: []

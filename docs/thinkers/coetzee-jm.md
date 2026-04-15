@@ -5,7 +5,7 @@ name: J. M. Coetzee
 born: 1940
 era: 20th–21st century
 nationality: South African / Australian
-tags: [literature, south-africa, apartheid, postcolonial, animal-ethics]
+tags: [literature, south-africa, apartheid, postcolonial, ethics]
 related: [gordimer-nadine, kafka-franz, beckett-samuel, defoe-daniel]
 influenced_by: [kafka-franz, beckett-samuel, dostoevsky-fyodor]
 influenced: []

@@ -6,7 +6,7 @@ born: 1935
 died: 2003
 era: 20th–21st century
 nationality: Palestinian-American
-tags: [postcolonial, literary-criticism, palestine, public-intellectual, orientalism]
+tags: [postcolonial, criticism, palestine, public-intellectual, anticolonialism]
 related: [fanon-frantz, colonialism, foucault-michel, gramsci-antonio, racial-capitalism, achebe-chinua, ngugi-wa-thiongo, darwish-mahmoud]
 influenced_by: [fanon-frantz, foucault-michel, gramsci-antonio]
 influenced: []

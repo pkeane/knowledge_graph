@@ -6,7 +6,7 @@ born: 1904
 died: 1973
 era: 20th century
 nationality: Chilean
-tags: [literature, poetry, chile, latin-america, communism]
+tags: [literature, poetry, latin-america, communism]
 related: [lorca-federico-garcia, paz-octavio, garcia-marquez-gabriel, allende-salvador, hughes-langston]
 influenced_by: [whitman-walt, lorca-federico-garcia]
 influenced: [garcia-marquez-gabriel]

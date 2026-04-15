@@ -6,7 +6,7 @@ born: 1902
 died: 1994
 era: 20th century
 nationality: Austrian-British
-tags: [liberalism, philosophy-of-science, political-theory]
+tags: [liberalism, philosophy, science, political-theory]
 related: [hayek-fa, marx-karl, hegel-gwf]
 influenced_by: [kant-immanuel]
 influenced: []

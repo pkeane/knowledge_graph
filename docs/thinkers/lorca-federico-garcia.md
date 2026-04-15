@@ -6,7 +6,7 @@ born: 1898
 died: 1936
 era: 20th century
 nationality: Spanish
-tags: [literature, poetry, theater, spanish-civil-war, surrealism, andalusia]
+tags: [literature, poetry, theater, history, surrealism, andalusia]
 related: [neruda-pablo, dali-salvador, bunuel-luis, hughes-langston]
 influenced_by: [machado-antonio, whitman-walt]
 influenced: [neruda-pablo]

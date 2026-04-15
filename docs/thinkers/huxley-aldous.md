@@ -6,7 +6,7 @@ born: 1894
 died: 1963
 era: 20th century
 nationality: British
-tags: [literature, fiction, essay, mysticism, dystopia]
+tags: [literature, fiction, essay, mysticism]
 related: [orwell-george, woolf-virginia, eliot-ts]
 influenced_by: []
 influenced: []
