@@ -7,7 +7,7 @@ died: 1969
 era: 20th century
 nationality: American
 tags: [literature, beat-generation, existentialism, buddhism, american-thought]
-related: [ginsberg-allen, burroughs-william, snyder-gary, thoreau-henry-david, whitman-walt, dylan-bob]
+related: [ginsberg-allen, ferlinghetti-lawrence, burroughs-william, snyder-gary, thoreau-henry-david, whitman-walt, dylan-bob]
 influenced_by: [whitman-walt, thoreau-henry-david, proust-marcel, wolfe-thomas]
 influenced: [dylan-bob]
 ---
