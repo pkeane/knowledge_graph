@@ -267,12 +267,43 @@ if (tag) { filter.value = tag; apply(tag); }
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Political, social, economic, and philosophical thought, with branches into the arts and non-Western traditions.</div>
-<nav><a href="about/">About</a><a href="books/">Recommended reading</a></nav>
+<nav><a href="about/">About</a><a href="books/">Recommended Reading</a><a href="tags/">Tags</a></nav>
 </header>
 <input id="filter" type="search" placeholder="Filter by name or tag…" autofocus>
 {"".join(sections)}
 <footer>{len(docs)} entries</footer>
 <script>{js}</script>
+</body></html>"""
+
+
+def render_tags(docs):
+    counts = defaultdict(int)
+    for doc in docs.values():
+        for t in doc["meta"].get("tags") or []:
+            counts[t] += 1
+    items = "".join(
+        f'<li><a href="../index.html?tag={html.escape(t)}">#{html.escape(t)}</a> '
+        f'<span class="tag-count">({n})</span></li>'
+        for t, n in sorted(counts.items())
+    )
+    extra_css = ".tag-list { list-style: none; padding: 0; columns: 4; column-gap: 2em; } "\
+                ".tag-list li { margin: .2em 0; break-inside: avoid; } "\
+                ".tag-count { color: var(--muted); font-size: .85em; } "\
+                "@media (max-width: 900px) { .tag-list { columns: 3; } } "\
+                "@media (max-width: 600px) { .tag-list { columns: 2; } }"
+    return f"""<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><title>Tags — Knowledge Graph</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>{CSS}{extra_css}</style>
+</head><body>
+<header>
+<a href="../index.html"><strong>Knowledge Graph</strong></a>
+<nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a></nav>
+</header>
+<h1>Tags</h1>
+<div class="meta">{len(counts)} tags across {len(docs)} entries. Click a tag to filter the index.</div>
+<ul class="tag-list">{items}</ul>
 </body></html>"""
 
 
@@ -289,6 +320,9 @@ def main():
     for doc_id, doc in docs.items():
         (SITE / f"{doc_id}.html").write_text(render_doc(doc_id, doc, docs, backlinks))
     (SITE / "index.html").write_text(render_index(docs))
+    tags_dir = SITE / "tags"
+    tags_dir.mkdir()
+    (tags_dir / "index.html").write_text(render_tags(docs))
 
     print(f"Built {len(docs)} pages + index → {SITE}")
     print(f"Open: file://{SITE}/index.html")
