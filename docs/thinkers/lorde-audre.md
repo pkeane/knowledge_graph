@@ -7,7 +7,7 @@ died: 1992
 era: 20th century
 nationality: American
 tags: [feminism, african-american-thought, poetry, essay, queer-theory]
-related: [hooks-bell, morrison-toni, murray-pauli, davis-angela, intersectionality, feminism, sexism]
+related: [hooks-bell, morrison-toni, murray-pauli, davis-angela, intersectionality, feminism, sexism, rich-adrienne]
 influenced_by: []
 influenced: [hooks-bell]
 ---

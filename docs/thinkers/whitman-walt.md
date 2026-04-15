@@ -7,9 +7,9 @@ died: 1892
 era: 19th century
 nationality: American
 tags: [literature, poetry, american-thought, democracy]
-related: [emerson-rw, thoreau-henry-david]
+related: [emerson-rw, thoreau-henry-david, dickinson-emily, hughes-langston, neruda-pablo]
 influenced_by: [emerson-rw]
-influenced: []
+influenced: [hughes-langston, neruda-pablo]
 ---
 
 # Walt Whitman

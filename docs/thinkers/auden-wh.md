@@ -7,9 +7,9 @@ died: 1973
 era: 20th century
 nationality: English-American
 tags: [literature, poetry, modernism, anglicanism]
-related: [eliot-ts, niebuhr-reinhold, tillich-paul]
-influenced_by: [eliot-ts, freud-sigmund]
-influenced: []
+related: [eliot-ts, niebuhr-reinhold, tillich-paul, yeats-wb, rich-adrienne, hayden-robert]
+influenced_by: [eliot-ts, freud-sigmund, yeats-wb]
+influenced: [rich-adrienne, hayden-robert]
 ---
 
 # W. H. Auden

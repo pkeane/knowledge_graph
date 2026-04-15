@@ -7,8 +7,8 @@ died: 2019
 era: 20th–21st century
 nationality: American
 tags: [literature, fiction, african-american-thought, race, criticism]
-related: [baldwin-james, ellison-ralph, du-bois-web, hooks-bell]
-influenced_by: [ellison-ralph, baldwin-james]
+related: [baldwin-james, ellison-ralph, du-bois-web, hooks-bell, hurston-zora-neale]
+influenced_by: [ellison-ralph, baldwin-james, hurston-zora-neale]
 influenced: [hooks-bell]
 ---
 

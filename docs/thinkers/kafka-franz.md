@@ -7,9 +7,9 @@ died: 1924
 era: 20th century
 nationality: Czech-Austrian (German-language)
 tags: [literature, fiction, modernism, existentialism, bureaucracy]
-related: [dostoevsky-fyodor, joyce-james, woolf-virginia, eliot-ts, existentialism, frankfurt-school]
+related: [dostoevsky-fyodor, joyce-james, woolf-virginia, eliot-ts, existentialism, frankfurt-school, beckett-samuel, borges-jorge-luis]
 influenced_by: [dostoevsky-fyodor, kierkegaard-soren]
-influenced: [existentialism, camus-albert, sartre-jean-paul]
+influenced: [existentialism, camus-albert, sartre-jean-paul, beckett-samuel, borges-jorge-luis]
 ---
 
 # Franz Kafka

@@ -9,7 +9,7 @@ nationality: Indian (Bengali)
 tags: [literature, poetry, indian-thought, universalism, critique-of-nationalism, education]
 related: [gandhi-mohandas, yeats-wb]
 influenced_by: []
-influenced: []
+influenced: [yeats-wb]
 ---
 
 # Rabindranath Tagore

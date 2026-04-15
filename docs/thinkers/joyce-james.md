@@ -7,9 +7,9 @@ died: 1941
 era: 20th century
 nationality: Irish
 tags: [literature, fiction, modernism, irish-literature]
-related: [woolf-virginia, eliot-ts]
+related: [woolf-virginia, eliot-ts, beckett-samuel, proust-marcel]
 influenced_by: []
-influenced: [woolf-virginia, faulkner-william]
+influenced: [woolf-virginia, faulkner-william, beckett-samuel]
 ---
 
 # James Joyce

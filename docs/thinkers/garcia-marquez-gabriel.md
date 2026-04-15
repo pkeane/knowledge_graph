@@ -7,8 +7,8 @@ died: 2014
 era: 20th–21st century
 nationality: Colombian
 tags: [literature, fiction, magical-realism, latin-american-thought, journalism]
-related: [faulkner-william, gutierrez-gustavo, fanon-frantz]
-influenced_by: [faulkner-william]
+related: [faulkner-william, gutierrez-gustavo, fanon-frantz, borges-jorge-luis, neruda-pablo]
+influenced_by: [faulkner-william, borges-jorge-luis, neruda-pablo]
 influenced: []
 ---
 

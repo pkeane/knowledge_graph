@@ -7,8 +7,8 @@ died: 1994
 era: 20th century
 nationality: American
 tags: [literature, fiction, african-american, modernism]
-related: [baldwin-james, faulkner-william, twain-mark]
-influenced_by: [faulkner-william, eliot-ts, twain-mark]
+related: [baldwin-james, faulkner-william, twain-mark, wright-richard, melville-herman]
+influenced_by: [faulkner-william, eliot-ts, twain-mark, wright-richard, melville-herman]
 influenced: []
 ---
 

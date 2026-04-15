@@ -7,8 +7,8 @@ died: 1962
 era: 20th century
 nationality: American
 tags: [literature, fiction, modernism, southern-literature]
-related: [hemingway-ernest, o-connor-flannery, fitzgerald-f-scott, joyce-james]
-influenced_by: [joyce-james]
+related: [hemingway-ernest, o-connor-flannery, fitzgerald-f-scott, joyce-james, melville-herman]
+influenced_by: [joyce-james, melville-herman]
 influenced: [o-connor-flannery, garcia-marquez-gabriel]
 ---
 
