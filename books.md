@@ -43,6 +43,12 @@ A curated selection of widely-admired works that together give a sense of the ra
 - **[[jacobs-jane|Jane Jacobs]], *The Death and Life of Great American Cities*** (1961) — the book that ended the authority of orthodox urban-renewal planning and reframed the sidewalk as the organ of urban safety.
 - **[[berry-wendell|Wendell Berry]], *Hannah Coulter*** (2004) — short novel; agrarian Christianity in narrative form.
 
+## The built environment and the arts
+
+- **[[le-corbusier|Le Corbusier]], *Toward an Architecture*** (1923) — the manifesto of modernist architecture; read alongside Jacobs as the position she was writing against.
+- **[[fuller-buckminster|R. Buckminster Fuller]], *Operating Manual for Spaceship Earth*** (1969) — ~100 pages; the planet as a single resource-system, a founding text of environmental systems thinking.
+- **[[bo-bardi-lina|Lina Bo Bardi]], *Stones Against Diamonds*** (English ed. 2013) — selected essays by the Italian-Brazilian architect who reshaped modernism around popular use.
+
 ## Inequality and the present
 
 - **[[piketty-thomas|Thomas Piketty]], *Capital in the Twenty-First Century*** (2014) — the empirical spine of the contemporary inequality debate; the introduction and Part IV alone repay the effort.

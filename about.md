@@ -16,8 +16,9 @@ From that core the graph extends along several lines:
 
 - **Non-Western political, religious, and literary thought** that has shaped the modern world: Gandhi, Ambedkar, Césaire, Fanon, Ngũgĩ, Achebe, Soyinka, Tagore, Confucius, Ibn Khaldun, Mao, Mariátegui, Shariati, Darwish, Endō, Roy.
 - **Literature, poetry, and drama** where the work carries political, social, philosophical, or theological weight — novelists (Tolstoy, Dostoevsky, George Eliot, García Márquez, Morrison, Baldwin, Ellison, Coetzee, Gordimer, Lessing, Le Guin), poets (Whitman, Dickinson, Yeats, Hughes, Rich, Heaney, Neruda, Lorca, Akhmatova, Dylan), playwrights (Beckett, Havel, Soyinka).
-- **Design, architecture, and urbanism** where they carry an articulated social program — Morris and the Arts and Crafts movement, the Bauhaus circle (Gropius, Moholy-Nagy, Albers, Klee, Kandinsky), Mumford, Jane Jacobs, Christopher Alexander.
-- **Psychology and psychoanalysis** where it has shaped political and moral thought — Freud, Jung, Erikson.
+- **Design, architecture, and urbanism** where they carry an articulated social program — Morris and the Arts and Crafts movement, the Bauhaus circle (Gropius, Moholy-Nagy, Albers, Klee, Kandinsky), Mumford, Jane Jacobs, Christopher Alexander, Le Corbusier, Frank Lloyd Wright, Buckminster Fuller, Lina Bo Bardi.
+- **Visual art and film** where the work has shaped, or been shaped by, the political, religious, and social currents the graph tracks — Käthe Kollwitz, Diego Rivera, Jacob Lawrence, Dorothea Lange, Picasso, Ai Weiwei; Bergman, Tarkovsky, Pasolini, Sembène, Satyajit Ray, Spike Lee.
+- **Psychology and psychoanalysis** where it has shaped political and moral thought — Freud, Jung, Adler, Horney, Klein, Anna Freud, Sullivan, Fromm, Erikson, Lacan, Winnicott, Laing, Rogers, Maslow, Frankl, May.
 
 The graph is not an encyclopedia. Coverage is selective and reflects the interests that directed its construction.
 
