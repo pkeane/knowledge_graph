@@ -8,7 +8,7 @@ era: 19th century
 nationality: German
 tags: [philosophy, genealogy, critique, aesthetics]
 related: [foucault-michel, hegel-gwf]
-influenced_by: [schopenhauer]
+influenced_by: [schopenhauer, dostoevsky-fyodor]
 influenced: [foucault-michel, frankfurt-school, weber-max, camus-albert, sartre-jean-paul, existentialism, freud-sigmund]
 ---
 

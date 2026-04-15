@@ -4,7 +4,7 @@ type: school
 name: The Frankfurt School
 era: 20th century
 tags: [critical-theory, marxism, philosophy, sociology]
-related: [marxism, marx-karl, hegel-gwf, gramsci-antonio, nietzsche-friedrich]
+related: [marxism, marx-karl, hegel-gwf, gramsci-antonio, nietzsche-friedrich, fromm-erich, marcuse-herbert]
 influenced_by: [marx-karl, hegel-gwf, freud-sigmund, nietzsche-friedrich]
 influenced: [foucault-michel, critical-theory]
 ---

@@ -4,8 +4,8 @@ type: school
 name: Existentialism
 era: 19th–20th century
 tags: [existentialism, philosophy, phenomenology, literature]
-related: [kierkegaard-soren, sartre-jean-paul, camus-albert, de-beauvoir-simone, nietzsche-friedrich, tillich-paul]
-influenced_by: [kierkegaard-soren, nietzsche-friedrich]
+related: [kierkegaard-soren, sartre-jean-paul, camus-albert, de-beauvoir-simone, nietzsche-friedrich, tillich-paul, dostoevsky-fyodor]
+influenced_by: [kierkegaard-soren, nietzsche-friedrich, dostoevsky-fyodor]
 influenced: [tillich-paul, sartre-jean-paul, camus-albert, de-beauvoir-simone, percy-walker, may-rollo]
 ---
 
