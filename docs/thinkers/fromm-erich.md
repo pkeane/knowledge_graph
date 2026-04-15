@@ -7,8 +7,8 @@ died: 1980
 era: 20th century
 nationality: German-American
 tags: [psychoanalysis, critical-theory, psychology, frankfurt-school, ethics]
-related: [frankfurt-school, freud-sigmund, marx-karl, marcuse-herbert, may-rollo]
-influenced_by: [freud-sigmund, marx-karl, frankfurt-school]
+related: [frankfurt-school, freud-sigmund, marx-karl, marcuse-herbert, may-rollo, horney-karen, sullivan-harry-stack]
+influenced_by: [freud-sigmund, marx-karl, frankfurt-school, horney-karen, sullivan-harry-stack]
 influenced: []
 ---
 

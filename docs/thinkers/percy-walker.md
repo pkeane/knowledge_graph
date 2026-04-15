@@ -7,8 +7,8 @@ died: 1990
 era: 20th century
 nationality: American
 tags: [literature, existentialism, philosophy, catholicism, southern-literature]
-related: [kierkegaard-soren, camus-albert, o-connor-flannery, peirce-charles-sanders, existentialism]
-influenced_by: [kierkegaard-soren, camus-albert, peirce-charles-sanders, existentialism]
+related: [kierkegaard-soren, camus-albert, o-connor-flannery, peirce-charles-sanders, existentialism, sullivan-harry-stack]
+influenced_by: [kierkegaard-soren, camus-albert, peirce-charles-sanders, existentialism, sullivan-harry-stack]
 influenced: []
 ---
 
