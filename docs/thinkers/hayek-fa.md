@@ -33,3 +33,9 @@ Hayek is often grouped with [[nozick-robert]] as a libertarian, but he was actua
 - *Individualism and Economic Order* (1948)
 - *The Constitution of Liberty* (1960)
 - *Law, Legislation and Liberty* (1973–79)
+
+## Secondary sources
+
+- Bruce Caldwell, *Hayek's Challenge: An Intellectual Biography* (2004) — the standard modern intellectual biography by the editor of the *Collected Works*.
+- Alan Ebenstein, *Friedrich Hayek: A Biography* (2001) — the fullest personal life in English.
+- Angus Burgin, *The Great Persuasion: Reinventing Free Markets since the Depression* (2012) — the indispensable history of the Mont Pèlerin Society and Hayek's political influence.

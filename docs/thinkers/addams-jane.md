@@ -36,3 +36,9 @@ Her writing — *Democracy and Social Ethics* (1902), *Newer Ideals of Peace* (1
 - *Twenty Years at Hull-House* (1910)
 - *The Long Road of Woman's Memory* (1916)
 - *Peace and Bread in Time of War* (1922)
+
+## Secondary sources
+
+- Louise W. Knight, *Citizen: Jane Addams and the Struggle for Democracy* (2005) and *Jane Addams: Spirit in Action* (2010) — the outstanding modern biographies; the first on the formation, the second the full life.
+- Jean Bethke Elshtain, *Jane Addams and the Dream of American Democracy* (2002) — the major political-theoretical reading.
+- Victoria Bissell Brown, *The Education of Jane Addams* (2004) — the indispensable account of the formative years.

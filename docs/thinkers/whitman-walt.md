@@ -35,3 +35,10 @@ His influence on American poetry is pervasive — Pound, Ginsberg, C.K. Williams
 - *Drum-Taps* (1865)
 - *Specimen Days & Collect* (1882)
 - *Democratic Vistas* (1871)
+
+## Secondary sources
+
+- Justin Kaplan, *Walt Whitman: A Life* (1980) — the standard modern biography; still the best place to begin.
+- David S. Reynolds, *Walt Whitman's America: A Cultural Biography* (1995) — the outstanding contextual study; reads Whitman through the political and popular culture he lived in.
+- Jerome Loving, *Walt Whitman: The Song of Himself* (1999) — the fullest scholarly life.
+- Galway Kinnell, "Whitman's Indicative Words" (essay) — a poet's engagement worth more than most criticism.

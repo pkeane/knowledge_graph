@@ -39,3 +39,9 @@ Davis's politics have been consistently to the left of American liberalism — C
 - *Are Prisons Obsolete?* (2003)
 - *Abolition Democracy* (2005)
 - *Freedom Is a Constant Struggle* (2016)
+
+## Secondary sources
+
+- Angela Davis, *An Autobiography* (1974; reissued 2022 with new introduction) — the essential primary source on the early formation and the imprisonment.
+- Bettina Aptheker, *The Morning Breaks: The Trial of Angela Davis* (1975; rev. 1997) — the definitive account of the trial by the co-chair of the defense committee.
+- *Free Angela and All Political Prisoners* (2012, dir. Shola Lynch) — the outstanding documentary on the trial and its political moment.

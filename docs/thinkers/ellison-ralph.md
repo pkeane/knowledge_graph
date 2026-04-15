@@ -33,3 +33,9 @@ Ellison's essays — *Shadow and Act* (1964) and *Going to the Territory* (1986)
 - *Shadow and Act* (1964)
 - *Going to the Territory* (1986)
 - *Juneteenth* (posthumous, 1999)
+
+## Secondary sources
+
+- Arnold Rampersad, *Ralph Ellison: A Biography* (2007) — the authorized, monumental life; the indispensable reference.
+- Lawrence Jackson, *Ralph Ellison: Emergence of Genius* (2002) — the outstanding account of the formative years up to *Invisible Man*.
+- Ross Posnock, ed., *The Cambridge Companion to Ralph Ellison* (2005) — the best short scholarly introduction to the full range of the work.

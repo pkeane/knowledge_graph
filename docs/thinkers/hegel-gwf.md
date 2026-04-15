@@ -34,3 +34,10 @@ In political philosophy, this means freedom is not the absence of constraint ([[
 - *Science of Logic* (1812–16)
 - *Elements of the Philosophy of Right* (1820)
 - *Lectures on the Philosophy of History* (posthumous)
+
+## Secondary sources
+
+- Terry Pinkard, *Hegel: A Biography* (2000) — the standard modern life; deeply researched and philosophically alert.
+- Charles Taylor, *Hegel* (1975) — the book that made Hegel intelligible again to English-speaking philosophers; still the most readable sustained interpretation.
+- Robert Pippin, *Hegel's Idealism: The Satisfactions of Self-Consciousness* (1989) — the influential reading that places Hegel's idealism in a broadly Kantian key.
+- Alexandre Kojève, *Introduction to the Reading of Hegel* (lectures 1933–39; English 1969) — the idiosyncratic master-slave-centered reading that shaped Sartre, Lacan, and postwar French thought; read as intellectual history rather than exegesis.

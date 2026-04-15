@@ -35,3 +35,10 @@ Weber's theory of authority distinguishes three "ideal types": traditional (sanc
 - *Economy and Society* (posthumous, 1922)
 - *Politics as a Vocation* (1919)
 - *Science as a Vocation* (1919)
+
+## Secondary sources
+
+- Joachim Radkau, *Max Weber: A Biography* (German 2005; English 2009) — the major modern life; the first to draw fully on the correspondence.
+- Marianne Weber, *Max Weber: A Biography* (1926; English 1975) — Weber's widow's remarkable book; long the only full life and still indispensable.
+- Wolfgang Mommsen, *The Age of Bureaucracy* (1974) — the standard interpretive study of Weber as a political thinker.
+- Reinhard Bendix, *Max Weber: An Intellectual Portrait* (1960) — the classic American introduction; still an excellent place to begin.

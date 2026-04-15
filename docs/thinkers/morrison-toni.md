@@ -37,3 +37,10 @@ Her criticism is equally consequential. *Playing in the Dark: Whiteness and the 
 - *Playing in the Dark* (1992)
 - *Paradise* (1997)
 - *The Origin of Others* (2017)
+
+## Secondary sources
+
+- Valerie Smith, *Toni Morrison: Writing the Moral Imagination* (2012) — the best short critical introduction.
+- Danille K. Taylor-Guthrie, ed., *Conversations with Toni Morrison* (1994) — the indispensable collection of interviews in her own voice.
+- *Toni Morrison: The Pieces I Am* (2019, dir. Timothy Greenfield-Sanders) — the major documentary; the closest thing to a filmed autobiography.
+- Stephanie Li, *Toni Morrison: A Biography* (2010) — a useful short life while a definitive biography is awaited.

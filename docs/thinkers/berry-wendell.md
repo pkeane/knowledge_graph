@@ -36,3 +36,9 @@ Alongside the essays runs the Port William fiction — *Nathan Coulter*, *A Plac
 - *Jayber Crow* (2000)
 - *Hannah Coulter* (2004)
 - Sabbath poems (1979–present)
+
+## Secondary sources
+
+- Jason Peters, ed., *Wendell Berry: Life and Work* (2007) — the outstanding essay collection; the best single book about Berry by his most serious readers.
+- Fritz Oehlschlaeger, *The Achievement of Wendell Berry: The Hard History of Love* (2011) — the fullest critical study.
+- *Look & See: A Portrait of Wendell Berry* (2016, dir. Laura Dunn) — the major documentary; a good introduction for those new to the work.

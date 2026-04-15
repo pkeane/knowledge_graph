@@ -33,3 +33,9 @@ His most famous essay, *The Hedgehog and the Fox* (1953), divided thinkers betwe
 - *Two Concepts of Liberty* (1958)
 - *Four Essays on Liberty* (1969)
 - *Against the Current* (1979)
+
+## Secondary sources
+
+- Michael Ignatieff, *Isaiah Berlin: A Life* (1998) — the authorized biography; the standard reference, built on a decade of conversations.
+- John Gray, *Isaiah Berlin* (1995) — the sharpest short philosophical study; reads Berlin as a more radical value pluralist than his liberal admirers usually admit.
+- Henry Hardy, ed., the many Berlin essay collections (*The Proper Study of Mankind*, *Liberty*, *The Power of Ideas*) — Hardy's editorial work is the reason we have the corpus we have.

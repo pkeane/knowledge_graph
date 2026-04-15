@@ -34,3 +34,9 @@ Wells co-founded the NAACP in 1909 (though she was later marginalized within it 
 - *A Red Record* (1895)
 - *Mob Rule in New Orleans* (1900)
 - *Crusade for Justice* (autobiography, posthumous 1970)
+
+## Secondary sources
+
+- Paula J. Giddings, *Ida: A Sword Among Lions* (2008) — the standard modern biography; archivally complete and narratively strong.
+- Mia Bay, *To Tell the Truth Freely: The Life of Ida B. Wells* (2009) — the outstanding shorter modern life; especially good on Wells as an intellectual.
+- Michelle Duster (great-granddaughter), *Ida B. the Queen* (2021) — a useful accessible short volume with family context and present-day resonance.

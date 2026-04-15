@@ -36,3 +36,9 @@ Thurman's other writing — *The Search for Common Ground* (1971), *The Inward J
 - *The Inward Journey* (1961)
 - *The Search for Common Ground* (1971)
 - *With Head and Heart* (1979)
+
+## Secondary sources
+
+- Peter Eisenstadt, *Against the Hounds of Hell: A Life of Howard Thurman* (2021) — the standard modern biography; long-awaited and intellectually thorough.
+- Luther E. Smith Jr., *Howard Thurman: The Mystic as Prophet* (1981; rev. 2007) — the fullest theological study.
+- Walter Earl Fluker and Catherine Tumber, eds., *A Strange Freedom: The Best of Howard Thurman on Religious Experience and Public Life* (1998) — the best single-volume introduction to the writing.

@@ -33,3 +33,9 @@ His later work, *Whose Justice? Which Rationality?* (1988) and *Three Rival Vers
 - *Whose Justice? Which Rationality?* (1988)
 - *Three Rival Versions of Moral Enquiry* (1990)
 - *Dependent Rational Animals* (1999)
+
+## Secondary sources
+
+- Émile Perreau-Saussine, *Alasdair MacIntyre: An Intellectual Biography* (French 2005; English 2022) — the standard intellectual biography; places the Marxist phase and the Thomist phase in continuous frame.
+- Christopher Stephen Lutz, *Tradition in the Ethics of Alasdair MacIntyre* (2004) — the fullest scholarly study of the concept of tradition in the mature work.
+- John Horton and Susan Mendus, eds., *After MacIntyre* (1994) — the best multi-author critical engagement.

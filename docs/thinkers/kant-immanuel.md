@@ -35,3 +35,10 @@ Politically, Kant was a liberal and a republican who celebrated the [[french-rev
 - *Critique of Practical Reason* (1788)
 - *Critique of Judgment* (1790)
 - *Perpetual Peace* (1795)
+
+## Secondary sources
+
+- Manfred Kuehn, *Kant: A Biography* (2001) — the standard modern life in English; the first serious attempt to place the philosophy in the life.
+- P. F. Strawson, *The Bounds of Sense* (1966) — the influential analytic reconstruction of the *Critique of Pure Reason*.
+- Henry Allison, *Kant's Transcendental Idealism* (1983; rev. 2004) — the fullest sympathetic philosophical defense; the standard reference for serious students.
+- Christine Korsgaard, *Creating the Kingdom of Ends* (1996) — the best contemporary recovery of Kant's ethics.

@@ -33,3 +33,9 @@ Sen has also written carefully about the Indian intellectual tradition, collecti
 - *Poverty and Famines* (1981)
 - *Development as Freedom* (1999)
 - *The Idea of Justice* (2009)
+
+## Secondary sources
+
+- Amartya Sen, *Home in the World: A Memoir* (2021) — his own account of the first thirty years; the indispensable primary source on the formation.
+- Sabina Alkire, *Valuing Freedoms: Sen's Capability Approach and Poverty Reduction* (2002) — the fullest scholarly account of the capability approach's application in development practice.
+- Lawrence Hamilton, *Amartya Sen* (2019, Polity) — a good short critical introduction that also registers the limits of the position.

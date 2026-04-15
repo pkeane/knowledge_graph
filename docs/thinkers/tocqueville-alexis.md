@@ -31,3 +31,9 @@ His second great subject was the [[french-revolution]]. *The Old Regime and the 
 
 - *Democracy in America* (1835, 1840)
 - *The Old Regime and the Revolution* (1856)
+
+## Secondary sources
+
+- Hugh Brogan, *Alexis de Tocqueville: A Life* (2006) — the standard modern English-language biography; massively researched.
+- André Jardin, *Tocqueville: A Biography* (French 1984; English 1988) — the major French life; more political, less literary.
+- Sheldon Wolin, *Tocqueville Between Two Worlds* (2001) — the outstanding interpretive study; reads Tocqueville as a political theorist rather than a prophet of American self-congratulation.

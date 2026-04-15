@@ -36,3 +36,9 @@ With [[hayek-fa]], he is the 20th-century intellectual pillar of what eventually
 - *A Monetary History of the United States, 1867–1960* (1963, with Anna Schwartz)
 - *Capitalism and Freedom* (1962)
 - *Free to Choose* (1980, with Rose Friedman)
+
+## Secondary sources
+
+- Jennifer Burns, *Milton Friedman: The Last Conservative* (2023) — the outstanding modern biography; archivally grounded and intellectually generous across the political spectrum.
+- Lanny Ebenstein, *Milton Friedman: A Biography* (2007) — the fullest pre-Burns life.
+- Angus Burgin, *The Great Persuasion* (2012) — the history of Mont Pèlerin and the construction of postwar market liberalism; essential context.

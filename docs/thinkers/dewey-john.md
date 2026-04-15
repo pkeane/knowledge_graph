@@ -35,3 +35,9 @@ Politically Dewey was a reformist liberal and New Dealer who spent decades defen
 - *The Public and Its Problems* (1927)
 - *Experience and Nature* (1925)
 - *Liberalism and Social Action* (1935)
+
+## Secondary sources
+
+- Robert Westbrook, *John Dewey and American Democracy* (1991) — the standard modern intellectual biography; sympathetic, thorough, indispensable.
+- Jay Martin, *The Education of John Dewey* (2002) — the fullest personal life.
+- Richard Bernstein, *John Dewey* (1966) and subsequent essays — the steady philosophical defender of Dewey's continued relevance.

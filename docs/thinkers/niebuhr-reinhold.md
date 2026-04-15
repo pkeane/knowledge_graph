@@ -36,3 +36,9 @@ His younger brother [[niebuhr-h-richard|H. Richard Niebuhr]] was a theologian of
 - *The Nature and Destiny of Man* (1941–43)
 - *The Children of Light and the Children of Darkness* (1944)
 - *The Irony of American History* (1952)
+
+## Secondary sources
+
+- Richard Wightman Fox, *Reinhold Niebuhr: A Biography* (1985) — the standard modern life; the indispensable reference.
+- Charles C. Brown, *Niebuhr and His Age* (1992; rev. 2002) — the outstanding short intellectual biography.
+- Langdon Gilkey, *On Niebuhr: A Theological Study* (2001) — the major theological interpretation by a student who became a significant theologian in his own right.

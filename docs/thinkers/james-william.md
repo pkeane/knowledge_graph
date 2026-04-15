@@ -37,3 +37,9 @@ His influence on 20th-century philosophy waned under the logical-positivist tide
 - *The Varieties of Religious Experience* (1902)
 - *Pragmatism* (1907)
 - *A Pluralistic Universe* (1909)
+
+## Secondary sources
+
+- Robert D. Richardson, *William James: In the Maelstrom of American Modernism* (2006) — the outstanding modern life; literary and intellectually generous.
+- Ralph Barton Perry, *The Thought and Character of William James* (2 vols., 1935) — the monumental early study by a student who had the papers; the foundation every subsequent book builds on.
+- Louis Menand, *The Metaphysical Club* (2001) — the Pulitzer-winning group biography of James, Peirce, Holmes, and Dewey; the best introduction to American pragmatism for general readers.

@@ -32,3 +32,9 @@ From this follows his theory of the "organic intellectual" — every social clas
 
 - *Prison Notebooks* (written 1929–35, published posthumously)
 - *Letters from Prison* (posthumous)
+
+## Secondary sources
+
+- Giuseppe Fiori, *Antonio Gramsci: Life of a Revolutionary* (Italian 1966; English 1970) — the classic biography by a Sardinian journalist who knew Gramsci's family; still the best life in English.
+- Perry Anderson, *The Antinomies of Antonio Gramsci* (1976; expanded ed. 2017) — the sharpest English-language interpretive essay; indispensable on the tensions inside the *Prison Notebooks*.
+- Joseph Buttigieg, ed., *Prison Notebooks* (Columbia, 3 vols., 1992–2007) — the critical edition in English; the scholarly foundation for serious work.

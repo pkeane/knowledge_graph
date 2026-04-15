@@ -35,3 +35,9 @@ Her 1956 family memoir *Proud Shoes* traced her North Carolina ancestors across 
 - "Jane Crow and the Law" (1965, with Mary Eastwood)
 - *Dark Testament and Other Poems* (1970)
 - *Song in a Weary Throat* (1987)
+
+## Secondary sources
+
+- Rosalind Rosenberg, *Jane Crow: The Life of Pauli Murray* (2017) — the standard modern biography; the first to draw fully on the archive, including the materials relating to Murray's gender identity.
+- Kathryn Schulz, "The Many Lives of Pauli Murray," *New Yorker* (17 April 2017) — the outstanding short profile.
+- Sarah Azaransky, *The Dream Is Freedom: Pauli Murray and American Democratic Faith* (2011) — the major interpretive study of Murray as a religious-political thinker.

@@ -33,3 +33,9 @@ Politically Hume was a cautious Tory skeptic of [[social-contract]] theory: gove
 - *An Enquiry Concerning Human Understanding* (1748)
 - *An Enquiry Concerning the Principles of Morals* (1751)
 - *Dialogues Concerning Natural Religion* (posthumous, 1779)
+
+## Secondary sources
+
+- Ernest Campbell Mossner, *The Life of David Hume* (1954; 2nd ed. 1980) — the standard biography; long unsurpassed.
+- James A. Harris, *Hume: An Intellectual Biography* (2015) — the outstanding modern life; reads Hume as a man of letters rather than principally as an academic philosopher.
+- Barry Stroud, *Hume* (1977) — the best short philosophical introduction in English.

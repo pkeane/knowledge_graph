@@ -34,3 +34,9 @@ He nearly lost his head in Paris during the Terror (Robespierre's faction consid
 - *Rights of Man* (1791–92)
 - *The Age of Reason* (1794–1807)
 - *Agrarian Justice* (1797)
+
+## Secondary sources
+
+- John Keane, *Tom Paine: A Political Life* (1995) — the standard modern life; places Paine in his full transatlantic political setting.
+- Eric Foner, *Tom Paine and Revolutionary America* (1976; rev. 2005) — the outstanding American-focused intellectual biography.
+- Harvey J. Kaye, *Thomas Paine and the Promise of America* (2005) — the best short account of Paine's afterlife in American radical politics.

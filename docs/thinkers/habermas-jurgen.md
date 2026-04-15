@@ -33,3 +33,9 @@ The dominant figure of second-generation [[frankfurt-school|Frankfurt School]] [
 - *Knowledge and Human Interests* (1968)
 - *The Theory of Communicative Action* (1981)
 - *Between Facts and Norms* (1992)
+
+## Secondary sources
+
+- Stefan Müller-Doohm, *Habermas: A Biography* (German 2014; English 2016) — the authorized life and the standard reference.
+- Thomas McCarthy, *The Critical Theory of Jürgen Habermas* (1978) — the classic philosophical introduction; long unsurpassed.
+- Stephen K. White, ed., *The Cambridge Companion to Habermas* (1995) — the best multi-author introduction to the full range of the work.

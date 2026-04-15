@@ -37,3 +37,9 @@ Her feminism (*Sex and Social Justice* (1999), *Hiding from Humanity* (2004), *F
 - *Creating Capabilities* (2011)
 - *Anger and Forgiveness* (2016)
 - *The Monarchy of Fear* (2018)
+
+## Secondary sources
+
+- Thom Brooks, ed., *Martha Nussbaum: Ethics and Political Philosophy* (2016) — a good critical anthology of engagements with the work.
+- Flavio Comim and Martha Nussbaum, eds., *Capabilities, Gender, Equality* (2014) — the best volume on the capabilities approach in application.
+- Rachel Aviv, "The Philosopher of Feelings," *New Yorker* (25 July 2016) — the outstanding profile; the best short introduction to Nussbaum as a thinker and as a person.

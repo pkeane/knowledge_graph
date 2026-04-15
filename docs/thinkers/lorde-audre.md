@@ -36,3 +36,9 @@ Her essays, collected in *Sister Outsider* (1984), have become canonical in femi
 - *Zami: A New Spelling of My Name* (1982)
 - *Sister Outsider* (essays, 1984)
 - *A Burst of Light* (1988)
+
+## Secondary sources
+
+- Alexis De Veaux, *Warrior Poet: A Biography of Audre Lorde* (2004) — the standard biography; meticulous and intellectually alert.
+- Rudolph P. Byrd, Johnnetta Betsch Cole, and Beverly Guy-Sheftall, eds., *I Am Your Sister: Collected and Unpublished Writings of Audre Lorde* (2009) — the indispensable supplementary collection.
+- Sara Ahmed, *Living a Feminist Life* (2017) — not a study of Lorde but one of the strongest contemporary inheritances of her thought; shows what reading Lorde seriously looks like now.

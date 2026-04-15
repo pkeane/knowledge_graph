@@ -33,3 +33,9 @@ His blind spots are notorious: his theory of property was used to justify coloni
 - *Two Treatises of Government* (1689)
 - *An Essay Concerning Human Understanding* (1689)
 - *A Letter Concerning Toleration* (1689)
+
+## Secondary sources
+
+- Maurice Cranston, *John Locke: A Biography* (1957) — the standard life; still the indispensable reference.
+- Peter Laslett, ed., *Two Treatises of Government* (Cambridge, 1960) — Laslett's editorial introduction reshaped the modern understanding of when and why Locke wrote the *Treatises*.
+- John Dunn, *The Political Thought of John Locke* (1969) — the most influential 20th-century interpretive study; reads Locke against the grain of the Cold War "Locke as founder of liberal individualism" consensus.

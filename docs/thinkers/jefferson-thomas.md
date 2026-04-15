@@ -34,3 +34,10 @@ As president he doubled the nation's territory with the Louisiana Purchase, a st
 - *Notes on the State of Virginia* (1785)
 - Virginia Statute for Religious Freedom (1786)
 - Vast correspondence (Jefferson–Adams, Jefferson–Madison, etc.)
+
+## Secondary sources
+
+- Dumas Malone, *Jefferson and His Time* (6 vols., 1948–81) — the massive authorized Pulitzer-winning life; the 20th-century foundation.
+- Annette Gordon-Reed, *Thomas Jefferson and Sally Hemings: An American Controversy* (1997) and *The Hemingses of Monticello* (2008, Pulitzer) — the definitive scholarly reckoning with Jefferson's life as an enslaver; required alongside any older biography.
+- Joseph J. Ellis, *American Sphinx: The Character of Thomas Jefferson* (1996) — the most readable single-volume portrait.
+- Jon Meacham, *Thomas Jefferson: The Art of Power* (2012) — the outstanding recent political biography.

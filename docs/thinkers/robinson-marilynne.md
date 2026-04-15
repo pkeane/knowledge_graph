@@ -38,3 +38,9 @@ Robinson has taught at the Iowa Writers' Workshop since 1991. Her readers includ
 - *The Givenness of Things* (2015)
 - *Jack* (2020)
 - *Reading Genesis* (2024)
+
+## Secondary sources
+
+- Rachel Sykes, *The Quiet Contemporary American Novel* (2018) — places Robinson within a distinctive post-war formal tradition.
+- Christopher Leise and Jason W. Stevens, eds., *This Life, This World: New Essays on Marilynne Robinson's Housekeeping, Gilead, and Home* (2013) — the best scholarly essay collection.
+- Mark O'Connell, "The First Church of Marilynne Robinson," *New York Review of Books* (5 May 2015) — the outstanding short critical profile.

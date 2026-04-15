@@ -33,3 +33,9 @@ He was a close intellectual ally of [[hayek-fa]], sharing his horror of comprehe
 - *The Open Society and Its Enemies* (1945)
 - *The Poverty of Historicism* (1957)
 - *Conjectures and Refutations* (1963)
+
+## Secondary sources
+
+- Malachi Haim Hacohen, *Karl Popper — The Formative Years, 1902–1945* (2000) — the outstanding intellectual biography through *The Open Society*; places Popper fully in interwar Vienna.
+- Bryan Magee, *Popper* (1973) — the short, lucid introduction in the Fontana Modern Masters series; still the best first book.
+- *The Philosophy of Karl Popper* (ed. Paul Arthur Schilpp, 2 vols., 1974) — the Library of Living Philosophers volume; includes Popper's intellectual autobiography and responses to critics.

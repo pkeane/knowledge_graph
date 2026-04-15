@@ -33,3 +33,10 @@ She had earlier written *A Vindication of the Rights of Men* (1790), a quick-res
 - *A Vindication of the Rights of Woman* (1792)
 - *Letters Written During a Short Residence in Sweden, Norway, and Denmark* (1796)
 - *Maria, or The Wrongs of Woman* (unfinished, posthumous)
+
+## Secondary sources
+
+- Claire Tomalin, *The Life and Death of Mary Wollstonecraft* (1974; rev. 1992) — the book that restored Wollstonecraft to serious attention; still the outstanding readable life.
+- Lyndall Gordon, *Vindication: A Life of Mary Wollstonecraft* (2005) — the fullest modern biography.
+- Barbara Taylor, *Mary Wollstonecraft and the Feminist Imagination* (2003) — the best interpretive study of the thought; places her feminism in its religious and political context.
+- Janet Todd, *Mary Wollstonecraft: A Revolutionary Life* (2000) — the standard scholarly biography.

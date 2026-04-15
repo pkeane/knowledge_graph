@@ -35,3 +35,9 @@ His early *Hegel* (1975) is a thousand-page reconstruction that helped make Hege
 - *Multiculturalism and "The Politics of Recognition"* (1992)
 - *A Secular Age* (2007)
 - *The Language Animal* (2016)
+
+## Secondary sources
+
+- Ruth Abbey, *Charles Taylor* (2000) — the best single-volume philosophical introduction; sympathetic and comprehensive.
+- James L. Heft, ed., *A Catholic Modernity? Charles Taylor's Marianist Award Lecture* (1999) — Taylor's lecture with responses; the quickest way into his religious-philosophical position.
+- Ian Fraser, *Dialectics of the Self: Transcending Charles Taylor* (2007) — the major critical engagement from a Hegelian-Marxist direction.

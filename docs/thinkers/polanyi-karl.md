@@ -32,3 +32,9 @@ Polanyi's anthropological work (with assistants including his daughter, the econ
 - *The Great Transformation* (1944)
 - *Trade and Market in the Early Empires* (1957, edited)
 - *The Livelihood of Man* (posthumous, 1977)
+
+## Secondary sources
+
+- Gareth Dale, *Karl Polanyi: A Life on the Left* (2016) — the standard biography; places the work fully in the politics of his century.
+- Gareth Dale, *Karl Polanyi: The Limits of the Market* (2010) — the best systematic interpretive study.
+- Fred Block and Margaret Somers, *The Power of Market Fundamentalism: Karl Polanyi's Critique* (2014) — the outstanding recent application of Polanyi to contemporary political economy.
