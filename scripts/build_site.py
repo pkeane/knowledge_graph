@@ -267,7 +267,7 @@ if (tag) { filter.value = tag; apply(tag); }
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Political, social, economic, and philosophical thought — with branches into the arts and the non-Western traditions that modernity cannot be understood without</div>
-<nav><a href="about/">About</a><a href="books/">Reading list</a></nav>
+<nav><a href="about/">About</a><a href="books/">Recommended reading</a></nav>
 </header>
 <input id="filter" type="search" placeholder="Filter by name or tag…" autofocus>
 {"".join(sections)}

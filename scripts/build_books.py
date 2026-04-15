@@ -274,7 +274,7 @@ html = (
     '<!doctype html><html lang="en"><head>'
     '<meta charset="utf-8">'
     '<meta name="viewport" content="width=device-width,initial-scale=1">'
-    '<title>Reading List — Knowledge Graph</title>'
+    '<title>Recommended Reading — Knowledge Graph</title>'
     f'<style>{CSS}</style>'
     '</head><body>'
     '<nav class="breadcrumb"><a href="../index.html">← Knowledge Graph</a></nav>'
