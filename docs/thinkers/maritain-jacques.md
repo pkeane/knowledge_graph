@@ -6,7 +6,7 @@ born: 1882
 died: 1973
 era: 19th–20th century
 nationality: French
-tags: [philosophy, theology, catholicism, human-rights, political-theory]
+tags: [philosophy, theology, catholicism, human-rights, political-theory, christianity]
 related: [day-dorothy, merton-thomas, o-connor-flannery, percy-walker, gilson-etienne]
 influenced_by: [aquinas-thomas]
 influenced: [day-dorothy]

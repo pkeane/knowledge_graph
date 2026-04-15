@@ -5,7 +5,7 @@ name: Alasdair MacIntyre
 born: 1929
 era: 20th–21st century
 nationality: Scottish-American
-tags: [virtue-ethics, communitarianism, conservatism, critique-of-liberalism]
+tags: [virtue-ethics, communitarianism, conservatism, critique-of-liberalism, ethics]
 related: [sandel-michael, rawls-john, confucius, murdoch-iris]
 influenced_by: [hegel-gwf, marx-karl]
 influenced: [sandel-michael]

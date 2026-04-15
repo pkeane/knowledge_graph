@@ -6,7 +6,7 @@ born: 1886
 died: 1964
 era: 20th century
 nationality: Hungarian-British
-tags: [political-economy, economic-history, critique-of-capitalism]
+tags: [political-economy, economic-history, critique-of-capitalism, environmentalism]
 related: [marx-karl, hayek-fa]
 influenced_by: [marx-karl]
 influenced: []

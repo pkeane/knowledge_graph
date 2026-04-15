@@ -6,7 +6,7 @@ born: 1812
 died: 1870
 era: 19th century
 nationality: English
-tags: [literature, fiction, criticism, victorian, economic-history]
+tags: [literature, fiction, criticism, victorian, economic-history, urbanism]
 related: [orwell-george, marx-karl]
 influenced_by: []
 influenced: []

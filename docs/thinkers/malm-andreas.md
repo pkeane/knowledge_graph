@@ -5,7 +5,7 @@ name: Andreas Malm
 born: 1977
 era: 21st century
 nationality: Swedish
-tags: [marxism, climate, political-economy, environmentalism]
+tags: [marxism, climate, political-economy, environmentalism, power]
 related: [marx-karl, marxism, harvey-david, klein-naomi]
 influenced_by: [marx-karl]
 influenced: []

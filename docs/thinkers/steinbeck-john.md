@@ -6,7 +6,7 @@ born: 1902
 died: 1968
 era: 20th century
 nationality: American
-tags: [literature, fiction, american-thought, labor, depression-era]
+tags: [literature, fiction, american-thought, labor, depression-era, environmentalism]
 related: [hemingway-ernest, faulkner-william, addams-jane]
 influenced_by: []
 influenced: []

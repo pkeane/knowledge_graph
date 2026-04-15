@@ -6,7 +6,7 @@ born: 1899
 died: 1981
 era: 20th century
 nationality: American
-tags: [theology, mysticism, african-american-thought, civil-rights, religion]
+tags: [theology, mysticism, african-american-thought, civil-rights, religion, christianity]
 related: [king-mlk, merton-thomas, day-dorothy, cone-james, du-bois-web, tillich-paul]
 influenced_by: []
 influenced: [king-mlk, cone-james, civil-rights-movement]

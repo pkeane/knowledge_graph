@@ -6,7 +6,7 @@ born: 1917
 died: 2000
 era: 20th century
 nationality: American
-tags: [literature, poetry, african-american, chicago, african-american-thought]
+tags: [literature, poetry, african-american, chicago, african-american-thought, urbanism]
 related: [hughes-langston, hayden-robert, rich-adrienne, baraka-amiri, wright-richard]
 influenced_by: [hughes-langston]
 influenced: []

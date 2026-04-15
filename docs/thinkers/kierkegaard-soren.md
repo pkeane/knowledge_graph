@@ -6,7 +6,7 @@ born: 1813
 died: 1855
 era: 19th century
 nationality: Danish
-tags: [existentialism, theology, philosophy]
+tags: [existentialism, theology, philosophy, christianity, ethics]
 related: [hegel-gwf, existentialism, tillich-paul]
 influenced_by: [hegel-gwf]
 influenced: [existentialism, tillich-paul, sartre-jean-paul, camus-albert, de-beauvoir-simone, percy-walker, may-rollo, unamuno-miguel-de, bellow-saul, endo-shusaku]

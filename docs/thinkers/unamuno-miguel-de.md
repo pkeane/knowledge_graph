@@ -6,7 +6,7 @@ born: 1864
 died: 1936
 era: 19th–20th century
 nationality: Spanish (Basque)
-tags: [philosophy, literature, existentialism, religion]
+tags: [philosophy, literature, existentialism, religion, christianity]
 related: [kierkegaard-soren, james-william, ortega-y-gasset, lorca-federico-garcia]
 influenced_by: [kierkegaard-soren, james-william, pascal-blaise]
 influenced: [camus-albert]

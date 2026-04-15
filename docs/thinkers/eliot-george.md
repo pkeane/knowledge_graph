@@ -6,7 +6,7 @@ born: 1819
 died: 1880
 era: 19th century
 nationality: English
-tags: [literature, realism, victorian, moral-philosophy]
+tags: [literature, realism, victorian, moral-philosophy, christianity, ethics]
 related: [dickens-charles, tolstoy-leo, james-henry, feuerbach-ludwig]
 influenced_by: [feuerbach-ludwig, spinoza-baruch, wordsworth-william]
 influenced: [james-henry, proust-marcel]

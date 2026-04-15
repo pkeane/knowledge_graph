@@ -6,7 +6,7 @@ born: 1910
 died: 1985
 era: 20th century
 nationality: American
-tags: [law, civil-rights, feminism, theology, african-american-thought, poetry]
+tags: [law, civil-rights, feminism, theology, african-american-thought, poetry, race]
 related: [king-mlk, du-bois-web, thurman-howard, hooks-bell, intersectionality]
 influenced_by: [thurman-howard]
 influenced: []

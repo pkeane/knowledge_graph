@@ -6,7 +6,7 @@ born: 1870
 died: 1924
 era: 19th–20th century
 nationality: Russian
-tags: [marxism, revolution, socialism, political-theory]
+tags: [marxism, revolution, socialism, political-theory, power, capitalism]
 related: [marx-karl, marxism]
 influenced_by: [marx-karl, engels-friedrich]
 influenced: [marxism]

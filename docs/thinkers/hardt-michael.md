@@ -5,7 +5,7 @@ name: Michael Hardt
 born: 1960
 era: 20th–21st century
 nationality: American
-tags: [political-theory, marxism, globalization]
+tags: [political-theory, marxism, globalization, democracy]
 related: [negri-antonio, marx-karl, marxism, jameson-fredric]
 influenced_by: [negri-antonio, marx-karl]
 influenced: []

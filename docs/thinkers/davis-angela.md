@@ -5,7 +5,7 @@ name: Angela Davis
 born: 1944
 era: 20th–21st century
 nationality: American
-tags: [political-theory, marxism, feminism, race, abolition, criminal-justice]
+tags: [political-theory, marxism, feminism, race, abolition, criminal-justice, democracy]
 related: [marcuse-herbert, du-bois-web, hooks-bell, robinson-cedric, stevenson-bryan, forman-james-jr, mass-incarceration, racial-capitalism, feminism]
 influenced_by: [marcuse-herbert, marx-karl]
 influenced: []

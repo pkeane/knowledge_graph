@@ -6,7 +6,7 @@ born: 1919
 died: 1996
 era: 20th century
 nationality: American
-tags: [economics, keynesianism, political-economy]
+tags: [economics, keynesianism, political-economy, capitalism]
 related: [keynes-jm, galbraith-john-kenneth, krugman-paul, stiglitz-joseph]
 influenced_by: [keynes-jm]
 influenced: []

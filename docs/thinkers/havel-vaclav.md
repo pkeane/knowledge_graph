@@ -6,7 +6,7 @@ born: 1936
 died: 2011
 era: 20th–21st century
 nationality: Czech
-tags: [literature, theater, political-theory, dissent, history]
+tags: [literature, theater, political-theory, dissent, history, power]
 related: [kundera-milan, solzhenitsyn-aleksandr, patocka-jan, arendt-hannah]
 influenced_by: [beckett-samuel, ionesco-eugene, patocka-jan]
 influenced: []

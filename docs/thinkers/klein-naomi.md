@@ -5,7 +5,7 @@ name: Naomi Klein
 born: 1970
 era: 20th–21st century
 nationality: Canadian
-tags: [journalism, critique-of-capitalism, neoliberalism, climate, political-economy]
+tags: [journalism, critique-of-capitalism, neoliberalism, climate, political-economy, environmentalism, capitalism]
 related: [harvey-david, monbiot-george, giridharadas-anand, neoliberalism, galeano-eduardo]
 influenced_by: [polanyi-karl, harvey-david, galeano-eduardo]
 influenced: []

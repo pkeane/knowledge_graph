@@ -5,7 +5,7 @@ name: Cory Doctorow
 born: 1971
 era: 21st century
 nationality: Canadian-British
-tags: [technology, political-economy, journalism, antitrust]
+tags: [technology, political-economy, journalism, antitrust, capitalism]
 related: [wu-tim, zuboff-shoshana, inequality]
 influenced_by: [wu-tim]
 influenced: []

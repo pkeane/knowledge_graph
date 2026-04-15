@@ -6,7 +6,7 @@ born: 1689
 died: 1755
 era: 18th century
 nationality: French
-tags: [liberalism, republicanism, enlightenment, political-theory]
+tags: [liberalism, republicanism, enlightenment, political-theory, power]
 related: [tocqueville-alexis, locke-john]
 influenced_by: [locke-john]
 influenced: [tocqueville-alexis, jefferson-thomas]

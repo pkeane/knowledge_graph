@@ -5,7 +5,7 @@ name: Robert Reich
 born: 1946
 era: 20th–21st century
 nationality: American
-tags: [economics, political-economy, inequality, democracy, american-thought]
+tags: [economics, political-economy, inequality, democracy, american-thought, power]
 related: [stiglitz-joseph, krugman-paul, piketty-thomas, galbraith-john-kenneth, hacker-jacob, pierson-paul, inequality, welfare-state]
 influenced_by: []
 influenced: []

@@ -6,7 +6,7 @@ born: 1723
 died: 1790
 era: 18th century
 nationality: Scottish
-tags: [political-economy, liberalism, moral-philosophy, enlightenment]
+tags: [political-economy, liberalism, moral-philosophy, enlightenment, ethics]
 related: [locke-john, classical-liberalism, marx-karl]
 influenced_by: [locke-john, hume-david]
 influenced: [marx-karl, mill-js, classical-liberalism]

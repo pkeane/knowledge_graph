@@ -5,7 +5,7 @@ name: Jelani Cobb
 born: 1969
 era: 20th–21st century
 nationality: American
-tags: [journalism, history, african-american, political-theory]
+tags: [journalism, history, african-american, political-theory, race]
 related: [baldwin-james, lepore-jill, king-mlk]
 influenced_by: [baldwin-james]
 influenced: []

@@ -6,7 +6,7 @@ born: 1934
 died: 2024
 era: 20th–21st century
 nationality: American
-tags: [critical-theory, marxism, cultural-criticism, postmodernism]
+tags: [critical-theory, marxism, cultural-criticism, postmodernism, capitalism]
 related: [marx-karl, marxism, harvey-david, critical-theory, frankfurt-school]
 influenced_by: [marx-karl]
 influenced: []

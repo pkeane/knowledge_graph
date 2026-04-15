@@ -6,7 +6,7 @@ born: 1897
 died: 1962
 era: 20th century
 nationality: American
-tags: [literature, fiction, modernism, southern-literature]
+tags: [literature, fiction, modernism, southern-literature, race]
 related: [hemingway-ernest, o-connor-flannery, fitzgerald-f-scott, joyce-james, melville-herman]
 influenced_by: [joyce-james, melville-herman]
 influenced: [o-connor-flannery, garcia-marquez-gabriel]

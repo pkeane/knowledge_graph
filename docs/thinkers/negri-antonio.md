@@ -6,7 +6,7 @@ born: 1933
 died: 2023
 era: 20th–21st century
 nationality: Italian
-tags: [political-theory, marxism]
+tags: [political-theory, marxism, democracy]
 related: [hardt-michael, marx-karl, marxism, spinoza-baruch]
 influenced_by: [marx-karl]
 influenced: [hardt-michael]

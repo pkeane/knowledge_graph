@@ -5,7 +5,7 @@ name: Michael Walzer
 born: 1935
 era: 20th–21st century
 nationality: American
-tags: [political-theory, ethics, social-democracy, jewish-thought]
+tags: [political-theory, ethics, social-democracy, jewish-thought, democracy]
 related: [rawls-john, sandel-michael, taylor-charles, niebuhr-reinhold]
 influenced_by: [rawls-john]
 influenced: []

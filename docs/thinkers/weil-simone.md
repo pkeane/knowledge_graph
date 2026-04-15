@@ -6,7 +6,7 @@ born: 1909
 died: 1943
 era: 20th century
 nationality: French
-tags: [philosophy, mysticism, political-theory, theology]
+tags: [philosophy, mysticism, political-theory, theology, ethics]
 related: [day-dorothy, merton-thomas, camus-albert, murdoch-iris]
 influenced_by: [plato]
 influenced: [camus-albert, murdoch-iris]

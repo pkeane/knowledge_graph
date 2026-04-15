@@ -5,7 +5,7 @@ name: Harvey Cox
 born: 1929
 era: 20th–21st century
 nationality: American
-tags: [theology, religion]
+tags: [theology, religion, christianity, urbanism]
 related: [tillich-paul, merton-thomas, king-mlk]
 influenced_by: [tillich-paul]
 influenced: []
