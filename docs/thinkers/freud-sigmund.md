@@ -8,7 +8,7 @@ era: 19th–20th century
 nationality: Austrian
 tags: [psychology, psychoanalysis, critical-theory]
 related: [jung-carl, frankfurt-school, marcuse-herbert]
-influenced_by: [nietzsche-friedrich]
+influenced_by: [nietzsche-friedrich, darwin-charles]
 influenced: [jung-carl, frankfurt-school, marcuse-herbert, may-rollo]
 ---
 

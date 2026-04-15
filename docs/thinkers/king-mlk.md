@@ -7,8 +7,8 @@ died: 1968
 era: 20th century
 nationality: American
 tags: [civil-rights, theology, non-violence, political-theory]
-related: [tillich-paul, merton-thomas]
-influenced_by: [tillich-paul]
+related: [tillich-paul, merton-thomas, tolstoy-leo]
+influenced_by: [tillich-paul, tolstoy-leo]
 influenced: []
 ---
 

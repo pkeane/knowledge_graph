@@ -7,7 +7,7 @@ died: 1987
 era: 20th century
 nationality: American
 tags: [literature, civil-rights, african-american, essays, fiction]
-related: [ellison-ralph, king-mlk, coles-robert]
+related: [ellison-ralph, king-mlk, coles-robert, stowe-harriet-beecher]
 influenced_by: []
 influenced: [hooks-bell, morrison-toni, coates-ta-nehisi, cone-james, west-cornel]
 ---

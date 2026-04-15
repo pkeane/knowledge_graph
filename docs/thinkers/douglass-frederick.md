@@ -7,7 +7,7 @@ died: 1895
 era: 19th century
 nationality: American
 tags: [abolition, african-american-thought, civil-rights, slavery, american-thought]
-related: [du-bois-web, baldwin-james, thurman-howard, stevenson-bryan, racism, white-supremacy]
+related: [du-bois-web, baldwin-james, thurman-howard, stevenson-bryan, stowe-harriet-beecher, racism, white-supremacy]
 influenced_by: []
 influenced: [du-bois-web, baldwin-james]
 ---

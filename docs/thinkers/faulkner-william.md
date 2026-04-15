@@ -9,7 +9,7 @@ nationality: American
 tags: [literature, fiction, modernism, southern-literature]
 related: [hemingway-ernest, o-connor-flannery, fitzgerald-f-scott, joyce-james]
 influenced_by: [joyce-james]
-influenced: [o-connor-flannery]
+influenced: [o-connor-flannery, garcia-marquez-gabriel]
 ---
 
 # William Faulkner
