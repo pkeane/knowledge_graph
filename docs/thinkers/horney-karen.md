@@ -7,8 +7,8 @@ died: 1952
 era: 20th century
 nationality: German-American
 tags: [psychology, psychoanalysis, feminism]
-related: [fromm-erich, sullivan-harry-stack, freud-sigmund]
-influenced_by: [freud-sigmund]
+related: [fromm-erich, sullivan-harry-stack, freud-sigmund, adler-alfred]
+influenced_by: [freud-sigmund, adler-alfred]
 influenced: [fromm-erich]
 ---
 
