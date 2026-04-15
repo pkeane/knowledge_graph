@@ -7,7 +7,7 @@ died: 2013
 era: 20th–21st century
 nationality: Nigerian
 tags: [literature, fiction, african-literature, postcolonial, anticolonialism]
-related: [ngugi-wa-thiongo, said-edward, fanon-frantz, baldwin-james]
+related: [ngugi-wa-thiongo, said-edward, fanon-frantz, baldwin-james, soyinka-wole]
 influenced_by: []
 influenced: [ngugi-wa-thiongo]
 ---

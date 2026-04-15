@@ -7,9 +7,9 @@ died: 1930
 era: 20th century
 nationality: Peruvian
 tags: [marxism, latin-american-thought, indigenous, socialism, political-theory]
-related: [marx-karl, gramsci-antonio, gutierrez-gustavo, fanon-frantz]
+related: [marx-karl, gramsci-antonio, gutierrez-gustavo, fanon-frantz, galeano-eduardo]
 influenced_by: [marx-karl]
-influenced: [liberation-theology]
+influenced: [liberation-theology, galeano-eduardo]
 ---
 
 # José Carlos Mariátegui

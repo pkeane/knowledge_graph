@@ -6,8 +6,8 @@ born: 1970
 era: 20th–21st century
 nationality: Canadian
 tags: [journalism, critique-of-capitalism, neoliberalism, climate, political-economy]
-related: [harvey-david, monbiot-george, giridharadas-anand, neoliberalism]
-influenced_by: [polanyi-karl, harvey-david]
+related: [harvey-david, monbiot-george, giridharadas-anand, neoliberalism, galeano-eduardo]
+influenced_by: [polanyi-karl, harvey-david, galeano-eduardo]
 influenced: []
 ---
 
