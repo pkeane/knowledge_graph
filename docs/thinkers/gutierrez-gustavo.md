@@ -7,7 +7,7 @@ died: 2024
 era: 20th–21st century
 nationality: Peruvian
 tags: [theology, liberation-theology, catholicism, latin-american-thought, poverty, christianity]
-related: [liberation-theology, romero-oscar, freire-paulo, day-dorothy, merton-thomas, mariategui-jose-carlos, poverty]
+related: [liberation-theology, romero-oscar, freire-paulo, day-dorothy, merton-thomas, mariategui-jose-carlos, poverty, kung-hans]
 influenced_by: [marx-karl, mariategui-jose-carlos]
 influenced: [liberation-theology]
 ---
