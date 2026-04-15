@@ -42,7 +42,7 @@ The selection is not neutral. The following commitments are visible in which thi
 
 ### Arts as thought
 
-Literature, poetry, drama, and design are treated as forms in which a culture does political, social, and philosophical work, not as decoration. Writers and artists receive entries on the same footing as political theorists where their work is engaged with these questions.
+Literature, poetry, drama, and design are treated as forms in which a culture does political, social, and philosophical work. Writers and artists receive entries on the same footing as political theorists where their work is engaged with these questions.
 
 ## Biases to be aware of
 
