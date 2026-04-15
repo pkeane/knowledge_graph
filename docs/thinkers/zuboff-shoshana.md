@@ -6,7 +6,7 @@ born: 1951
 era: 20th–21st century
 nationality: American
 tags: [technology, political-economy, privacy, democracy, surveillance]
-related: [wu-tim, doctorow-cory, arendt-hannah, polanyi-karl, inequality]
+related: [wu-tim, doctorow-cory, arendt-hannah, polanyi-karl, inequality, orwell-george]
 influenced_by: [arendt-hannah, polanyi-karl]
 influenced: []
 ---
