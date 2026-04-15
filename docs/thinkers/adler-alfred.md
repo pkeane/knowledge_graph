@@ -7,9 +7,9 @@ died: 1937
 era: 19th–20th century
 nationality: Austrian
 tags: [psychology, psychoanalysis]
-related: [freud-sigmund, jung-carl, horney-karen, fromm-erich, may-rollo]
+related: [freud-sigmund, jung-carl, horney-karen, fromm-erich, may-rollo, maslow-abraham, frankl-viktor]
 influenced_by: [freud-sigmund]
-influenced: [horney-karen, fromm-erich, may-rollo]
+influenced: [horney-karen, fromm-erich, may-rollo, maslow-abraham, frankl-viktor]
 ---
 
 # Alfred Adler

@@ -7,9 +7,9 @@ died: 1960
 era: 20th century
 nationality: Austrian-British
 tags: [psychoanalysis, psychology]
-related: [freud-sigmund, horney-karen, freud-anna]
+related: [freud-sigmund, horney-karen, freud-anna, winnicott-dw, lacan-jacques]
 influenced_by: [freud-sigmund]
-influenced: []
+influenced: [winnicott-dw, lacan-jacques]
 ---
 
 # Melanie Klein

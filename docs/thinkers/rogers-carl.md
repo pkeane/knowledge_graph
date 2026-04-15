@@ -7,7 +7,7 @@ died: 1987
 era: 20th century
 nationality: American
 tags: [psychology, education, ethics]
-related: [may-rollo, fromm-erich, freire-paulo, erikson-erik, dewey-john]
+related: [may-rollo, fromm-erich, freire-paulo, erikson-erik, dewey-john, maslow-abraham]
 influenced_by: [dewey-john, kierkegaard-soren]
 influenced: [freire-paulo]
 ---

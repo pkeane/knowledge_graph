@@ -7,7 +7,7 @@ died: 1982
 era: 20th century
 nationality: Austrian-British
 tags: [psychoanalysis, psychology]
-related: [freud-sigmund, klein-melanie, erikson-erik]
+related: [freud-sigmund, klein-melanie, erikson-erik, winnicott-dw]
 influenced_by: [freud-sigmund]
 influenced: [erikson-erik]
 ---

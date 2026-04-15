@@ -7,7 +7,7 @@ died: 1994
 era: 20th century
 nationality: American
 tags: [psychology, existentialism]
-related: [tillich-paul, existentialism, freud-sigmund, rogers-carl]
+related: [tillich-paul, existentialism, freud-sigmund, rogers-carl, maslow-abraham, frankl-viktor]
 influenced_by: [tillich-paul, existentialism, kierkegaard-soren]
 influenced: []
 ---

@@ -9,7 +9,7 @@ nationality: Austrian
 tags: [psychology, psychoanalysis, critical-theory]
 related: [jung-carl, frankfurt-school, marcuse-herbert, erikson-erik, horney-karen, sullivan-harry-stack]
 influenced_by: [nietzsche-friedrich, darwin-charles]
-influenced: [jung-carl, frankfurt-school, marcuse-herbert, may-rollo, erikson-erik, klein-melanie, freud-anna, adler-alfred]
+influenced: [jung-carl, frankfurt-school, marcuse-herbert, may-rollo, erikson-erik, klein-melanie, freud-anna, adler-alfred, lacan-jacques]
 ---
 
 # Sigmund Freud

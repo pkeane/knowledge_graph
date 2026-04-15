@@ -9,7 +9,7 @@ nationality: American
 tags: [psychology, psychoanalysis, sociology]
 related: [fromm-erich, horney-karen, erikson-erik, percy-walker]
 influenced_by: [freud-sigmund, mead-gh]
-influenced: [percy-walker, erikson-erik, fromm-erich]
+influenced: [percy-walker, erikson-erik, fromm-erich, laing-rd]
 ---
 
 # Harry Stack Sullivan

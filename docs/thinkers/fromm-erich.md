@@ -9,7 +9,7 @@ nationality: German-American
 tags: [psychoanalysis, critical-theory, psychology, frankfurt-school, ethics]
 related: [frankfurt-school, freud-sigmund, marx-karl, marcuse-herbert, may-rollo, horney-karen, sullivan-harry-stack]
 influenced_by: [freud-sigmund, marx-karl, frankfurt-school, horney-karen, sullivan-harry-stack]
-influenced: []
+influenced: [maslow-abraham]
 ---
 
 # Erich Fromm
