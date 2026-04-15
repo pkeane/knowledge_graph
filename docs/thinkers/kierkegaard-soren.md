@@ -9,7 +9,7 @@ nationality: Danish
 tags: [existentialism, theology, philosophy]
 related: [hegel-gwf, existentialism, tillich-paul]
 influenced_by: [hegel-gwf]
-influenced: [existentialism, tillich-paul, sartre-jean-paul, camus-albert, de-beauvoir-simone, percy-walker, may-rollo]
+influenced: [existentialism, tillich-paul, sartre-jean-paul, camus-albert, de-beauvoir-simone, percy-walker, may-rollo, unamuno-miguel-de, bellow-saul, endo-shusaku]
 ---
 
 # Søren Kierkegaard

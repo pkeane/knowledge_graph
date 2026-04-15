@@ -7,9 +7,9 @@ died: 1986
 era: 20th century
 nationality: French
 tags: [feminism, existentialism, ethics, political-theory]
-related: [wollstonecraft-mary, foucault-michel]
+related: [wollstonecraft-mary, foucault-michel, lessing-doris]
 influenced_by: [hegel-gwf]
-influenced: [hooks-bell, feminism]
+influenced: [hooks-bell, feminism, lessing-doris]
 ---
 
 # Simone de Beauvoir

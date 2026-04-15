@@ -7,9 +7,9 @@ died: 1943
 era: 20th century
 nationality: French
 tags: [philosophy, mysticism, political-theory, theology]
-related: [day-dorothy, merton-thomas, camus-albert]
+related: [day-dorothy, merton-thomas, camus-albert, murdoch-iris]
 influenced_by: [plato]
-influenced: [camus-albert]
+influenced: [camus-albert, murdoch-iris]
 ---
 
 # Simone Weil

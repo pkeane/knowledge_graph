@@ -7,9 +7,9 @@ died: 1980
 era: 20th century
 nationality: French
 tags: [existentialism, phenomenology, marxism, literature]
-related: [de-beauvoir-simone, camus-albert, existentialism, marx-karl]
+related: [de-beauvoir-simone, camus-albert, existentialism, marx-karl, murdoch-iris]
 influenced_by: [kierkegaard-soren, hegel-gwf, marx-karl]
-influenced: [existentialism, fanon-frantz, shariati-ali]
+influenced: [existentialism, fanon-frantz, shariati-ali, bellow-saul, murdoch-iris, lessing-doris]
 ---
 
 # Jean-Paul Sartre
