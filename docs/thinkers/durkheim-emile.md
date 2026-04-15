@@ -7,7 +7,7 @@ died: 1917
 era: 19th–20th century
 nationality: French
 tags: [sociology, social-theory, religion, methodology]
-related: [marx-karl, weber-max, tillich-paul, alienation]
+related: [marx-karl, weber-max, tillich-paul, ibn-khaldun, alienation]
 influenced_by: []
 influenced: []
 ---

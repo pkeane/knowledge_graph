@@ -9,7 +9,7 @@ nationality: Prussian / German
 tags: [marxism, socialism, political-economy, critical-theory]
 related: [smith-adam, engels-friedrich, marxism, rousseau-jj, weber-max, durkheim-emile]
 influenced_by: [hegel-gwf, smith-adam, rousseau-jj, ricardo-david, darwin-charles]
-influenced: [marxism, lenin-vi, frankfurt-school, critical-theory, jameson-fredric, malm-andreas, hardt-michael, negri-antonio, freire-paulo, liberation-theology]
+influenced: [marxism, lenin-vi, frankfurt-school, critical-theory, jameson-fredric, malm-andreas, hardt-michael, negri-antonio, freire-paulo, liberation-theology, mao-zedong, mariategui-jose-carlos, shariati-ali]
 ---
 
 # Karl Marx

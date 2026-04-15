@@ -7,9 +7,9 @@ died: 1862
 era: 19th century
 nationality: American
 tags: [transcendentalism, american-thought, civil-disobedience, nature]
-related: [emerson-rw, king-mlk]
+related: [emerson-rw, king-mlk, gandhi-mohandas]
 influenced_by: [emerson-rw]
-influenced: [king-mlk]
+influenced: [king-mlk, gandhi-mohandas]
 ---
 
 # Henry David Thoreau

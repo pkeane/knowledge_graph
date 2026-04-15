@@ -9,7 +9,7 @@ nationality: French
 tags: [existentialism, phenomenology, marxism, literature]
 related: [de-beauvoir-simone, camus-albert, existentialism, marx-karl]
 influenced_by: [kierkegaard-soren, hegel-gwf, marx-karl]
-influenced: [existentialism]
+influenced: [existentialism, fanon-frantz, shariati-ali]
 ---
 
 # Jean-Paul Sartre
