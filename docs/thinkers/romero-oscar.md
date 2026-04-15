@@ -7,7 +7,7 @@ died: 1980
 era: 20th century
 nationality: Salvadoran
 tags: [theology, liberation-theology, catholicism, human-rights, martyrdom]
-related: [liberation-theology, day-dorothy, merton-thomas, freire-paulo, king-mlk]
+related: [liberation-theology, day-dorothy, merton-thomas, freire-paulo, king-mlk, gutierrez-gustavo]
 influenced_by: [liberation-theology]
 influenced: []
 ---

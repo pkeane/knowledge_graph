@@ -205,7 +205,6 @@ def build_bibliography():
         ("Matthew Desmond", "Evicted", "2016"),
         ("Matthew Desmond", "Poverty, by America", "2023"),
         ("Frederick Douglass", "Narrative of the Life of Frederick Douglass", "1845"),
-        ("Gustavo Gutiérrez", "A Theology of Liberation", "1971"),
         ("Pope Francis", "Laudato Si'", "2015"),
         ("Heather McGhee", "The Sum of Us", "2021"),
         ("Walter Rauschenbusch", "Christianity and the Social Crisis", "1907"),
