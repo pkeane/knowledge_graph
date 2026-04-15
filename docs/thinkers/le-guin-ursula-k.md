@@ -7,8 +7,8 @@ died: 2018
 era: 20th–21st century
 nationality: American
 tags: [literature, science-fiction, fiction, feminism, anarchism, taoism, science]
-related: [dick-philip-k, atwood-margaret, tolkien-jrr, kropotkin-peter]
-influenced_by: [lao-tzu, kropotkin-peter, tolstoy-leo]
+related: [dick-philip-k, atwood-margaret, tolkien-jrr, kropotkin-peter, laozi]
+influenced_by: [laozi, kropotkin-peter, tolstoy-leo]
 influenced: []
 ---
 
