@@ -93,22 +93,19 @@ From `/Users/pkeane/VALUES.md` (updated April 2026):
 - [[sandel-michael]], [[taylor-charles]], [[walzer-michael]], [[macintyre-alasdair]] — communitarian/pluralist critics.
 - [[nozick-robert]], [[hayek-fa]], [[friedman-milton]] — the [[libertarianism|libertarian]] opposition; useful to know because your own commitments are positioned against it.
 
+## Recently added
+
+Since the previous version of this review, the graph now includes: [[cone-james|James Cone]], [[douglass-frederick|Frederick Douglass]], [[west-cornel|Cornel West]], [[coates-ta-nehisi|Ta-Nehisi Coates]], [[alexander-michelle|Michelle Alexander]], [[gutierrez-gustavo|Gustavo Gutiérrez]], [[romero-oscar|Óscar Romero]], [[robinson-marilynne|Marilynne Robinson]], and [[rauschenbusch-walter|Walter Rauschenbusch]] — together closing most of the Black-Christian, liberation-theology, and American-Calvinist gaps that the earlier review flagged as structural.
+
 ## Still missing — candidates worth considering
 
 ### Black American Christianity and intellectual tradition
 
-- **James H. Cone** — Black liberation theology; *The Cross and the Lynching Tree*.
-- **Frederick Douglass** — foundational 19th-century figure.
-- **Cornel West** — contemporary Black prophetic Christianity.
 - **John Lewis** — Beloved Community in civil-rights practice.
-- **Ta-Nehisi Coates** — *Between the World and Me*, *The Case for Reparations*.
-- **Michelle Alexander** — *The New Jim Crow*.
 
 ### Liberation theology practitioners
 
-- **Gustavo Gutiérrez** — founder, *A Theology of Liberation*.
-- **Óscar Romero** — martyred Salvadoran archbishop.
-- **Pope Francis** — *Laudato Si'*.
+- **Pope Francis** — *Laudato Si'*; the papal inflection of the tradition.
 
 ### Racial capitalism / structural analysis
 
@@ -120,14 +117,6 @@ From `/Users/pkeane/VALUES.md` (updated April 2026):
 - **Matthew Desmond** — *Evicted*, *Poverty, by America*.
 - **Howard Zinn** — *A People's History*.
 
-### American Calvinist humanism / agrarian Christian letters
-
-- **Marilynne Robinson** — novelist and essayist; *Gilead*, *Home*, *Lila*, *Jack*.
-
-### Social gospel (school has entry; namesake doesn't)
-
-- **Walter Rauschenbusch** — *Christianity and the Social Crisis*.
-
 ### Digital-commons and public-interest technology (opened up by the new VALUES bullet)
 
 - **Audrey Tang** — Taiwan's former digital minister; the leading practitioner of digital democracy and public digital infrastructure.
@@ -135,18 +124,17 @@ From `/Users/pkeane/VALUES.md` (updated April 2026):
 - **Ben Green** — *The Smart Enough City*.
 - **Lawrence Lessig** — *Code*, *Republic, Lost*; pre-dates Zuboff/Wu and connects platform concerns to campaign-finance ones.
 
+### Black feminist theory (the concept is in; the theorists aren't)
+
+- **Patricia Hill Collins** — *Black Feminist Thought*.
+- **Kimberlé Crenshaw** — you have the [[intersectionality]] concept but not her.
+
 ## If I had to pick five more
 
-The five remaining additions that would most sharpen the graph around your concerns:
+With most of the earlier top-five additions now in the graph, the remaining high-leverage picks are:
 
-1. **James H. Cone** — the missing Black liberation theologian.
-2. **Marilynne Robinson** — American Calvinist humanist novelist and essayist.
-3. **Frederick Douglass** — still a structural absence given the 19th-century coverage.
-4. **Michelle Alexander** — completes the mass-incarceration cluster.
-5. **Audrey Tang** — anchors the digital-public-infrastructure strand that the new VALUES bullet opens.
-
-## Plus three more women worth pushing for
-
-1. **Marilynne Robinson** (see above).
-2. **Patricia Hill Collins** — *Black Feminist Thought*.
-3. **Kimberlé Crenshaw** — you have the [[intersectionality]] concept but not her.
+1. **Audrey Tang** — anchors the digital-public-infrastructure strand that the VALUES bullet opens.
+2. **Kimberlé Crenshaw** — completes the intersectionality cluster whose concept-entry already exists.
+3. **Eric Williams** — the 1944 origin of the racial-capitalism argument the graph otherwise traces only forward from Cedric Robinson.
+4. **Matthew Desmond** — the central contemporary chronicler of American working-poor life.
+5. **Lawrence Lessig** — bridges platform critique and campaign-finance critique; a natural pairing with Reich and Zuboff.
