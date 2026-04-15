@@ -7,8 +7,8 @@ died: 1997
 era: 20th century
 nationality: Brazilian
 tags: [education, pedagogy, latin-american-thought, critical-theory]
-related: [liberation-theology, hooks-bell, fanon-frantz]
-influenced_by: [marx-karl, fanon-frantz, gramsci-antonio]
+related: [liberation-theology, hooks-bell, fanon-frantz, rogers-carl]
+influenced_by: [marx-karl, fanon-frantz, gramsci-antonio, rogers-carl]
 influenced: [hooks-bell]
 ---
 
