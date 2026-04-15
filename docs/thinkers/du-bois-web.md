@@ -7,9 +7,9 @@ died: 1963
 era: 19th–20th century
 nationality: American
 tags: [sociology, african-american-thought, race, history, pan-africanism]
-related: [baldwin-james, ellison-ralph, king-mlk, cobb-jelani, robinson-cedric, thurman-howard]
-influenced_by: [marx-karl]
-influenced: [king-mlk, baldwin-james, robinson-cedric]
+related: [baldwin-james, ellison-ralph, king-mlk, cobb-jelani, robinson-cedric, thurman-howard, douglass-frederick, west-cornel, coates-ta-nehisi]
+influenced_by: [marx-karl, douglass-frederick]
+influenced: [king-mlk, baldwin-james, robinson-cedric, west-cornel, coates-ta-nehisi, cone-james]
 ---
 
 # W.E.B. Du Bois

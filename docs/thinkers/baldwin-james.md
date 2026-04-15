@@ -9,7 +9,7 @@ nationality: American
 tags: [literature, civil-rights, african-american, essays, fiction]
 related: [ellison-ralph, king-mlk, coles-robert]
 influenced_by: []
-influenced: [hooks-bell, morrison-toni]
+influenced: [hooks-bell, morrison-toni, coates-ta-nehisi, cone-james, west-cornel]
 ---
 
 # James Baldwin

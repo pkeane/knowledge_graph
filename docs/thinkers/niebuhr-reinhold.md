@@ -8,7 +8,7 @@ era: 20th century
 nationality: American
 tags: [theology, political-theory, ethics, realism, christianity]
 related: [tillich-paul, niebuhr-h-richard, king-mlk, auden-wh]
-influenced_by: [augustine, kierkegaard-soren]
+influenced_by: [augustine, kierkegaard-soren, rauschenbusch-walter]
 influenced: [king-mlk, auden-wh]
 ---
 

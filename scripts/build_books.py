@@ -199,23 +199,12 @@ def build_bibliography():
 
     # Curated related works whose authors are not (yet) in the graph.
     related = [
-        ("Michelle Alexander", "The New Jim Crow", "2010"),
-        ("Ta-Nehisi Coates", "Between the World and Me", "2015"),
-        ("James H. Cone", "The Cross and the Lynching Tree", "2011"),
         ("Matthew Desmond", "Evicted", "2016"),
         ("Matthew Desmond", "Poverty, by America", "2023"),
-        ("Frederick Douglass", "Narrative of the Life of Frederick Douglass", "1845"),
         ("Pope Francis", "Laudato Si'", "2015"),
         ("Heather McGhee", "The Sum of Us", "2021"),
-        ("Walter Rauschenbusch", "Christianity and the Social Crisis", "1907"),
-        ("Marilynne Robinson", "Gilead", "2004"),
-        ("Marilynne Robinson", "Home", "2008"),
-        ("Marilynne Robinson", "Lila", "2014"),
-        ("Marilynne Robinson", "The Death of Adam", "1998"),
         ("Walter Rodney", "How Europe Underdeveloped Africa", "1972"),
         ("Audrey Tang", "Plurality", "2024"),
-        ("Adam Tooze", "Crashed", "2018"),
-        ("Cornel West", "Race Matters", "1993"),
         ("Eric Williams", "Capitalism and Slavery", "1944"),
         ("Howard Zinn", "A People's History of the United States", "1980"),
         ("Ethan Zuckerman", "Mistrust", "2020"),

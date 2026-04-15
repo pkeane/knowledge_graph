@@ -4,8 +4,8 @@ type: school
 name: Social Gospel
 era: late 19th–early 20th century
 tags: [theology, christianity, american-thought, reform, progressivism]
-related: [niebuhr-reinhold, addams-jane, day-dorothy, king-mlk, liberation-theology, beloved-community, welfare-state]
-influenced_by: []
+related: [niebuhr-reinhold, addams-jane, day-dorothy, king-mlk, liberation-theology, beloved-community, welfare-state, rauschenbusch-walter]
+influenced_by: [rauschenbusch-walter]
 influenced: [niebuhr-reinhold, king-mlk]
 ---
 
