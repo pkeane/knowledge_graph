@@ -9,7 +9,7 @@ nationality: Italian
 tags: [marxism, critical-theory, political-theory]
 related: [marx-karl, marxism, frankfurt-school]
 influenced_by: [marx-karl, hegel-gwf]
-influenced: [frankfurt-school, cultural-studies, freire-paulo, hardt-michael, negri-antonio]
+influenced: [frankfurt-school, cultural-studies, freire-paulo, hardt-michael, negri-antonio, pasolini-pier-paolo]
 ---
 
 # Antonio Gramsci

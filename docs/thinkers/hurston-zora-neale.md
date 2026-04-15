@@ -7,7 +7,7 @@ died: 1960
 era: 20th century
 nationality: American
 tags: [literature, sociology, harlem-renaissance, african-american]
-related: [hughes-langston, wright-richard, morrison-toni, walker-alice, du-bois-web]
+related: [hughes-langston, wright-richard, morrison-toni, walker-alice, du-bois-web, lawrence-jacob]
 influenced_by: [boas-franz]
 influenced: [walker-alice, morrison-toni]
 ---

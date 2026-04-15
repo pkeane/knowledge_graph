@@ -6,7 +6,7 @@ born: 1934
 era: 20th–21st century
 nationality: Nigerian
 tags: [literature, theater, poetry, anticolonialism, political-prisoner]
-related: [achebe-chinua, ngugi-wa-thiongo, fanon-frantz, cesaire-aime]
+related: [achebe-chinua, ngugi-wa-thiongo, fanon-frantz, cesaire-aime, sembene-ousmane]
 influenced_by: [yoruba-cosmology, brecht-bertolt, beckett-samuel]
 influenced: []
 ---

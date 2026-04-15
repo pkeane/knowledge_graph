@@ -7,7 +7,7 @@ died: 1935
 era: 19th–20th century
 nationality: American
 tags: [progressivism, pragmatism, feminism, peace, sociology, democracy]
-related: [dewey-john, du-bois-web, welfare-state, wollstonecraft-mary, sinclair-upton]
+related: [dewey-john, du-bois-web, welfare-state, wollstonecraft-mary, sinclair-upton, lange-dorothea]
 influenced_by: [dewey-john]
 influenced: [dewey-john]
 ---

@@ -7,7 +7,7 @@ died: 1930
 era: 20th century
 nationality: Peruvian
 tags: [marxism, latin-american-thought, socialism, political-theory, environmentalism]
-related: [marx-karl, gramsci-antonio, gutierrez-gustavo, fanon-frantz, galeano-eduardo]
+related: [marx-karl, gramsci-antonio, gutierrez-gustavo, fanon-frantz, galeano-eduardo, rivera-diego, bo-bardi-lina]
 influenced_by: [marx-karl]
 influenced: [liberation-theology, galeano-eduardo]
 ---

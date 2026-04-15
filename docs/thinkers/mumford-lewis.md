@@ -7,7 +7,7 @@ died: 1990
 era: 20th century
 nationality: American
 tags: [urbanism, technology, architecture, american-thought, critique]
-related: [morris-william, jacobs-jane, alexander-christopher, geddes-patrick]
+related: [morris-william, jacobs-jane, alexander-christopher, geddes-patrick, le-corbusier, wright-frank-lloyd, fuller-buckminster]
 influenced_by: [morris-william, geddes-patrick, emerson-ralph-waldo]
 influenced: [jacobs-jane, alexander-christopher]
 ---

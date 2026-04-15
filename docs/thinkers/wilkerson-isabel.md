@@ -6,7 +6,7 @@ born: 1961
 era: 20th–21st century
 nationality: American
 tags: [journalism, history, race, african-american-thought, sociology]
-related: [du-bois-web, alexander-michelle, stevenson-bryan, cobb-jelani, morrison-toni]
+related: [du-bois-web, alexander-michelle, stevenson-bryan, cobb-jelani, morrison-toni, lange-dorothea, lawrence-jacob]
 influenced_by: []
 influenced: []
 ---

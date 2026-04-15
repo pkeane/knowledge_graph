@@ -7,7 +7,7 @@ died: 1941
 era: 19th–20th century
 nationality: Indian (Bengali)
 tags: [literature, poetry, indian-thought, critique, education]
-related: [gandhi-mohandas, yeats-wb]
+related: [gandhi-mohandas, yeats-wb, ray-satyajit]
 influenced_by: []
 influenced: [yeats-wb]
 ---

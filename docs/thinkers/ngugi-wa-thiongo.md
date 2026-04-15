@@ -6,7 +6,7 @@ born: 1938
 era: 20th–21st century
 nationality: Kenyan
 tags: [literature, fiction, postcolonial, african-literature, anticolonialism, marxism]
-related: [achebe-chinua, fanon-frantz, said-edward, freire-paulo, soyinka-wole]
+related: [achebe-chinua, fanon-frantz, said-edward, freire-paulo, soyinka-wole, sembene-ousmane]
 influenced_by: [fanon-frantz, achebe-chinua, marx-karl]
 influenced: []
 ---

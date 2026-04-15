@@ -7,7 +7,7 @@ died: 1955
 era: 19th–20th century
 nationality: German
 tags: [literature, modernism, exile]
-related: [goethe-johann-wolfgang, nietzsche-friedrich, schopenhauer-arthur, wagner-richard, freud-sigmund]
+related: [goethe-johann-wolfgang, nietzsche-friedrich, schopenhauer-arthur, wagner-richard, freud-sigmund, kollwitz-kathe]
 influenced_by: [goethe-johann-wolfgang, nietzsche-friedrich, schopenhauer-arthur, wagner-richard]
 influenced: []
 ---

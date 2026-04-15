@@ -7,7 +7,7 @@ died: 1945
 era: 20th century
 nationality: German
 tags: [theology, ethics, christianity, dissent]
-related: [tillich-paul, niebuhr-reinhold, merton-thomas, day-dorothy]
+related: [tillich-paul, niebuhr-reinhold, merton-thomas, day-dorothy, kollwitz-kathe]
 influenced_by: [kierkegaard-soren]
 influenced: [cox-harvey]
 ---

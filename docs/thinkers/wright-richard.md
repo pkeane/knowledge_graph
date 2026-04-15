@@ -7,7 +7,7 @@ died: 1960
 era: 20th century
 nationality: American
 tags: [literature, race, marxism, african-american, existentialism]
-related: [baldwin-james, ellison-ralph, hurston-zora-neale, du-bois-web, sartre-jean-paul, fanon-frantz]
+related: [baldwin-james, ellison-ralph, hurston-zora-neale, du-bois-web, sartre-jean-paul, fanon-frantz, lawrence-jacob]
 influenced_by: [marx-karl, dostoevsky-fyodor]
 influenced: [baldwin-james, ellison-ralph]
 ---

@@ -7,7 +7,7 @@ died: 2022
 era: 20th–21st century
 nationality: British-American (Austrian-born)
 tags: [architecture, design, urbanism, critique]
-related: [jacobs-jane, mumford-lewis, illich-ivan, morris-william]
+related: [jacobs-jane, mumford-lewis, illich-ivan, morris-william, le-corbusier, wright-frank-lloyd, fuller-buckminster, bo-bardi-lina]
 influenced_by: [jacobs-jane, mumford-lewis]
 influenced: []
 ---

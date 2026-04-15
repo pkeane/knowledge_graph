@@ -7,7 +7,7 @@ died: 2006
 era: 20th–21st century
 nationality: American-Canadian
 tags: [urbanism, political-economy, journalism, community]
-related: [berry-wendell, addams-jane, galbraith-john-kenneth, carson-rachel, mumford-lewis, alexander-christopher]
+related: [berry-wendell, addams-jane, galbraith-john-kenneth, carson-rachel, mumford-lewis, alexander-christopher, le-corbusier, wright-frank-lloyd]
 influenced_by: [mumford-lewis]
 influenced: [alexander-christopher]
 ---

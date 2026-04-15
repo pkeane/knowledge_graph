@@ -9,7 +9,7 @@ nationality: English
 tags: [design, socialism, political-theory, literature]
 related: [ruskin-john, marx-karl, gropius-walter, mumford-lewis]
 influenced_by: [ruskin-john, marx-karl]
-influenced: [gropius-walter, mumford-lewis]
+influenced: [gropius-walter, mumford-lewis, wright-frank-lloyd]
 ---
 
 # William Morris

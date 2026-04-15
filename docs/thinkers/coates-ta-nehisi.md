@@ -6,7 +6,7 @@ born: 1975
 era: 21st century
 nationality: American
 tags: [african-american-thought, literature, essay, race, american-thought]
-related: [baldwin-james, du-bois-web, morrison-toni, stevenson-bryan, racism, racial-capitalism]
+related: [baldwin-james, du-bois-web, morrison-toni, stevenson-bryan, racism, racial-capitalism, lee-spike]
 influenced_by: [baldwin-james, du-bois-web, morrison-toni]
 influenced: []
 ---

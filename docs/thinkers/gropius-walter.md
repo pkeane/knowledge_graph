@@ -7,7 +7,7 @@ died: 1969
 era: 20th century
 nationality: German-American
 tags: [architecture, design, bauhaus, modernism, pedagogy]
-related: [moholy-nagy-laszlo, albers-josef, klee-paul, kandinsky-wassily, mies-van-der-rohe, morris-william]
+related: [moholy-nagy-laszlo, albers-josef, klee-paul, kandinsky-wassily, mies-van-der-rohe, morris-william, le-corbusier, bo-bardi-lina]
 influenced_by: [morris-william, behrens-peter]
 influenced: [moholy-nagy-laszlo, albers-josef]
 ---

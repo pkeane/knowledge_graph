@@ -7,7 +7,7 @@ died: 2008
 era: 20th–21st century
 nationality: Russian
 tags: [literature, totalitarianism, russia, christianity, conservatism, dissent]
-related: [dostoevsky-fyodor, tolstoy-leo, akhmatova-anna, havel-vaclav]
+related: [dostoevsky-fyodor, tolstoy-leo, akhmatova-anna, havel-vaclav, tarkovsky-andrei, ai-weiwei]
 influenced_by: [dostoevsky-fyodor, tolstoy-leo]
 influenced: []
 ---
