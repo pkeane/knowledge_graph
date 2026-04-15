@@ -7,8 +7,8 @@ died: 1980
 era: 20th century
 nationality: American
 tags: [catholicism, social-justice, pacifism, american-thought]
-related: [merton-thomas, weil-simone, king-mlk]
-influenced_by: []
+related: [merton-thomas, weil-simone, king-mlk, maritain-jacques]
+influenced_by: [maritain-jacques]
 influenced: [coles-robert]
 ---
 

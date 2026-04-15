@@ -7,7 +7,7 @@ died: 1945
 era: 20th century
 nationality: German
 tags: [theology, ethics, christianity, resistance]
-related: [tillich-paul, niebuhr-reinhold]
+related: [tillich-paul, niebuhr-reinhold, merton-thomas, day-dorothy]
 influenced_by: [kierkegaard-soren]
 influenced: [cox-harvey]
 ---
@@ -36,3 +36,9 @@ From 1940 Bonhoeffer was involved with the Abwehr resistance circle planning Hit
 - *Life Together* (1939)
 - *Ethics* (posthumous, 1949)
 - *Letters and Papers from Prison* (posthumous, 1951)
+
+## Secondary sources
+
+- Eberhard Bethge, *Dietrich Bonhoeffer: A Biography* (1967; English rev. 2000) — by Bonhoeffer's closest friend, student, and the editor of the posthumous work; the indispensable life and still the standard reference.
+- Charles Marsh, *Strange Glory: A Life of Dietrich Bonhoeffer* (2014) — the outstanding modern biography in English; especially illuminating on the Harlem year and its theological consequences.
+- Reggie L. Williams, *Bonhoeffer's Black Jesus: Harlem Renaissance Theology and an Ethic of Resistance* (2014) — the essential scholarly account of the Black church's influence on Bonhoeffer's theological development.

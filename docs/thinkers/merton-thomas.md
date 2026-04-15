@@ -7,7 +7,7 @@ died: 1968
 era: 20th century
 nationality: American (French-born)
 tags: [theology, mysticism, catholicism, contemplation, peace]
-related: [tillich-paul, king-mlk, cox-harvey]
+related: [tillich-paul, king-mlk, cox-harvey, bonhoeffer-dietrich, maritain-jacques]
 influenced_by: [existentialism]
 influenced: []
 ---
