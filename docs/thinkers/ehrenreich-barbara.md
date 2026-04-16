@@ -7,7 +7,7 @@ died: 2022
 era: 20th–21st century
 nationality: American
 tags: [journalism, essay, political-theory, feminism, political-economy, poverty]
-related: [abramsky-sasha, klein-naomi, addams-jane, hooks-bell, poverty, inequality]
+related: [abramsky-sasha, klein-naomi, addams-jane, hooks-bell, poverty, inequality, desmond-matthew, kozol-jonathan]
 influenced_by: []
 influenced: []
 ---

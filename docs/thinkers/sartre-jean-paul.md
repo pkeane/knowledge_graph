@@ -40,3 +40,4 @@ His novels (*Nausea*, 1938; *The Roads to Freedom* trilogy, 1945–49) and plays
 ## Secondary sources
 
 - Annie Cohen-Solal, *Sartre: A Life* (1985) — the standard biography, by a French writer with the trust of Sartre's circle.
+- William Barrett, *Irrational Man* (1958) — chapter on Sartre remains a lucid American reading.

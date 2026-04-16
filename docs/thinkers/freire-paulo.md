@@ -9,7 +9,7 @@ nationality: Brazilian
 tags: [education, pedagogy, latin-american-thought, critical-theory]
 related: [liberation-theology, hooks-bell, fanon-frantz, rogers-carl]
 influenced_by: [marx-karl, fanon-frantz, gramsci-antonio, rogers-carl]
-influenced: [hooks-bell]
+influenced: [hooks-bell, kozol-jonathan]
 ---
 
 # Paulo Freire

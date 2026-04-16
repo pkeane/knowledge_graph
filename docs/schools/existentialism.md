@@ -30,3 +30,4 @@ By the 1960s the word itself had been so thoroughly commodified — existentiali
 
 - Sarah Bakewell, *At the Existentialist Café: Freedom, Being, and Apricot Cocktails* (2016) — a group biography of Sartre, Beauvoir, Heidegger, Husserl, Camus, Merleau-Ponty and their circle; the ideal popular introduction.
 - Walter Kaufmann, ed., *Existentialism from Dostoevsky to Sartre* (1956) — the long-standard anthology, with Kaufmann's superb framing essays.
+- William Barrett, *Irrational Man: A Study in Existential Philosophy* (1958) — the most widely read American introduction, responsible for more first encounters with the movement than any other book.

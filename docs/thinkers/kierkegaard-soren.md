@@ -41,3 +41,4 @@ His three "stages on life's way" — aesthetic (pursuit of the interesting), eth
 
 - Alastair Hannay, *Kierkegaard: A Biography* (2001) — the major modern life by the Penguin translator; scholarly but readable.
 - Walter Lowrie, *A Short Life of Kierkegaard* (1942) — older but beautifully written, by Kierkegaard's first great American interpreter.
+- William Barrett, *Irrational Man* (1958) — chapter on Kierkegaard as the founder of the existential tradition.
