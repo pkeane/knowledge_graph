@@ -7,7 +7,7 @@ died: 1967
 era: 20th century
 nationality: American
 tags: [literature, poetry, harlem-renaissance, african-american]
-related: [hurston-zora-neale, du-bois-web, baldwin-james, cesaire-aime, hayden-robert, brooks-gwendolyn, lawrence-jacob]
+related: [hurston-zora-neale, du-bois-web, baldwin-james, cesaire-aime, hayden-robert, brooks-gwendolyn, lawrence-jacob, leadbelly]
 influenced_by: [whitman-walt, sandburg-carl, dunbar-paul-laurence]
 influenced: [baldwin-james, brooks-gwendolyn, hayden-robert, cesaire-aime]
 ---
