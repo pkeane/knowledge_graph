@@ -7,7 +7,7 @@ died: 1949
 era: 19th–20th century
 nationality: American
 tags: [african-american, american-thought, labor, race, dissent]
-related: [guthrie-woody, hughes-langston, dylan-bob, hurston-zora-neale]
+related: [guthrie-woody, hughes-langston, dylan-bob, hurston-zora-neale, lomax-alan]
 influenced_by: []
 influenced: [guthrie-woody, dylan-bob]
 ---
