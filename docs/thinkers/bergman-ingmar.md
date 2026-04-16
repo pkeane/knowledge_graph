@@ -20,6 +20,10 @@ Bergman was the son of a strict Lutheran court chaplain, and the long quarrel wi
 
 The later work moves further from explicit theology and further into the domestic and relational: *Persona* (1966), one of the formally most radical films of the 1960s, on the dissolution and transfer of identity between two women; *Cries and Whispers* (1972), on sisters in the nineteenth-century Swedish upper class and the death of one of them; *Scenes from a Marriage* (1973, made for television); the autobiographical *Fanny and Alexander* (1982), which he intended as his last film. The career is inseparable from the stock company of actors he worked with — Max von Sydow, Liv Ullmann, Bibi Andersson, Erland Josephson, Ingrid Thulin, Harriet Andersson — and the cinematographer Sven Nykvist, whose collaboration from *The Virgin Spring* (1960) onward produced the Scandinavian gray-light visual language now inseparable from the films.
 
+## Why here
+
+Bergman works the religious-existentialist axis of the graph — the territory of [[kierkegaard-soren|Kierkegaard]], [[tillich-paul|Tillich]], and [[dostoevsky-fyodor|Dostoevsky]] — as directly as any twentieth-century thinker, but in narrative image rather than argument. *The Seventh Seal*, *Winter Light*, and *Cries and Whispers* are the register in which mid-century Protestant theology reaches a lay audience.
+
 ## Key themes
 
 - Faith, silence, and the absence of God

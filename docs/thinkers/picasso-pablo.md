@@ -20,6 +20,10 @@ The political dimension of Picasso's work is less continuous than Kollwitz's or 
 
 After the war Picasso joined the French Communist Party (October 1944), remained a member until his death, and designed the *Dove of Peace* poster for the 1949 World Peace Congress; the dove too passed almost immediately into international use. *The Charnel House* (1945), on the Nazi camps, and *Massacre in Korea* (1951) extended the political line. His reputation as a political artist should not be overstated — the bulk of his output is not political in any direct sense — but the works that are political are unusually consequential, and his sheer productivity (over 20,000 works across painting, sculpture, ceramics, prints, and stage design) means his influence on 20th-century visual culture is uncommonly thorough.
 
+## Why here
+
+Picasso is on the graph less for his formal innovations than for the fact that the twentieth-century artist most associated with the Spanish Civil War, the antifascist cause of the 1930s, and the peace campaigns of the 1950s produced *Guernica*, the single most widely recognized political image of the century. The purely formalist reading of modernism has always been incomplete, and Picasso is the hinge on which that argument turns.
+
 ## Key themes
 
 - Cubism and the dismantling of single-point perspective

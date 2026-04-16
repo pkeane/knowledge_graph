@@ -20,6 +20,10 @@ Ray's father Sukumar and grandfather Upendrakishore were major Bengali writers a
 
 The mature work ranges widely. *The Music Room* (1958) on the decay of the Bengali zamindari aristocracy. *Charulata* (1964), from a Tagore novella, a compressed late-Victorian Bengali domestic drama. *Days and Nights in the Forest* (1970) and the Calcutta Trilogy — *The Adversary* (1970), *Company Limited* (1971), *The Middleman* (1976) — on the political and moral disorientation of the generation that came of age in the late-1960s crisis of Bengal. *Distant Thunder* (1973) on the 1943 Bengal famine. *The Chess Players* (1977), his only Hindi/Urdu film, on the British annexation of Oudh. Ray also scored most of his own films (he was a trained composer), wrote the screenplays (often from his own stories), and wrote popular mystery and science-fiction novels in Bengali that remain widely read. He received an honorary Academy Award in 1992, weeks before his death.
 
+## Why here
+
+Ray is the graph's principal non-Western chronicler of mid-century village and urban life under the pressures of modernization, and the filmmaker through whom [[tagore-rabindranath|Tagore]]'s humanism reaches the postcolonial cinema of the second half of the twentieth century. The Apu trilogy is a social history before it is anything else.
+
 ## Key themes
 
 - The Apu Trilogy and the shape of a single modest life

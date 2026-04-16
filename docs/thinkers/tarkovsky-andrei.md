@@ -20,6 +20,10 @@ Tarkovsky was the son of the poet Arseny Tarkovsky, trained at the State Institu
 
 What Tarkovsky's films argue, across their very different surfaces, is consistent: that the material world is saturated with spiritual reality, that time and memory are the proper medium of that reality, and that the mechanized, materialist, instrumental modernity (Soviet or Western) to which the filmmaker is opposed has partly destroyed the capacity to see this. The influence outside of Soviet and Russian cinema is considerable — on Bergman (who admired him above any other living filmmaker), on Béla Tarr, on Lars von Trier, on Alexander Sokurov and on a wider contemplative strand in world cinema — but the work itself stands at a distance from any school.
 
+## Why here
+
+Tarkovsky belongs on the graph because the Russian religious imagination under Soviet rule — the territory of the [[dostoevsky-fyodor|Dostoevsky]] / [[solzhenitsyn-aleksandr|Solzhenitsyn]] axis — is one the graph already carries, and Tarkovsky is its cinematic voice. *Andrei Rublev*, *Stalker*, and *The Sacrifice* put that material into an image.
+
 ## Key themes
 
 - Cinema as "sculpting in time" — duration as spiritual medium
