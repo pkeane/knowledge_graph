@@ -7,7 +7,7 @@ died: 1999
 era: 20th century
 nationality: British (Irish-born)
 tags: [literature, philosophy, moral-philosophy, existentialism, ethics]
-related: [sartre-jean-paul, weil-simone, anscombe-elizabeth, macintyre-alasdair, nussbaum-martha]
+related: [sartre-jean-paul, weil-simone, anscombe-elizabeth, macintyre-alasdair, nussbaum-martha, midgley-mary]
 influenced_by: [plato, weil-simone, sartre-jean-paul]
 influenced: [nussbaum-martha]
 ---

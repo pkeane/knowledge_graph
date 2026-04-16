@@ -7,9 +7,9 @@ died: 1952
 era: 19th–20th century
 nationality: American
 tags: [pragmatism, liberalism, democracy, education, progressivism]
-related: [mill-js]
+related: [mill-js, rorty-richard]
 influenced_by: [hegel-gwf, mill-js]
-influenced: [bruner-jerome]
+influenced: [bruner-jerome, rorty-richard]
 ---
 
 # John Dewey

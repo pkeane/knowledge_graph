@@ -7,7 +7,7 @@ died: 1979
 era: 20th century
 nationality: German-American
 tags: [critical-theory, frankfurt-school, marxism]
-related: [frankfurt-school, hegel-gwf, marx-karl]
+related: [frankfurt-school, hegel-gwf, marx-karl, adorno-theodor]
 influenced_by: [hegel-gwf, marx-karl, frankfurt-school]
 influenced: []
 ---

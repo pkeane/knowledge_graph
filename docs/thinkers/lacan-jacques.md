@@ -7,7 +7,7 @@ died: 1981
 era: 20th century
 nationality: French
 tags: [psychoanalysis, psychology, critical-theory, poststructuralism, philosophy]
-related: [freud-sigmund, klein-melanie, foucault-michel]
+related: [freud-sigmund, klein-melanie, foucault-michel, barthes-roland]
 influenced_by: [freud-sigmund, hegel-gwf]
 influenced: [jameson-fredric]
 ---

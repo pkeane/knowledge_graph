@@ -7,8 +7,8 @@ died: 2004
 era: 20th–21st century
 nationality: American
 tags: [essay, criticism, literature, photography, ethics, american-thought]
-related: [de-beauvoir-simone, camus-albert, didion-joan, lange-dorothea, parks-gordon, benjamin-walter]
-influenced_by: [camus-albert]
+related: [de-beauvoir-simone, camus-albert, didion-joan, lange-dorothea, parks-gordon, benjamin-walter, barthes-roland]
+influenced_by: [camus-albert, barthes-roland]
 influenced: [didion-joan]
 ---
 

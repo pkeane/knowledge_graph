@@ -7,7 +7,7 @@ died: 2003
 era: 20th–21st century
 nationality: British
 tags: [philosophy, ethics, moral-philosophy, political-theory]
-related: [mill-js, nietzsche-friedrich, nussbaum-martha, macintyre-alasdair, berlin-isaiah]
+related: [mill-js, nietzsche-friedrich, nussbaum-martha, macintyre-alasdair, berlin-isaiah, midgley-mary, rorty-richard]
 influenced_by: [nietzsche-friedrich, mill-js]
 influenced: [nussbaum-martha]
 ---
