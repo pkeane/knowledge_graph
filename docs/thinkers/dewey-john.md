@@ -9,7 +9,7 @@ nationality: American
 tags: [pragmatism, liberalism, democracy, education, progressivism]
 related: [mill-js]
 influenced_by: [hegel-gwf, mill-js]
-influenced: []
+influenced: [bruner-jerome]
 ---
 
 # John Dewey
