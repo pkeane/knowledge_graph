@@ -24,6 +24,10 @@ From the mid-1950s Simon, with Newell and the programmer Cliff Shaw, was one of 
 
 Simon's political-theoretical contribution is less widely known but substantial. He argued against the neoclassical-economic picture of the firm as a nexus of contracts for a picture in which the firm is an actual authority-based organization, and against Friedrich Hayek's picture of the market as the unique information-processing solution for a picture in which both markets and hierarchies are imperfect boundedly-rational arrangements. His position was broadly supportive of a regulated, mixed-economy social democracy; he was an early critic of the neoliberal turn of the 1980s. He died at Carnegie Mellon in 2001.
 
+## Why here
+
+Simon belongs here because *bounded rationality* is the premise from which the graph's political-economy critics (of markets-as-optimal, of managerial rationality, of rational-choice political science) all implicitly work, and because his account of the firm as a hierarchical authority-based organization cuts across the libertarian / social-democratic debate the graph's political-economy cluster carries.
+
 ## Key ideas
 
 - *Bounded rationality* — cognition limited by time, attention, memory

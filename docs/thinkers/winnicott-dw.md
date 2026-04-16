@@ -20,6 +20,10 @@ His best-known concepts are already common currency outside the field. The *good
 
 Winnicott wrote lucidly for non-specialist audiences — his wartime BBC radio talks for mothers, collected as *The Child, the Family, and the Outside World* (1964), were read aloud by families through the 1950s — and this plain-prose side of his work is part of why his vocabulary crossed into ordinary English so completely. The clinical side, in papers like "Transitional Objects and Transitional Phenomena" (1953), "The Capacity to Be Alone" (1958), "Ego Distortion in Terms of True and False Self" (1960), and the late *Playing and Reality* (1971), has continued to shape child psychiatry, psychotherapy, pediatric practice, and a good deal of writing in moral philosophy, literary criticism, and religious studies that reaches for a usable account of early relatedness.
 
+## Why here
+
+Winnicott is here because his account of the "good-enough" parent, the holding environment, and transitional phenomena translated psychoanalytic theory into a language of ordinary care that moral philosophers, theologians, and educational thinkers have drawn on ever since.
+
 ## Key ideas
 
 - The good-enough mother and ordinary devoted parenting

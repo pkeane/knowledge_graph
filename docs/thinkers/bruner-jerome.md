@@ -22,6 +22,10 @@ The second act was in education. Bruner chaired the 1959 Woods Hole Conference t
 
 The third act, from roughly 1980 onward, is the narrative turn. *Actual Minds, Possible Worlds* (1986) and *Acts of Meaning* (1990) argue that human beings understand themselves and each other primarily through *narrative* — a distinct mode of thought, organized around intention, agency, and sequence, irreducible to logical-paradigmatic reasoning — and that the cognitive revolution, having begun as a meaning-restoration program against behaviorism, had wrongly allowed the computer metaphor to reduce "meaning" to "information." *The Culture of Education* (1996) applies the narrative framework to pedagogy; *Making Stories: Law, Literature, Life* (2002) extends it to his late work with the legal academy at NYU, where he spent the last twenty-five years of his life on the narrative structure of legal argument. He died in Manhattan in 2016, a few weeks short of his 101st birthday.
 
+## Why here
+
+Bruner is the meeting point of three graph concerns: the cognitive revolution alongside [[simon-herbert|Simon]] and [[kahneman-daniel|Kahneman]]; educational theory alongside [[dewey-john|Dewey]], [[freire-paulo|Freire]], and [[kozol-jonathan|Kozol]]; and the late *narrative turn* that argues for the humanities as indispensable to a psychology of meaning.
+
 ## Key ideas
 
 - Perception and cognition as active, constructive, culturally shaped — not passive registration

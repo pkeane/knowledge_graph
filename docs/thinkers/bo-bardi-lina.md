@@ -22,6 +22,10 @@ The late work at SESC Pompéia (1977–86), the cultural and recreation complex 
 
 Bo Bardi's writings, collected in *Stones Against Diamonds* (2013) and similar volumes, argue that architecture's political task is not a style but a distribution: who, on what terms, gets to occupy what space. That line has made her, in the decades since her death in 1992, one of the principal reference points for architects who want to connect modernist form to popular use, and for a reconsideration of 20th-century architecture that does not center Europe.
 
+## Why here
+
+Bo Bardi is here because her program — architecture as the distribution of who gets to occupy what space, popular culture as a source rather than an ornament for modernism — makes her the most directly political of the graph's major architects, and a principal non-European reference point for the reconsideration of twentieth-century built form.
+
 ## Key ideas
 
 - Architecture as a question of who is admitted to what space

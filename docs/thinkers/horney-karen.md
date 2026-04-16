@@ -22,6 +22,10 @@ Her mature theoretical work is *The Neurotic Personality of Our Time* (1937) and
 
 Horney was, with [[sullivan-harry-stack|Harry Stack Sullivan]], [[fromm-erich|Erich Fromm]], and Clara Thompson, one of the founders of the William Alanson White Institute — the American center of cultural and interpersonal psychoanalysis — and, later, of the American Institute for Psychoanalysis and the *American Journal of Psychoanalysis*. Her work prefigured much of later humanistic psychology and a good deal of object-relations theory without being formally part of either school.
 
+## Why here
+
+Horney is on the graph because her revision of Freud's account of female psychology — against the "penis envy" doctrine, toward a socially shaped account of neurosis — opened the space in psychoanalysis that later feminist theorists occupied.
+
 ## Key ideas
 
 - Basic anxiety as the child's primary experience in an unreliable world

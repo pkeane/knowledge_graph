@@ -22,6 +22,10 @@ Her second great subject was childhood. With Dorothy Burlingham she ran the Hamp
 
 Late in life she collaborated with the American lawyers Joseph Goldstein and Albert Solnit on *Beyond the Best Interests of the Child* (1973), a short and influential argument that custody and placement decisions should be governed by the child's need for a continuous, stable "psychological parent." The book shaped American and British family law for a generation.
 
+## Why here
+
+Anna Freud is in the graph because her extension of psychoanalysis to the study of children and to ego defenses became the practical form in which psychoanalytic ideas entered twentieth-century education, child welfare, and the moral imagination of family life.
+
 ## Key ideas
 
 - The ego's defensive operations as a proper object of analysis

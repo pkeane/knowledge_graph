@@ -20,6 +20,10 @@ His first book, *The Divided Self* (1960), written when he was 28, applied a Sar
 
 From 1965 Laing was central to the therapeutic community at Kingsley Hall in London, an experiment in non-coercive treatment where patients and staff lived together without the structure of hospital hierarchy. The experiment produced the most famous account of a psychotic episode in the English-language literature, Mary Barnes's with Joseph Berke (*Mary Barnes*, 1971). Laing's later career was more diffuse — influenced by meditation, mysticism, rebirthing — and his reputation within psychiatry, never secure, declined. The influence outside psychiatry remained substantial: on the 1960s counterculture, on [[foucault-michel|Foucault's]] reception in Anglophone contexts, on family-systems therapy, on later service-user and "mad pride" movements, and on a continuing critical line that asks what, exactly, psychiatric categories are doing when they do their work.
 
+## Why here
+
+Laing is on the graph because his politics-of-madness argument — that psychiatric diagnosis is shot through with social assumptions, that schizophrenia can be read as an intelligible response to an unlivable family situation — belongs to the 1960s critique of institutions alongside [[foucault-michel|Foucault]], Szasz, and Goffman.
+
 ## Key ideas
 
 - Schizophrenic experience as intelligible response, not merely pathology

@@ -22,6 +22,10 @@ Rogers's influence beyond the clinic was substantial. His model of the "facilita
 
 The humanistic psychology Rogers helped establish has been criticized — by Christopher Lasch among others — for underwriting a therapeutic individualism that detaches the self from political and moral community. The criticism has weight; it does not dissolve the clinical achievement.
 
+## Why here
+
+Rogers is on the graph because his humanistic psychology is the parent of both non-directive education (where he influences [[freire-paulo|Freire]]) and the ethical-relational picture of the therapist that shapes late-twentieth-century caring-professions discourse.
+
 ## Key ideas
 
 - The three therapist conditions: unconditional positive regard, empathy, congruence

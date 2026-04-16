@@ -22,6 +22,10 @@ The built work is more varied than the polemics suggest and better than its wors
 
 The long critical reception — Jacobs, Mumford, Christopher Alexander, Charles Jencks, and many after — has argued that the program as applied (by others, often without Le Corbusier's direct supervision) produced a century of destructive urban renewal: housing projects that isolated residents, downtowns ripped open for arterials, and neighborhoods whose complexity was replaced by segregated single-use zones. More recent scholarship has also documented his significant overlap with interwar fascist and Vichy circles, which had been underemphasized in the postwar reception. The canonical status of the work and the gravity of the criticism are both by now settled; both belong to the standard account.
 
+## Why here
+
+Le Corbusier is the graph's principal *counter-example* rather than hero: the most consequential twentieth-century figure on the relation between architecture and politics, and the position against which [[jacobs-jane|Jacobs]], [[mumford-lewis|Mumford]], [[alexander-christopher|Alexander]], and most of the graph's urbanist critics are arguing.
+
 ## Key ideas
 
 - The house as "a machine for living in"

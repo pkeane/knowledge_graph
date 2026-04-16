@@ -22,6 +22,10 @@ Wright's social program — most fully stated in *The Disappearing City* (1932) 
 
 The single best-known concept in the Wrightian vocabulary is *organic architecture* — the principle that a building should grow from its site as a plant grows from the soil, in its materials, its proportions, and its relation to landscape. Fallingwater is the iconic instance. The difficulty is that the principle is not fully specifiable and that its application depends substantially on Wright himself.
 
+## Why here
+
+Wright is on the graph as the American *alternative* to the European modernism of [[le-corbusier|Le Corbusier]] and the Bauhaus. *Broadacre City* and the Prairie houses articulate a distinct program — decentralized, agrarian-technological, site-rooted — that no American architect before or since has stated as fully.
+
 ## Key ideas
 
 - Organic architecture — building as extension of site and landscape

@@ -22,6 +22,10 @@ The second great Kleinian concept is *projective identification* — the phantas
 
 Klein has been criticized — by [[horney-karen|Horney]] among contemporaries and by many later commentators — for grounding a demanding developmental scheme in the inferred phantasies of preverbal infants. The criticism has force. Her influence on clinical practice, on object relations theory generally (Fairbairn, Winnicott, Bion), and on later work in aesthetics, groups, and organizational life has nevertheless been very large.
 
+## Why here
+
+Klein is on the graph because object-relations theory — descended from her — supplies the picture of early psychic life that later moral and political theorists (from [[winnicott-dw|Winnicott]] to the post-Frankfurt critical tradition) have drawn on to explain aggression, group identification, and reparation. She is the pre-Oedipal floor of the graph's psychoanalytic line.
+
 ## Key ideas
 
 - The paranoid-schizoid and depressive positions

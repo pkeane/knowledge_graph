@@ -22,6 +22,10 @@ His institutional career was turbulent: expelled from the International Psychoan
 
 Lacan is forbiddingly difficult to read — deliberately so, on the argument that the resistance of the text mimics the resistance of the symptom. Secondary expositors (Fink, Evans, Žižek in his more didactic mode) are generally where readers new to him begin.
 
+## Why here
+
+Lacan's place in the graph is principally as hinge: his rereading of [[freud-sigmund|Freud]] became the basis for much of postwar French critical theory, feminist theory (Irigaray, Kristeva), and film studies. His own writing is famously difficult; his role here is as the point at which psychoanalysis meets poststructuralist thought.
+
 ## Key ideas
 
 - The unconscious as structured like a language

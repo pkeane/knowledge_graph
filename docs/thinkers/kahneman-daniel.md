@@ -24,6 +24,10 @@ The Kahneman-Tversky program of the 1970s produced the *heuristics and biases* r
 
 The later work is more cautious. *Noise: A Flaw in Human Judgment* (2021, with Olivier Sibony and Cass Sunstein) argues that *noise* — the unwanted variability in decisions that should be the same — is a larger source of error in professional judgment than *bias*, and that institutional remedies (structured protocols, aggregation) can reduce it. Kahneman also participated publicly in the post-2011 "replication crisis" in social psychology, acknowledging that some of the priming studies he had cited in *Thinking, Fast and Slow* had failed to replicate.
 
+## Why here
+
+Kahneman earns his place because the heuristics-and-biases program reshaped what economics and political science could assume about human decision-making, and so reshaped the inequality, regulation, and democratic-competence debates the graph tracks.
+
 ## Key ideas
 
 - Heuristics and biases — systematic, reproducible deviations from rational-choice theory

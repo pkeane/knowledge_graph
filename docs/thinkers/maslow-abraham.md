@@ -22,6 +22,10 @@ Maslow framed this hierarchy as a deliberate alternative to the two dominant Ame
 
 Maslow's academic reputation has been mixed — the hierarchy as he stated it has not stood up well to empirical test, and his sample of self-actualizers was small and selected — but his cultural influence has been enormous. The vocabulary of "self-actualization" and "peak experience" passed into general use; the hierarchy diagram is probably the single most widely reproduced image from 20th-century psychology; and through transpersonal psychology, organizational development (Peter Drucker and Douglas McGregor were direct readers), and the human-potential movement at Esalen, his framework shaped mid-century American ideas of growth, management, and well-being. The critique of this framework — from [[lasch-christopher|Lasch]] and others — as underwriting a therapeutic individualism at the expense of moral and political community has been part of the reception from the 1970s on.
 
+## Why here
+
+Maslow is on the graph because his hierarchy of needs became — for better and worse — the most widely known twentieth-century secular picture of the human good, borrowed by management theory, educational theory, and popular self-help in ways that make him a reference point whether or not the borrowers acknowledge him.
+
 ## Key ideas
 
 - Hierarchy of needs: physiological → safety → belonging → esteem → self-actualization

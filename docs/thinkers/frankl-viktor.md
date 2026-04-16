@@ -22,6 +22,10 @@ Logotherapy, set out in *The Doctor and the Soul* (1946), proceeds clinically fr
 
 Frankl's cultural influence has been unusually broad for a psychiatrist: *Man's Search for Meaning* has sold in the tens of millions and functions as a companion text to [[camus-albert|Camus's]] *The Plague* and [[levi-primo|Primo Levi's]] *If This Is a Man* in the postwar literature of moral endurance. Academic psychiatry has absorbed some of his technical contributions and largely set the philosophy aside; the book keeps being read.
 
+## Why here
+
+Frankl is here because *Man's Search for Meaning* is the most widely read twentieth-century popular statement of the existentialist claim that meaning, not pleasure or power, is the core human need — written from Auschwitz, read by readers who would not otherwise approach existentialism.
+
 ## Key ideas
 
 - The will to meaning as the primary human motive

@@ -22,6 +22,10 @@ Her own writing developed two lines. The first is a long sequence of books on th
 
 Von Franz was a founder and longtime teacher at the C. G. Jung Institute in Zurich, and she is the Jungian most often cited by writers outside the psychoanalytic world who want a responsible interpreter of Jung's reading of myth, religion, and symbol. Where Jung himself was often oracular, her prose is patient, classically trained, and organized around textual close reading; much of what is now durable in Jungian clinical practice is in the form she gave it.
 
+## Why here
+
+Von Franz belongs here because the graph's interest in religion, symbol, and moral imagination is followed into the Jungian tradition through her work, not through [[jung-carl|Jung]]'s own. Her readings of fairy tale and alchemy are the practical form in which Jungian attention to the unconscious meets literary and religious interpretation.
+
 ## Key ideas
 
 - The fairy tale as the purest narrative document of unconscious process

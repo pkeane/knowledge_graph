@@ -22,6 +22,10 @@ The geodesic dome was widely built: the U.S. pavilion at Expo 67 in Montreal (pr
 
 The scientific reception has been mixed — his mathematics is eccentric, and the domes leak famously — but the cultural influence has been large, especially on the environmental movement (the Whole Earth Catalog was deeply Fullerian), on systems thinking, on post-1960s architectural and product design, and on the conceptual vocabulary of "planetary" thinking. The 1985 discovery of the carbon allotrope C60, whose molecular shape is a geodesic sphere, was named *buckminsterfullerene* ("buckyballs") in his honor.
 
+## Why here
+
+Fuller is on the graph as the earliest sustained articulation of *planetary* thinking: "Spaceship Earth," ephemeralization, the finite-resource framing that became the environmental movement's founding vocabulary. He is the engineer-designer end of a lineage that on the critical side runs through [[carson-rachel|Carson]], [[berry-wendell|Berry]], and [[klein-naomi|Klein]].
+
 ## Key ideas
 
 - "Spaceship Earth" — the planet as a single finite resource-system

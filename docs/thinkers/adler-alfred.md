@@ -20,6 +20,10 @@ His central concepts are familiar, though often in forms he would scarcely recog
 
 Adler emigrated to the United States in the early 1930s and died of a heart attack on a lecture tour in Aberdeen in 1937. His direct school is smaller than Freud's or Jung's, but his influence through other lines is very large: [[horney-karen|Horney]] and [[fromm-erich|Fromm]] took up his emphasis on cultural and interpersonal factors; [[may-rollo|May]] and the humanistic psychologists took up the teleological and meaning-centered frame; cognitive and family therapies took up the attention to "private logic" and style of life; and the whole vocabulary of "inferiority complex" and "compensation" passed into ordinary English, where it is now used with no awareness of its author.
 
+## Why here
+
+Adler is here because his emphasis on social feeling (*Gemeinschaftsgefühl*), inferiority, and the individual's relation to community made his psychology the most directly political of [[freud-sigmund|Freud]]'s early circle, and the one that most easily connects with democratic and educational thought.
+
 ## Key ideas
 
 - Inferiority feeling as universal developmental starting point; inferiority complex as its pathological fixation
