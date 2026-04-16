@@ -37,4 +37,6 @@ Rousseau was also a novelist, composer, educational theorist, and confessional m
 ## Secondary sources
 
 - Leo Damrosch, *Jean-Jacques Rousseau: Restless Genius* (2005) — the outstanding modern biography; NBCC finalist.
-- [[williams-david-lay|David Lay Williams]], *Rousseau's Platonic Enlightenment* (2007) — the specialist reading that set up Williams's later work on inequality.
+- David Lay Williams, *Rousseau's Platonic Enlightenment* (2007) — the specialist reading that set up Williams's later work on inequality.
+- David Lay Williams, *The Greatest of All Plagues: How Economic Inequality Shaped Political Thought from Plato to Marx* (2024) — traces concern with inequality as a through-line of the Western canon, with Rousseau at the center.
+- Darrin M. McMahon, *Equality: The History of an Elusive Idea* (2023) — a companion conceptual history of what "equality" has meant across 2,500 years.

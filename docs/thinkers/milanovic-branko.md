@@ -6,7 +6,7 @@ born: 1953
 era: 20th–21st century
 nationality: Serbian-American
 tags: [economics, inequality, globalization, political-economy, capitalism]
-related: [piketty-thomas, stiglitz-joseph, williams-david-lay, mcmahon-darrin, reich-robert, hacker-jacob, pierson-paul, inequality]
+related: [piketty-thomas, stiglitz-joseph, reich-robert, hacker-jacob, pierson-paul, inequality]
 influenced_by: []
 influenced: []
 ---
