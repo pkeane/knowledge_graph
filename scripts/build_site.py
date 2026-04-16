@@ -8,6 +8,7 @@ Requires: pip3 install pyyaml markdown
 import html
 import re
 import shutil
+import subprocess
 import sys
 from collections import defaultdict
 from pathlib import Path
@@ -267,7 +268,7 @@ if (tag) { filter.value = tag; apply(tag); }
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Political, social, economic, and philosophical thought, with branches into the arts and non-Western traditions.</div>
-<nav><a href="about/">About</a><a href="books/">Recommended Reading</a><a href="tags/">Tags</a></nav>
+<nav><a href="about/">About</a><a href="books/">Recommended Reading</a><a href="tags/">Tags</a><a href="changelog/">Change Log</a></nav>
 </header>
 <input id="filter" type="search" placeholder="Filter by name or tag…" autofocus>
 {"".join(sections)}
@@ -299,11 +300,68 @@ def render_tags(docs):
 </head><body>
 <header>
 <a href="../index.html"><strong>Knowledge Graph</strong></a>
-<nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a></nav>
+<nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
 </header>
 <h1>Tags</h1>
 <div class="meta">{len(counts)} tags across {len(docs)} entries. Click a tag to filter the index.</div>
 <ul class="tag-list">{items}</ul>
+</body></html>"""
+
+
+def render_changelog(docs):
+    result = subprocess.run(
+        ["git", "log", "--diff-filter=A", "--name-only", "--format=%ai"],
+        capture_output=True, text=True, cwd=ROOT
+    )
+    entries = []
+    current_date = None
+    for line in result.stdout.strip().split("\n"):
+        line = line.strip()
+        if not line:
+            continue
+        if line[0].isdigit() and len(line) > 10 and line[4] == "-":
+            current_date = line
+        elif line.startswith("docs/thinkers/") and line.endswith(".md"):
+            doc_id = line.replace("docs/thinkers/", "").replace(".md", "")
+            if doc_id in docs:
+                name = docs[doc_id]["meta"].get("name", doc_id)
+                entries.append((current_date, doc_id, name))
+    from itertools import groupby
+    groups = []
+    for dt, items in groupby(entries, key=lambda x: x[0]):
+        items = list(items)
+        groups.append((dt, items))
+    groups.sort(key=lambda g: g[0], reverse=True)
+    rows = []
+    for dt, items in groups:
+        date_str = dt.split(" ")[0] + " " + dt.split(" ")[1][:5]
+        names = ", ".join(
+            f'<a href="../{html.escape(doc_id)}.html">{html.escape(name)}</a>'
+            for _, doc_id, name in sorted(items, key=lambda x: x[2])
+        )
+        rows.append(f"<tr><td>{html.escape(date_str)}</td><td>{names}</td></tr>")
+    extra_css = (
+        ".changelog-table { width: 100%; border-collapse: collapse; } "
+        ".changelog-table th, .changelog-table td { padding: .4em .8em; border-bottom: 1px solid var(--border); text-align: left; vertical-align: top; } "
+        ".changelog-table th { font-weight: 600; } "
+        ".changelog-table td:first-child { white-space: nowrap; width: 10em; color: var(--muted); font-size: .9em; } "
+    )
+    return f"""<!doctype html>
+<html lang="en"><head>
+<meta charset="utf-8"><title>Change Log — Knowledge Graph</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>{CSS}{extra_css}</style>
+</head><body>
+<header>
+<a href="../index.html"><strong>Knowledge Graph</strong></a>
+<nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
+</header>
+<h1>Change Log</h1>
+<div class="meta">Thinker entries added to the graph, most recent first. {len(entries)} additions across {len(groups)} commits.</div>
+<table class="changelog-table">
+<tr><th>Date / Time</th><th>Additions</th></tr>
+{"".join(rows)}
+</table>
 </body></html>"""
 
 
@@ -323,6 +381,9 @@ def main():
     tags_dir = SITE / "tags"
     tags_dir.mkdir()
     (tags_dir / "index.html").write_text(render_tags(docs))
+    changelog_dir = SITE / "changelog"
+    changelog_dir.mkdir()
+    (changelog_dir / "index.html").write_text(render_changelog(docs))
 
     print(f"Built {len(docs)} pages + index → {SITE}")
     print(f"Open: file://{SITE}/index.html")
