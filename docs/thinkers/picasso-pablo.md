@@ -9,7 +9,7 @@ nationality: Spanish
 tags: [design, modernism]
 related: [lorca-federico-garcia, neruda-pablo, stein-gertrude]
 influenced_by: []
-influenced: []
+influenced: [bearden-romare]
 ---
 
 # Pablo Picasso

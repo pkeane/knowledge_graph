@@ -7,7 +7,7 @@ died: 2000
 era: 20th century
 nationality: American
 tags: [design, african-american-thought, african-american, modernism, race]
-related: [wilkerson-isabel, hughes-langston, hurston-zora-neale, wright-richard, morrison-toni]
+related: [wilkerson-isabel, hughes-langston, hurston-zora-neale, wright-richard, morrison-toni, bearden-romare, parks-gordon]
 influenced_by: []
 influenced: []
 ---

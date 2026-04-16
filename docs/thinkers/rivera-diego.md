@@ -7,7 +7,7 @@ died: 1957
 era: 20th century
 nationality: Mexican
 tags: [design, marxism, latin-american-thought, modernism]
-related: [mariategui-jose-carlos, neruda-pablo, galeano-eduardo]
+related: [mariategui-jose-carlos, neruda-pablo, galeano-eduardo, kahlo-frida]
 influenced_by: [marx-karl]
 influenced: []
 ---

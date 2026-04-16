@@ -7,7 +7,7 @@ era: 20th–21st century
 nationality: American
 tags: [african-american-thought, african-american, race, american-thought]
 related: [baldwin-james, hurston-zora-neale, coates-ta-nehisi, morrison-toni, lawrence-jacob]
-influenced_by: [baldwin-james]
+influenced_by: [baldwin-james, parks-gordon]
 influenced: []
 ---
 

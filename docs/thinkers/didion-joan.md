@@ -7,8 +7,8 @@ died: 2021
 era: 20th–21st century
 nationality: American
 tags: [literature, journalism, essay, fiction]
-related: [hemingway-ernest]
-influenced_by: [hemingway-ernest]
+related: [hemingway-ernest, sontag-susan]
+influenced_by: [hemingway-ernest, sontag-susan]
 influenced: []
 ---
 

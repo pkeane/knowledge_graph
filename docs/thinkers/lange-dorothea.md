@@ -7,9 +7,9 @@ died: 1965
 era: 20th century
 nationality: American
 tags: [design, journalism, poverty, american-thought, inequality]
-related: [steinbeck-john, addams-jane, wilkerson-isabel]
+related: [steinbeck-john, addams-jane, wilkerson-isabel, parks-gordon, sontag-susan]
 influenced_by: []
-influenced: []
+influenced: [parks-gordon]
 ---
 
 # Dorothea Lange
