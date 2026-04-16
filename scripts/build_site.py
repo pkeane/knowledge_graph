@@ -313,6 +313,12 @@ def render_changelog(docs):
         ["git", "log", "--diff-filter=A", "--name-only", "--format=%ai"],
         capture_output=True, text=True, cwd=ROOT
     )
+    doc_dirs = {
+        "docs/thinkers/": "Thinker",
+        "docs/concepts/": "Concept",
+        "docs/schools/": "School",
+        "docs/events/": "Event",
+    }
     entries = []
     current_date = None
     for line in result.stdout.strip().split("\n"):
@@ -321,11 +327,14 @@ def render_changelog(docs):
             continue
         if line[0].isdigit() and len(line) > 10 and line[4] == "-":
             current_date = line
-        elif line.startswith("docs/thinkers/") and line.endswith(".md"):
-            doc_id = line.replace("docs/thinkers/", "").replace(".md", "")
-            if doc_id in docs:
-                name = docs[doc_id]["meta"].get("name", doc_id)
-                entries.append((current_date, doc_id, name))
+        elif line.endswith(".md"):
+            for prefix, doc_type in doc_dirs.items():
+                if line.startswith(prefix):
+                    doc_id = line.replace(prefix, "").replace(".md", "")
+                    if doc_id in docs:
+                        name = docs[doc_id]["meta"].get("name", doc_id)
+                        entries.append((current_date, doc_id, name, doc_type))
+                    break
     from itertools import groupby
     groups = []
     for dt, items in groupby(entries, key=lambda x: x[0]):
@@ -335,10 +344,11 @@ def render_changelog(docs):
     rows = []
     for dt, items in groups:
         date_str = dt.split(" ")[0] + " " + dt.split(" ")[1][:5]
-        names = ", ".join(
-            f'<a href="../{html.escape(doc_id)}.html">{html.escape(name)}</a>'
-            for _, doc_id, name in sorted(items, key=lambda x: x[2])
-        )
+        parts = []
+        for _, doc_id, name, doc_type in sorted(items, key=lambda x: x[2]):
+            label = f' <span style="color:var(--muted);font-size:.85em">({doc_type})</span>' if doc_type != "Thinker" else ""
+            parts.append(f'<a href="../{html.escape(doc_id)}.html">{html.escape(name)}</a>{label}')
+        names = ", ".join(parts)
         rows.append(f"<tr><td>{html.escape(date_str)}</td><td>{names}</td></tr>")
     extra_css = (
         ".changelog-table { width: 100%; border-collapse: collapse; } "
@@ -357,7 +367,7 @@ def render_changelog(docs):
 <nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
 </header>
 <h1>Change Log</h1>
-<div class="meta">Thinker entries added to the graph, most recent first. {len(entries)} additions across {len(groups)} commits.</div>
+<div class="meta">Entries added to the graph, most recent first. {len(entries)} additions across {len(groups)} commits.</div>
 <table class="changelog-table">
 <tr><th>Date / Time</th><th>Additions</th></tr>
 {"".join(rows)}
