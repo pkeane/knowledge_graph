@@ -33,7 +33,7 @@ The point is worth spelling out across a few of the graph's theoretical traditio
 
 - **The utilitarian tradition.** If utility functions vary not just in content (what people want) but in *structure* (how people experience wanting, satisfaction, and decision), then the aggregation problems at the heart of utilitarian theory get harder.
 
-None of this means these traditions are worthless — only that they share an unexamined assumption about cognitive uniformity that the neurodiversity literature has begun to challenge, and that political philosophy has not yet picked up.
+None of this invalidates these traditions, but they do share an unexamined assumption about cognitive uniformity that the neurodiversity literature has begun to challenge, and that political philosophy has not yet picked up.
 
 ## The mass-incarceration connection
 
