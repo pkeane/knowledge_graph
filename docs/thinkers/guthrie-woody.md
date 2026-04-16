@@ -7,7 +7,7 @@ died: 1967
 era: 20th century
 nationality: American
 tags: [american-thought, labor, socialism, dissent, poverty, depression-era]
-related: [dylan-bob, leadbelly, steinbeck-john, debs-eugene, sinclair-upton, lange-dorothea, lomax-alan]
+related: [dylan-bob, leadbelly, steinbeck-john, debs-eugene, sinclair-upton, lange-dorothea, lomax-alan, smith-harry]
 influenced_by: [leadbelly]
 influenced: [dylan-bob]
 ---

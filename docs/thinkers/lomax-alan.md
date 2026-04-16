@@ -7,7 +7,7 @@ died: 2002
 era: 20th century
 nationality: American
 tags: [american-thought, sociology, african-american, democracy, labor]
-related: [leadbelly, guthrie-woody, hurston-zora-neale, dylan-bob]
+related: [leadbelly, guthrie-woody, hurston-zora-neale, dylan-bob, smith-harry]
 influenced_by: []
 influenced: [guthrie-woody]
 ---
