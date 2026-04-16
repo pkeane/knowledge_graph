@@ -9,7 +9,7 @@ nationality: German
 tags: [design, modernism, poverty, inequality, feminism]
 related: [morris-william, bonhoeffer-dietrich, mann-thomas]
 influenced_by: []
-influenced: []
+influenced: [bearden-romare]
 ---
 
 # Käthe Kollwitz
