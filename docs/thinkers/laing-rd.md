@@ -7,7 +7,7 @@ died: 1989
 era: 20th century
 nationality: Scottish
 tags: [psychology, psychoanalysis, existentialism, critical-theory]
-related: [sartre-jean-paul, foucault-michel, fromm-erich, winnicott-dw]
+related: [sartre-jean-paul, foucault-michel, fromm-erich, winnicott-dw, neurodiversity]
 influenced_by: [sartre-jean-paul, kierkegaard-soren, sullivan-harry-stack]
 influenced: []
 ---

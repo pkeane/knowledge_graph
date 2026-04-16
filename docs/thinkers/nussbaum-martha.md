@@ -6,7 +6,7 @@ born: 1947
 era: 20th–21st century
 nationality: American
 tags: [philosophy, ethics, political-theory, feminism]
-related: [sen-amartya, mill-js, rawls-john, aristotle, feminism, inequality, intersectionality, murdoch-iris]
+related: [sen-amartya, mill-js, rawls-john, aristotle, feminism, inequality, intersectionality, murdoch-iris, neurodiversity, silberman-steve]
 influenced_by: [mill-js, sen-amartya, murdoch-iris]
 influenced: []
 ---

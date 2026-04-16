@@ -4,7 +4,7 @@ type: concept
 name: Mass Incarceration
 era: late 20th–21st century
 tags: [criminal-justice, race, american-thought, inequality, policy]
-related: [stevenson-bryan, forman-james-jr, alexander-michelle, wilkerson-isabel, racism, racial-capitalism, civil-rights-movement]
+related: [stevenson-bryan, forman-james-jr, alexander-michelle, wilkerson-isabel, racism, racial-capitalism, civil-rights-movement, neurodiversity]
 influenced_by: []
 influenced: []
 ---

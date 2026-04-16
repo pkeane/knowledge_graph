@@ -7,7 +7,7 @@ died: 1984
 era: 20th century
 nationality: French
 tags: [poststructuralism, critical-theory, power, history-of-ideas]
-related: [marx-karl, nietzsche-friedrich, frankfurt-school, lacan-jacques, laing-rd, barthes-roland]
+related: [marx-karl, nietzsche-friedrich, frankfurt-school, lacan-jacques, laing-rd, barthes-roland, neurodiversity]
 influenced_by: [nietzsche-friedrich, marx-karl]
 influenced: []
 ---
