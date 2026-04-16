@@ -7,8 +7,8 @@ died: 2006
 era: 20th–21st century
 nationality: American
 tags: [design, journalism, african-american, race, american-thought, poverty]
-related: [lange-dorothea, lawrence-jacob, hughes-langston, ellison-ralph, baldwin-james]
-influenced_by: [lange-dorothea]
+related: [lange-dorothea, lawrence-jacob, hughes-langston, ellison-ralph, baldwin-james, evans-walker, shahn-ben]
+influenced_by: [lange-dorothea, evans-walker]
 influenced: [lee-spike]
 ---
 
