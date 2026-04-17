@@ -370,8 +370,17 @@ function escHtml(s) {
 function renderFrontPage(seed) {
   const rng = mulberry32(seed);
   const picked = shuffle(ENTRIES, rng);
-  const headlines = picked.slice(0, 3);
-  const grid = picked.slice(3, 12);
+  const topics = picked.filter(e => e.type === 'topic');
+  const others = picked.filter(e => e.type !== 'topic');
+  let headlines, rest;
+  if (topics.length > 0 && others.length >= 2) {
+    headlines = [topics[0], others[0], others[1]];
+    rest = topics.slice(1).concat(others.slice(2));
+  } else {
+    headlines = picked.slice(0, 3);
+    rest = picked.slice(3);
+  }
+  const grid = rest.slice(0, 9);
 
   const container = document.getElementById('front-cards');
   container.innerHTML = '';
