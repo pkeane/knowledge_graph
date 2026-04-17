@@ -11,9 +11,9 @@ influenced: []
 
 # Art and Political Commitment
 
-The question of what art owes to politics — and what politics does to art — has been one of the most persistent and unresolved arguments of the modern period. The positions range from [[sartre-jean-paul|Sartre]]'s claim that the writer is always politically engaged whether or not he knows it, to [[adorno-theodor|Adorno]]'s warning that committed art risks becoming propaganda, to [[orwell-george|Orwell]]'s insistence that political purpose and aesthetic quality can coexist but only with difficulty. The artists gathered on this page — [[picasso-pablo|Picasso]], [[kollwitz-kathe|Kollwitz]], [[rivera-diego|Rivera]], [[shahn-ben|Shahn]], [[guthrie-woody|Guthrie]], [[pasolini-pier-paolo|Pasolini]], [[sembene-ousmane|Sembène]], [[ai-weiwei|Ai Weiwei]] — did not resolve the argument. They lived it.
+The question of what art owes to politics — and what politics does to art — has been one of the most persistent arguments of the modern period. The positions range from [[sartre-jean-paul|Sartre]]'s claim that the writer is always politically engaged whether or not he knows it, to [[adorno-theodor|Adorno]]'s warning that committed art risks becoming propaganda, to [[orwell-george|Orwell]]'s insistence that political purpose and aesthetic quality can coexist but only with difficulty. The argument has not been resolved, and the work of the artists gathered here — [[picasso-pablo|Picasso]], [[kollwitz-kathe|Kollwitz]], [[rivera-diego|Rivera]], [[shahn-ben|Shahn]], [[guthrie-woody|Guthrie]], [[pasolini-pier-paolo|Pasolini]], [[sembene-ousmane|Sembène]], [[ai-weiwei|Ai Weiwei]] — suggests that it cannot be, because the tension between aesthetic and political demands takes a different form in each case.
 
-The issue is not whether art can be political — it always is, if only by what it ignores — but whether art that takes an explicit political stand can remain art: whether the demands of the cause and the demands of the form can coexist, or whether one always swallows the other.
+The central question is whether art that takes an explicit political stand can remain art — whether the demands of the cause and the demands of the form can coexist, or whether one inevitably compromises the other.
 
 ## Annotated bibliography
 
