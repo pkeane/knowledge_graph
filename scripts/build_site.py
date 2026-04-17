@@ -321,7 +321,8 @@ def render_changelog(docs):
         "docs/schools/": "School",
         "docs/events/": "Event",
     }
-    entries = []
+    type_labels = {"thinker": "Thinker", "school": "School", "concept": "Concept", "topic": "Topic", "event": "Event"}
+    raw_entries = []
     current_date = None
     for line in result.stdout.strip().split("\n"):
         line = line.strip()
@@ -330,13 +331,21 @@ def render_changelog(docs):
         if line[0].isdigit() and len(line) > 10 and line[4] == "-":
             current_date = line
         elif line.endswith(".md"):
-            for prefix, doc_type in doc_dirs.items():
+            for prefix in doc_dirs:
                 if line.startswith(prefix):
                     doc_id = line.replace(prefix, "").replace(".md", "")
                     if doc_id in docs:
-                        name = docs[doc_id]["meta"].get("name", doc_id)
-                        entries.append((current_date, doc_id, name, doc_type))
+                        raw_entries.append((current_date, doc_id))
                     break
+    earliest = {}
+    for date, doc_id in raw_entries:
+        if doc_id not in earliest or date < earliest[doc_id]:
+            earliest[doc_id] = date
+    entries = []
+    for doc_id, date in earliest.items():
+        name = docs[doc_id]["meta"].get("name", doc_id)
+        doc_type = type_labels.get(docs[doc_id]["meta"].get("type", ""), "")
+        entries.append((date, doc_id, name, doc_type))
     from itertools import groupby
     groups = []
     for dt, items in groupby(entries, key=lambda x: x[0]):
