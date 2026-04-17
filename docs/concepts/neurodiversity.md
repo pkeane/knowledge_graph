@@ -4,14 +4,14 @@ type: concept
 name: Neurodiversity
 era: late 20th–21st century
 tags: [psychology, disability, education, criminal-justice, political-theory]
-related: [silberman-steve, nussbaum-martha, foucault-michel, laing-rd, kahneman-daniel, bruner-jerome, mass-incarceration, inequality]
+related: [nussbaum-martha, foucault-michel, laing-rd, kahneman-daniel, bruner-jerome, mass-incarceration, inequality]
 influenced_by: []
 influenced: []
 ---
 
 # Neurodiversity
 
-The proposition — advanced by the Australian sociologist Judy Singer in her 1998 thesis, given its major popular treatment in [[silberman-steve|Steve Silberman]]'s *NeuroTribes* (2015), and now increasingly adopted in psychology, education, and disability studies — that neurological variations such as autism, ADHD, dyslexia, and related conditions are natural features of human cognitive diversity rather than deficits or pathologies to be corrected. The neurodiversity paradigm (a term formalized by the philosopher Nick Walker) holds that there is no single "normal" brain; that the cognitive differences associated with these conditions carry genuine strengths alongside genuine difficulties; and that the appropriate social response is accommodation and recognition, not cure and normalization.
+The proposition — advanced by the Australian sociologist Judy Singer in her 1998 thesis, given its major popular treatment in Steve Silberman's *NeuroTribes* (2015), and now increasingly adopted in psychology, education, and disability studies — that neurological variations such as autism, ADHD, dyslexia, and related conditions are natural features of human cognitive diversity rather than deficits or pathologies to be corrected. The neurodiversity paradigm (a term formalized by the philosopher Nick Walker) holds that there is no single "normal" brain; that the cognitive differences associated with these conditions carry genuine strengths alongside genuine difficulties; and that the appropriate social response is accommodation and recognition, not cure and normalization.
 
 The concept has transformed the conversation in clinical psychology, education, and workplace policy over the past two decades. It has not, however, entered the mainstream of political philosophy, economic theory, or social theory in any sustained way. This page notes that gap.
 
@@ -55,7 +55,7 @@ No single thinker has produced a full synthesis. The figures who come nearest:
 
 - **Ian Hacking** — *The Social Construction of What?* (1999) and his work on "making up people" examines how diagnostic categories do not merely describe but *create* kinds of people — relevant to how "ADHD" and "autism" function as social as well as clinical categories.
 
-- **[[silberman-steve|Steve Silberman]]** — *NeuroTribes* (2015) is the major popular history and the most accessible articulation of the neurodiversity paradigm. It gave the movement its historical grounding but does not attempt the political-theoretical synthesis.
+- **Steve Silberman** — *NeuroTribes* (2015) is the major popular history and the most accessible articulation of the neurodiversity paradigm. It gave the movement its historical grounding but does not attempt the political-theoretical synthesis.
 
 ## The contested paradigm
 
