@@ -59,6 +59,8 @@ The neurodiversity framework is itself contested — and contested not by reacti
 
 - **Selection bias in research.** Because advocacy has focused on verbal, cognitively intact autistic people, research has followed: individuals with intellectual disabilities are systematically underrepresented in autism research, even though they constitute nearly half the autistic population.
 
+- **The ADHD case.** Russell A. Barkley, one of the leading clinical researchers on ADHD, has argued that framing ADHD as a "different cognitive style" rather than a disorder minimizes real impairments in executive function, self-regulation, and long-term outcomes. His research documents elevated rates of driving accidents, financial problems, relationship difficulties, substance abuse, and reduced life expectancy among people with untreated ADHD. Barkley's position is that the medical model and the treatments it supports (including medication) are not obstacles to flourishing but preconditions for it.
+
 - **The romanticization problem.** The "different, not disabled" framing works most persuasively at the milder end of the spectrum — ADHD, dyslexia, Level 1 autism — where genuine strengths coexist with genuine difficulties and where accommodation can make a real difference. It becomes harder to sustain for Level 3 autism, or for conditions with high rates of co-occurring epilepsy, self-injury, and psychiatric hospitalization.
 
 The observation that political theory assumes a neurotypical rational agent holds regardless of whether neurological variation is framed as "natural diversity" or "neurodevelopmental disability." But any serious engagement with cognitive diversity will have to reckon with the full spectrum, including people whose needs are better met by the language of care, dependency, and support than by the language of identity and pride — which is where Nussbaum's capabilities approach and Kittay's philosophy of care become relevant, and where the "different, not deficient" framing, taken alone, is not enough.
@@ -76,5 +78,7 @@ The book or sustained philosophical work that takes cognitive diversity seriousl
 - Eva Feder Kittay, *Love's Labor: Essays on Women, Equality, and Dependency* (1999)
 - Ian Hacking, *The Social Construction of What?* (1999)
 - Alasdair MacIntyre, *Dependent Rational Animals: Why Human Beings Need the Virtues* (1999)
+- Russell A. Barkley, *ADHD and the Nature of Self-Control* (1997) — the executive function model of ADHD; the case for ADHD as a disorder of self-regulation with measurable consequences
+- Russell A. Barkley, ed., *Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment* (4th ed., 2015) — the standard clinical reference
 - Moheb Costandi, "Why the Neurodiversity Movement Has Become Harmful" (*Aeon*, 2019) — the major critique, from the perspective of severe autism
 - Thomas Clements, *The Autistic Brothers: Two Unconventional Paths to Adulthood* (2018) — a Level 1 autistic man on his own experience and his severely affected brother's
