@@ -28,7 +28,7 @@ WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 ID_FIELDS = ("related", "influenced_by", "influenced")
 
 CSS = """
-:root { --fg: #222; --muted: #666; --accent: #8b2e2e; --bg: #fdfcf8; --card: #fff; --border: #e4e0d6; }
+:root { --fg: #2a2520; --muted: #7a7068; --accent: #6b3a2a; --bg: #f5f0e8; --card: #faf8f3; --border: #d8d0c4; }
 body.period-pre-1900 { --bg: #ffffff; --card: #fafafa; --border: #e0e0e0; }
 body.period-1900-1945 { --bg: #f2f7ff; --card: #f9fbff; --border: #c8d6ec; }
 body.period-1946-onward { --bg: #ffffea; --card: #fffff5; --border: #e8e0a8; }
@@ -43,11 +43,11 @@ body.period-1946-onward { --bg: #ffffea; --card: #fffff5; --border: #e8e0a8; }
 html { font-size: 125%; }
 body { font-family: Georgia, 'Iowan Old Style', serif; max-width: 1100px; margin: 2em auto; padding: 0 1.2em; color: var(--fg); background: var(--bg); line-height: 1.55; }
 @media (max-width: 600px) { html { font-size: 110%; } body { margin: 1em auto; } }
-header { border-bottom: 1px solid var(--border); margin-bottom: 1.5em; padding-bottom: .8em; }
+header { border-bottom: 2px solid #2a2520; margin-bottom: 1.5em; padding-bottom: .8em; }
 header a { color: var(--fg); text-decoration: none; }
 header nav { font-size: .9em; color: var(--muted); margin-top: .3em; }
 header nav a { margin-right: .8em; }
-h1 { margin: 0; font-size: 1.9em; }
+h1 { margin: 0; font-size: 1.9em; letter-spacing: -.02em; }
 h2 { margin-top: 1.8em; border-bottom: 1px solid var(--border); padding-bottom: .2em; font-size: 1.25em; }
 h3 { font-size: 1.05em; color: var(--muted); margin-top: 1.4em; }
 a { color: var(--accent); }
@@ -197,7 +197,36 @@ def render_doc(doc_id, doc, docs, backlinks):
 </body></html>"""
 
 
+def extract_teaser(body):
+    """Extract first paragraph after the # heading as a teaser."""
+    lines = body.strip().split("\n")
+    para_lines = []
+    past_heading = False
+    for line in lines:
+        if not past_heading:
+            if line.startswith("# "):
+                past_heading = True
+            continue
+        stripped = line.strip()
+        if not stripped:
+            if para_lines:
+                break
+            continue
+        if stripped.startswith("#") or stripped.startswith("- ") or stripped.startswith("---"):
+            if para_lines:
+                break
+            continue
+        para_lines.append(stripped)
+    teaser = " ".join(para_lines)
+    teaser = WIKILINK.sub(lambda m: m.group(2) or m.group(1), teaser)
+    if len(teaser) > 280:
+        teaser = teaser[:277].rsplit(" ", 1)[0] + "…"
+    return teaser
+
+
 def render_index(docs):
+    import json as _json
+
     by_type = defaultdict(list)
     for doc_id, doc in docs.items():
         by_type[doc["meta"].get("type", "other")].append((doc_id, doc))
@@ -246,7 +275,126 @@ def render_index(docs):
             f'{body}</section>'
         )
 
+    all_entries = []
+    for doc_id, doc in docs.items():
+        meta = doc["meta"]
+        all_entries.append({
+            "id": doc_id,
+            "name": meta.get("name", doc_id),
+            "type": meta.get("type", ""),
+            "meta": meta_line(meta),
+            "tags": meta.get("tags") or [],
+            "teaser": extract_teaser(doc["body"]),
+        })
+    entries_json = _json.dumps(all_entries, ensure_ascii=False)
+
+    index_css = """
+.front-page { margin-bottom: 2em; }
+.front-controls { display: flex; align-items: center; gap: .8em; margin-bottom: 1.2em; }
+.front-date { color: var(--muted); font-size: .85em; font-style: italic; }
+.shuffle-btn { background: var(--card); border: 1px solid var(--border); padding: .3em .8em; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: .85em; color: var(--muted); }
+.shuffle-btn:hover { border-color: var(--accent); color: var(--accent); }
+.headline-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.2em; }
+.card { background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 1em 1.2em; }
+.card a.card-title { font-size: 1.15em; font-weight: bold; color: var(--accent); text-decoration: none; }
+.card a.card-title:hover { text-decoration: underline; }
+.card .card-type { font-size: .72em; text-transform: uppercase; letter-spacing: .08em; margin-bottom: .3em; font-weight: bold; }
+.card .card-type.type-thinker { color: #6b3a2a; }
+.card .card-type.type-topic { color: #2a5a3a; }
+.card .card-type.type-school { color: #3a4a6b; }
+.card .card-type.type-concept { color: #5a4a2a; }
+.card .card-type.type-event { color: #5a2a4a; }
+.card.ctype-thinker { border-left: 3px solid #6b3a2a; }
+.card.ctype-topic { border-left: 3px solid #2a5a3a; }
+.card.ctype-school { border-left: 3px solid #3a4a6b; }
+.card.ctype-concept { border-left: 3px solid #5a4a2a; }
+.card.ctype-event { border-left: 3px solid #5a2a4a; }
+.card .card-meta { font-size: .82em; color: var(--muted); font-style: italic; margin-top: .2em; }
+.card .card-teaser { font-size: .88em; color: var(--fg); margin-top: .5em; line-height: 1.45; }
+.card-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; }
+.card-grid .card { padding: .8em 1em; }
+.card-grid .card a.card-title { font-size: 1em; }
+.card-grid .card .card-teaser { display: none; }
+@media (max-width: 900px) { .headline-row { grid-template-columns: 1fr; } .card-grid { grid-template-columns: 1fr 1fr; } }
+@media (max-width: 600px) { .card-grid { grid-template-columns: 1fr; } }
+.full-index { margin-top: 2em; }
+.full-index summary { cursor: pointer; font-size: 1.1em; font-weight: bold; color: var(--fg); padding: .5em 0; }
+.full-index summary:hover { color: var(--accent); }
+.full-index[open] #filter { margin-top: 1em; }
+"""
+
     js = """
+const ENTRIES = """ + entries_json + """;
+const TYPE_LABELS = {thinker: 'Thinker', school: 'School', concept: 'Concept', topic: 'Topic', event: 'Event'};
+
+function mulberry32(a) {
+  return function() {
+    a |= 0; a = a + 0x6D2B79F5 | 0;
+    var t = Math.imul(a ^ a >>> 15, 1 | a);
+    t = t + Math.imul(t ^ t >>> 7, 61 | t) ^ t;
+    return ((t ^ t >>> 14) >>> 0) / 4294967296;
+  }
+}
+
+function dateSeed() {
+  const d = new Date();
+  return d.getFullYear() * 10000 + (d.getMonth() + 1) * 100 + d.getDate();
+}
+
+function shuffle(arr, rng) {
+  const a = arr.slice();
+  for (let i = a.length - 1; i > 0; i--) {
+    const j = Math.floor(rng() * (i + 1));
+    [a[i], a[j]] = [a[j], a[i]];
+  }
+  return a;
+}
+
+function renderCard(e, showTeaser) {
+  const card = document.createElement('div');
+  card.className = 'card ctype-' + e.type;
+  let h = '<div class="card-type type-' + e.type + '">' + (TYPE_LABELS[e.type] || '') + '</div>';
+  h += '<a class="card-title" href="' + e.id + '.html">' + escHtml(e.name) + '</a>';
+  if (e.meta) h += '<div class="card-meta">' + escHtml(e.meta) + '</div>';
+  if (showTeaser && e.teaser) h += '<div class="card-teaser">' + escHtml(e.teaser) + '</div>';
+  card.innerHTML = h;
+  return card;
+}
+
+function escHtml(s) {
+  const d = document.createElement('div');
+  d.textContent = s;
+  return d.innerHTML;
+}
+
+function renderFrontPage(seed) {
+  const rng = mulberry32(seed);
+  const picked = shuffle(ENTRIES, rng);
+  const headlines = picked.slice(0, 3);
+  const grid = picked.slice(3, 12);
+
+  const container = document.getElementById('front-cards');
+  container.innerHTML = '';
+
+  const headRow = document.createElement('div');
+  headRow.className = 'headline-row';
+  headlines.forEach(e => headRow.appendChild(renderCard(e, true)));
+  container.appendChild(headRow);
+
+  const gridDiv = document.createElement('div');
+  gridDiv.className = 'card-grid';
+  grid.forEach(e => gridDiv.appendChild(renderCard(e, false)));
+  container.appendChild(gridDiv);
+}
+
+let currentSeed = dateSeed();
+renderFrontPage(currentSeed);
+
+document.getElementById('shuffle-btn').addEventListener('click', function() {
+  currentSeed = Math.floor(Math.random() * 2147483647);
+  renderFrontPage(currentSeed);
+});
+
 const filter = document.getElementById('filter');
 const items = document.querySelectorAll('.index-section li');
 function apply(q) {
@@ -258,21 +406,34 @@ function apply(q) {
 }
 filter.addEventListener('input', e => apply(e.target.value));
 const tag = new URLSearchParams(location.search).get('tag');
-if (tag) { filter.value = tag; apply(tag); }
+if (tag) {
+  filter.value = tag; apply(tag);
+  document.getElementById('full-index').open = true;
+}
 """
     return f"""<!doctype html>
 <html lang="en"><head>
 <meta charset="utf-8"><title>Knowledge Graph</title>
 <meta name="viewport" content="width=device-width,initial-scale=1">
-<style>{CSS}</style>
+<style>{CSS}{index_css}</style>
 </head><body>
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Political, social, economic, and philosophical thought, with branches into the arts and non-Western traditions.</div>
 <nav><a href="about/">About</a><a href="tags/">Tags</a><a href="changelog/">Change Log</a></nav>
 </header>
-<input id="filter" type="search" placeholder="Filter by name or tag…" autofocus>
+<div class="front-page">
+<div class="front-controls">
+<button id="shuffle-btn" class="shuffle-btn">Shuffle</button>
+<span class="front-date">{len(docs)} entries</span>
+</div>
+<div id="front-cards"></div>
+</div>
+<details class="full-index" id="full-index">
+<summary>Full Index</summary>
+<input id="filter" type="search" placeholder="Filter by name or tag…">
 {"".join(sections)}
+</details>
 <footer>{len(docs)} entries</footer>
 <script>{js}</script>
 </body></html>"""
