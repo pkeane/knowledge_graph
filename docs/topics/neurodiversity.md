@@ -1,6 +1,6 @@
 ---
 id: neurodiversity
-type: concept
+type: topic
 name: Neurodiversity
 era: late 20th–21st century
 tags: [psychology, disability, education, criminal-justice, political-theory]

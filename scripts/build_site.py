@@ -75,9 +75,10 @@ TYPE_LABELS = {
     "thinker": "Thinkers",
     "school": "Schools & Movements",
     "concept": "Concepts",
+    "topic": "Topics",
     "event": "Events",
 }
-TYPE_ORDER = ["thinker", "school", "concept", "event"]
+TYPE_ORDER = ["thinker", "school", "concept", "topic", "event"]
 
 
 def load_docs():
@@ -316,6 +317,7 @@ def render_changelog(docs):
     doc_dirs = {
         "docs/thinkers/": "Thinker",
         "docs/concepts/": "Concept",
+        "docs/topics/": "Topic",
         "docs/schools/": "School",
         "docs/events/": "Event",
     }
