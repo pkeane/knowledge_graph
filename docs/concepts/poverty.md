@@ -4,7 +4,7 @@ type: concept
 name: Poverty
 era: ancient–contemporary
 tags: [political-economy, economics, justice, american-thought, policy]
-related: [sen-amartya, addams-jane, day-dorothy, berry-wendell, inequality, welfare-state, racial-capitalism, desmond-matthew, ehrenreich-barbara]
+related: [sen-amartya, addams-jane, day-dorothy, berry-wendell, inequality, welfare-state, racial-capitalism, desmond-matthew, ehrenreich-barbara, poverty-in-america]
 influenced_by: []
 influenced: []
 ---
