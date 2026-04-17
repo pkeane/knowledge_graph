@@ -4,7 +4,7 @@ type: topic
 name: The City
 era: 19th–21st century
 tags: [urbanism, architecture, political-theory, inequality, environment]
-related: [jacobs-jane, mumford-lewis, le-corbusier, alexander-christopher, harvey-david, addams-jane, bo-bardi-lina, wright-frank-lloyd, fuller-buckminster]
+related: [jacobs-jane, mumford-lewis, le-corbusier, alexander-christopher, harvey-david, addams-jane, bo-bardi-lina, wright-frank-lloyd, fuller-buckminster, desmond-matthew]
 influenced_by: []
 influenced: []
 ---
@@ -44,4 +44,4 @@ The central confrontation in the twentieth-century debate was between the modern
 
 - **Richard Florida**, *The Rise of the Creative Class* (2002) — the argument that cities thrive by attracting creative workers. Hugely influential on municipal policy; widely criticized for providing intellectual cover for gentrification and for conflating the interests of the "creative class" with the public interest.
 - **Edward Glaeser**, *Triumph of the City* (2011) — the economist's case for density: cities are greener, more productive, and more innovative than suburbs or rural areas. Useful data, thin on the distributional questions (whose city? who benefits from the density premium?).
-- **Matthew Desmond**, *Evicted: Poverty and Profit in the American City* (2016) — ethnography of eviction in Milwaukee; makes visible the housing crisis as experienced by the urban poor. The contemporary successor to Jacobs's street-level observation, applied to a grimmer subject.
+- **[[desmond-matthew|Matthew Desmond]]**, *Evicted: Poverty and Profit in the American City* (2016) — ethnography of eviction in Milwaukee; makes visible the housing crisis as experienced by the urban poor. The contemporary successor to Jacobs's street-level observation, applied to a grimmer subject.
