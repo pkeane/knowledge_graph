@@ -7,9 +7,8 @@ cd "$(dirname "$0")/.."
 
 ./venv/bin/python scripts/build_site.py
 ./venv/bin/python scripts/build_about.py
-./venv/bin/python scripts/build_books.py
 
-git add -A docs scripts site about.md books.md CLAUDE.md README.md .gitignore
+git add -A docs scripts site about.md CLAUDE.md README.md .gitignore
 if ! git diff --cached --quiet; then
   git commit -m "Update knowledge graph"
 fi

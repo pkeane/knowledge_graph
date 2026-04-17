@@ -269,7 +269,7 @@ if (tag) { filter.value = tag; apply(tag); }
 <header>
 <h1>Knowledge Graph</h1>
 <div class="meta">Political, social, economic, and philosophical thought, with branches into the arts and non-Western traditions.</div>
-<nav><a href="about/">About</a><a href="books/">Recommended Reading</a><a href="tags/">Tags</a><a href="changelog/">Change Log</a></nav>
+<nav><a href="about/">About</a><a href="tags/">Tags</a><a href="changelog/">Change Log</a></nav>
 </header>
 <input id="filter" type="search" placeholder="Filter by name or tag…" autofocus>
 {"".join(sections)}
@@ -301,7 +301,7 @@ def render_tags(docs):
 </head><body>
 <header>
 <a href="../index.html"><strong>Knowledge Graph</strong></a>
-<nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
+<nav><a href="../about/">About</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
 </header>
 <h1>Tags</h1>
 <div class="meta">{len(counts)} tags across {len(docs)} entries. Click a tag to filter the index.</div>
@@ -375,7 +375,7 @@ def render_changelog(docs):
 </head><body>
 <header>
 <a href="../index.html"><strong>Knowledge Graph</strong></a>
-<nav><a href="../about/">About</a><a href="../books/">Recommended Reading</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
+<nav><a href="../about/">About</a><a href="../tags/">Tags</a><a href="../changelog/">Change Log</a></nav>
 </header>
 <h1>Change Log</h1>
 <div class="meta">Entries added to the graph, most recent first. {len(entries)} additions across {len(groups)} commits.</div>
