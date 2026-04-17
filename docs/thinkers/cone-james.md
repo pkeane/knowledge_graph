@@ -7,7 +7,7 @@ died: 2018
 era: 20th–21st century
 nationality: American
 tags: [theology, african-american-thought, religion, civil-rights, christianity]
-related: [liberation-theology, thurman-howard, king-mlk, baldwin-james, du-bois-web, gutierrez-gustavo]
+related: [liberation-theology, thurman-howard, king-mlk, baldwin-james, du-bois-web, gutierrez-gustavo, heschel-abraham-joshua]
 influenced_by: [thurman-howard, king-mlk, baldwin-james, malcolm-x]
 influenced: [west-cornel]
 ---

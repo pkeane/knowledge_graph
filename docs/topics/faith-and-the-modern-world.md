@@ -4,7 +4,7 @@ type: topic
 name: Faith and the Modern World
 era: 19th–21st century
 tags: [religion, philosophy, politics, literature, ethics]
-related: [kierkegaard-soren, dostoevsky-fyodor, unamuno-miguel-de, bonhoeffer-dietrich, weil-simone, maritain-jacques, rauschenbusch-walter, niebuhr-reinhold, niebuhr-h-richard, tillich-paul, merton-thomas, thurman-howard, gutierrez-gustavo, cone-james, romero-oscar, day-dorothy, king-mlk, gandhi-mohandas, o-connor-flannery, percy-walker, endo-shusaku, robinson-marilynne, kung-hans, frankl-viktor, liberation-theology, social-gospel, beloved-community, nonviolence]
+related: [kierkegaard-soren, dostoevsky-fyodor, unamuno-miguel-de, bonhoeffer-dietrich, weil-simone, maritain-jacques, rauschenbusch-walter, niebuhr-reinhold, niebuhr-h-richard, tillich-paul, merton-thomas, thurman-howard, heschel-abraham-joshua, gutierrez-gustavo, cone-james, romero-oscar, day-dorothy, king-mlk, gandhi-mohandas, o-connor-flannery, percy-walker, endo-shusaku, robinson-marilynne, kung-hans, frankl-viktor, liberation-theology, social-gospel, beloved-community, nonviolence]
 influenced_by: []
 influenced: []
 ---
@@ -41,7 +41,7 @@ The question is not primarily about the existence of God, which is a philosophic
 
 - **[[merton-thomas|Thomas Merton]]**, *The Seven Storey Mountain* (1948), *New Seeds of Contemplation* (1962), *Conjectures of a Guilty Bystander* (1966) — Merton entered a Trappist monastery in 1941 and spent the rest of his life there, but his writing engaged increasingly with the world outside — racial justice, nuclear weapons, Vietnam, interfaith dialogue, Zen Buddhism. The trajectory from monastic withdrawal to political engagement is itself the argument: contemplation, for Merton, was not escape from the world but a way of seeing it more clearly.
 - **[[thurman-howard|Howard Thurman]]**, *Jesus and the Disinherited* (1949) — Thurman's short, essential book on what the religion of Jesus has to say to people "whose backs are against the wall" — the poor, the oppressed, the disinherited. A direct influence on King. Thurman argued that Jesus was himself a member of a despised minority under Roman occupation, and that his teaching must be read from that position.
-- **Abraham Joshua Heschel**, *The Sabbath* (1951), *The Prophets* (1962), *God in Search of Man* (1955) — Heschel, a rabbi and scholar of Jewish mysticism, was also a civil rights activist who marched with King at Selma. *The Prophets* reads the Hebrew prophets as radical social critics whose anger at injustice is an expression of God's pathos — God's suffering at human suffering.
+- **[[heschel-abraham-joshua|Abraham Joshua Heschel]]**, *The Sabbath* (1951), *The Prophets* (1962), *God in Search of Man* (1955) — Heschel, a rabbi and scholar of Jewish mysticism, was also a civil rights activist who marched with King at Selma. *The Prophets* reads the Hebrew prophets as radical social critics whose anger at injustice is an expression of God's pathos — God's suffering at human suffering.
 
 ### Liberation theology
 

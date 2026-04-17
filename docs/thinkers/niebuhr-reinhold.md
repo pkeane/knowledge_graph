@@ -7,7 +7,7 @@ died: 1971
 era: 20th century
 nationality: American
 tags: [theology, political-theory, ethics, realism, christianity, power]
-related: [tillich-paul, niebuhr-h-richard, king-mlk, auden-wh]
+related: [tillich-paul, niebuhr-h-richard, king-mlk, auden-wh, heschel-abraham-joshua]
 influenced_by: [augustine, kierkegaard-soren, rauschenbusch-walter]
 influenced: [king-mlk, auden-wh]
 ---

@@ -7,7 +7,7 @@ died: 1965
 era: 20th century
 nationality: German-American
 tags: [theology, existentialism, religion, philosophy, christianity]
-related: [kierkegaard-soren, existentialism, merton-thomas, cox-harvey, may-rollo]
+related: [kierkegaard-soren, existentialism, merton-thomas, cox-harvey, may-rollo, heschel-abraham-joshua]
 influenced_by: [kierkegaard-soren, existentialism, hegel-gwf]
 influenced: [cox-harvey, may-rollo, king-mlk]
 ---
