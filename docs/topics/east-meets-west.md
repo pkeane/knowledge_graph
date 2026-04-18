@@ -1,7 +1,7 @@
 ---
 id: east-meets-west
 type: topic
-name: East Meets West
+name: East/West
 era: 19th–21st century
 tags: [philosophy, religion, culture, politics, comparative-thought]
 related: [emerson-rw, thoreau-henry-david, whitman-walt, said-edward, jung-carl, fromm-erich, merton-thomas, huxley-aldous, gandhi-mohandas, tagore-rabindranath, sen-amartya, ambedkar-br, confucius, laozi, zhuangzi, ibn-khaldun, shariati-ali, endo-shusaku, ray-satyajit, james-william, heschel-abraham-joshua, counterculture-origins]
@@ -9,9 +9,9 @@ influenced_by: []
 influenced: []
 ---
 
-# East Meets West
+# East/West
 
-"East meets West" is itself a Western framing — it assumes the West is the active party, doing the discovering. The story runs in both directions. Western thinkers selectively read Eastern traditions for what they needed: the Transcendentalists found confirmation of their own intuitions in Hindu texts, Jung found archetypes in Tibetan mandalas, the counterculture sought enlightenment. And Eastern thinkers selectively adopted, transformed, and rejected Western ideas: [[gandhi-mohandas|Gandhi]] synthesized Tolstoy and the Bhagavad Gita, [[tagore-rabindranath|Tagore]] engaged Western nationalism on his own terms, [[ambedkar-br|Ambedkar]] used Buddhism as a vehicle for caste liberation, [[sen-amartya|Sen]] argued that the Western philosophical tradition has no monopoly on ideas about justice and freedom.
+The story runs in both directions. Western thinkers selectively read Eastern traditions for what they needed: the Transcendentalists found confirmation of their own intuitions in Hindu texts, Jung found archetypes in Tibetan mandalas, the counterculture sought enlightenment. And Eastern thinkers selectively adopted, transformed, and rejected Western ideas: [[gandhi-mohandas|Gandhi]] synthesized Tolstoy and the Bhagavad Gita, [[tagore-rabindranath|Tagore]] engaged Western nationalism on his own terms, [[ambedkar-br|Ambedkar]] used Buddhism as a vehicle for caste liberation, [[sen-amartya|Sen]] argued that the Western philosophical tradition has no monopoly on ideas about justice and freedom.
 
 [[said-edward|Edward Said]]'s *Orientalism* (1978) demonstrated that Western knowledge of "the Orient" was entangled with colonial power — that the West's image of the East was a projection that served the West's purposes. That critique does not invalidate the encounter, but it means that the question of who is reading whom, and for what purpose, is always present.
 
