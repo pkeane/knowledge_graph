@@ -294,7 +294,7 @@ def render_index(docs):
 .front-date { color: var(--muted); font-size: .85em; font-style: italic; }
 .shuffle-btn { background: var(--card); border: 1px solid var(--border); padding: .3em .8em; border-radius: 4px; cursor: pointer; font-family: inherit; font-size: .85em; color: var(--muted); }
 .shuffle-btn:hover { border-color: var(--accent); color: var(--accent); }
-.headline-row { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.2em; }
+.card-row { display: grid; grid-template-columns: 1fr; gap: 1em; margin-bottom: 1.2em; }
 .card { background: var(--card); border: 1px solid var(--border); border-radius: 4px; padding: 1em 1.2em; }
 .card a.card-title { font-size: 1.15em; font-weight: bold; color: var(--accent); text-decoration: none; }
 .card a.card-title:hover { text-decoration: underline; }
@@ -311,12 +311,6 @@ def render_index(docs):
 .card.ctype-event { border-left: 3px solid #5a2a4a; }
 .card .card-meta { font-size: .82em; color: var(--muted); font-style: italic; margin-top: .2em; }
 .card .card-teaser { font-size: .88em; color: var(--fg); margin-top: .5em; line-height: 1.45; }
-.card-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; }
-.card-grid .card { padding: .8em 1em; }
-.card-grid .card a.card-title { font-size: 1em; }
-.card-grid .card .card-teaser { display: none; }
-@media (max-width: 900px) { .headline-row { grid-template-columns: 1fr; } .card-grid { grid-template-columns: 1fr 1fr; } }
-@media (max-width: 600px) { .card-grid { grid-template-columns: 1fr; } }
 .full-index { margin-top: 2em; }
 .full-index summary { cursor: pointer; font-size: 1.1em; font-weight: bold; color: var(--fg); padding: .5em 0; }
 .full-index summary:hover { color: var(--accent); }
@@ -372,28 +366,23 @@ function renderFrontPage(seed) {
   const picked = shuffle(ENTRIES, rng);
   const topics = picked.filter(e => e.type === 'topic');
   const others = picked.filter(e => e.type !== 'topic');
-  let headlines, rest;
-  if (topics.length > 0 && others.length >= 2) {
-    headlines = [topics[0], others[0], others[1]];
-    rest = topics.slice(1).concat(others.slice(2));
+  let cards;
+  if (topics.length > 0 && others.length >= 3) {
+    cards = [topics[0], others[0], others[1], others[2]];
+    const pos = Math.floor(rng() * 4);
+    if (pos !== 0) {
+      [cards[0], cards[pos]] = [cards[pos], cards[0]];
+    }
   } else {
-    headlines = picked.slice(0, 3);
-    rest = picked.slice(3);
+    cards = picked.slice(0, 4);
   }
-  const grid = rest.slice(0, 9);
 
   const container = document.getElementById('front-cards');
   container.innerHTML = '';
-
-  const headRow = document.createElement('div');
-  headRow.className = 'headline-row';
-  headlines.forEach(e => headRow.appendChild(renderCard(e, true)));
-  container.appendChild(headRow);
-
-  const gridDiv = document.createElement('div');
-  gridDiv.className = 'card-grid';
-  grid.forEach(e => gridDiv.appendChild(renderCard(e, false)));
-  container.appendChild(gridDiv);
+  const row = document.createElement('div');
+  row.className = 'card-row';
+  cards.forEach(e => row.appendChild(renderCard(e, true)));
+  container.appendChild(row);
 }
 
 let currentSeed = dateSeed();
