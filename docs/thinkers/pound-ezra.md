@@ -9,7 +9,7 @@ nationality: American
 tags: [literature, poetry, modernism, criticism, fascism]
 related: [eliot-ts, yeats-wb, joyce-james, hemingway-ernest, ginsberg-allen]
 influenced_by: [browning-robert, whitman-walt]
-influenced: [eliot-ts]
+influenced: [eliot-ts, williams-wc]
 ---
 
 # Ezra Pound

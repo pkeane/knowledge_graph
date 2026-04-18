@@ -7,7 +7,7 @@ died: 2013
 era: 20th–21st century
 nationality: Irish
 tags: [literature, poetry, ireland]
-related: [yeats-wb, auden-wh, hughes-ted, lowell-robert]
+related: [yeats-wb, auden-wh, hughes-ted, lowell-robert, hopkins-gerard-manley]
 influenced_by: [yeats-wb, hopkins-gerard-manley, wordsworth-william]
 influenced: []
 ---

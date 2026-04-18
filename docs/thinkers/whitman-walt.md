@@ -9,7 +9,7 @@ nationality: American
 tags: [literature, poetry, american-thought, democracy]
 related: [emerson-rw, thoreau-henry-david, dickinson-emily, hughes-langston, neruda-pablo, dylan-bob]
 influenced_by: [emerson-rw]
-influenced: [hughes-langston, neruda-pablo, dylan-bob, ginsberg-allen, ferlinghetti-lawrence]
+influenced: [hughes-langston, neruda-pablo, dylan-bob, ginsberg-allen, ferlinghetti-lawrence, williams-wc]
 ---
 
 # Walt Whitman

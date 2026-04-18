@@ -8,7 +8,7 @@ era: 20th century
 nationality: American
 tags: [literature, poetry, beat-generation, buddhism, american-thought, dissent]
 related: [kerouac-jack, ferlinghetti-lawrence, whitman-walt, blake-william, dylan-bob, rimbaud-arthur]
-influenced_by: [whitman-walt, blake-william, williams-william-carlos]
+influenced_by: [whitman-walt, blake-william, williams-wc]
 influenced: [dylan-bob]
 ---
 
