@@ -7,7 +7,7 @@ died: 2012
 era: 20th–21st century
 nationality: American
 tags: [literature, poetry, feminism, politics]
-related: [lorde-audre, morrison-toni, dickinson-emily, brooks-gwendolyn, beauvoir-simone-de, plath-sylvia, sexton-anne]
+related: [lorde-audre, morrison-toni, dickinson-emily, brooks-gwendolyn, beauvoir-simone-de, plath-sylvia, sexton-anne, paley-grace]
 influenced_by: [dickinson-emily, auden-wh, beauvoir-simone-de]
 influenced: []
 ---

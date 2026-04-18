@@ -7,7 +7,7 @@ died: 1964
 era: 20th century
 nationality: American
 tags: [literature, catholicism, southern-literature, fiction, christianity]
-related: [percy-walker, faulkner-william, coles-robert, mccullers-carson]
+related: [percy-walker, faulkner-william, coles-robert, mccullers-carson, paley-grace]
 influenced_by: []
 influenced: [percy-walker, coles-robert]
 ---

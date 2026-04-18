@@ -7,7 +7,7 @@ died: 1967
 era: 20th century
 nationality: American
 tags: [literature, southern-gothic, existentialism, loneliness]
-related: [o-connor-flannery, faulkner-william, williams-tennessee, welty-eudora]
+related: [o-connor-flannery, faulkner-william, williams-tennessee, welty-eudora, paley-grace]
 influenced_by: [faulkner-william]
 influenced: []
 ---

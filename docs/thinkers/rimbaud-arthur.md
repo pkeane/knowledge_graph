@@ -7,9 +7,9 @@ died: 1891
 era: 19th century
 nationality: French
 tags: [literature, poetry, symbolism, modernism]
-related: [verlaine-paul, baudelaire-charles, mallarme-stephane, dylan-bob, ginsberg-allen]
+related: [verlaine-paul, baudelaire-charles, mallarme-stephane, dylan-bob, ginsberg-allen, smith-patti]
 influenced_by: [baudelaire-charles]
-influenced: [dylan-bob]
+influenced: [dylan-bob, smith-patti]
 ---
 
 # Arthur Rimbaud

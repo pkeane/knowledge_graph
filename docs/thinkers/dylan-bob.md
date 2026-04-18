@@ -6,9 +6,9 @@ born: 1941
 era: 20th–21st century
 nationality: American
 tags: [literature, poetry, american-thought]
-related: [guthrie-woody, leadbelly, kerouac-jack, ginsberg-allen, whitman-walt, rimbaud-arthur, king-mlk, smith-harry]
-influenced_by: [guthrie-woody, whitman-walt, rimbaud-arthur, kerouac-jack, ginsberg-allen, smith-harry]
-influenced: []
+related: [guthrie-woody, leadbelly, kerouac-jack, ginsberg-allen, whitman-walt, rimbaud-arthur, king-mlk, smith-harry, hurt-mississippi-john, smith-patti]
+influenced_by: [guthrie-woody, whitman-walt, rimbaud-arthur, kerouac-jack, ginsberg-allen, smith-harry, hurt-mississippi-john]
+influenced: [smith-patti]
 ---
 
 # Bob Dylan

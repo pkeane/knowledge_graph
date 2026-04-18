@@ -9,7 +9,7 @@ nationality: Russian
 tags: [literature, christianity, nonviolence, anarchism]
 related: [dostoevsky-fyodor, day-dorothy, king-mlk, merton-thomas, gandhi-mohandas]
 influenced_by: []
-influenced: [day-dorothy, king-mlk, gandhi-mohandas]
+influenced: [day-dorothy, king-mlk, gandhi-mohandas, saunders-george]
 ---
 
 # Leo Tolstoy

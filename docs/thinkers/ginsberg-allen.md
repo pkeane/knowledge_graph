@@ -7,9 +7,9 @@ died: 1997
 era: 20th century
 nationality: American
 tags: [literature, poetry, beat-generation, buddhism, american-thought, dissent]
-related: [kerouac-jack, ferlinghetti-lawrence, whitman-walt, blake-william, dylan-bob, rimbaud-arthur]
+related: [kerouac-jack, ferlinghetti-lawrence, whitman-walt, blake-william, dylan-bob, rimbaud-arthur, smith-patti]
 influenced_by: [whitman-walt, blake-william, williams-wc]
-influenced: [dylan-bob]
+influenced: [dylan-bob, smith-patti]
 ---
 
 # Allen Ginsberg

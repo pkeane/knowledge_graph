@@ -6,7 +6,7 @@ born: 1943
 era: 20th–21st century
 nationality: American
 tags: [literature, fiction, essay, theology, american-thought, christianity]
-related: [o-connor-flannery, percy-walker, emerson-rw, niebuhr-reinhold, tillich-paul]
+related: [o-connor-flannery, percy-walker, emerson-rw, niebuhr-reinhold, tillich-paul, saunders-george]
 influenced_by: []
 influenced: []
 ---

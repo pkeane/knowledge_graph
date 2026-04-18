@@ -7,7 +7,7 @@ died: 1991
 era: 20th century
 nationality: American
 tags: [american-thought, art, film]
-related: [lomax-alan, leadbelly, guthrie-woody, dylan-bob]
+related: [lomax-alan, leadbelly, guthrie-woody, dylan-bob, hurt-mississippi-john]
 influenced_by: []
 influenced: [dylan-bob]
 ---
